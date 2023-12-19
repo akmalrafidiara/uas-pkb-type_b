@@ -1,0 +1,1456 @@
+full_text,Label,predicted_label
+"['minimal', 'kl', 'gue', 'editin', 'cari', 'materinya', 'lah', 'ajg', 'udh', 'di', 'bagi', 'juga', 'tugas', 'per', 'materi', 'malah', 'kaga', 'di', 'cari', 'boro', 'boro', 'di', 'cari', 'pesan', 'ny', 'di', 'read', 'aja', 'kaga', 'babi', 'lo', 'anjing', 'beban', 'bnr', 'ðÿƒ', 'ijin', 'misuh', 'y']",Bully,Bully
+"['jamur', 'ðÿ', 'ngapain', 'sih', 'ikut', 'becky', 'ke', 'luar', 'negerimending', 'tiduran', 'di', 'rumah', 'sama', 'aku', 'sambil', 'maen', 'sama', 'anjing', 'kalau', 'kamu', 'pergi', 'pergi', 'terus', 'kapan', 'ada', 'waktu', 'sama', 'aku', 'yaaaaaaang', 'ðÿðÿ']",Bully,Bully
+"['susi', 'saha', 'anjing', 'btw', 'galang', 'sampe', 'sekarang', 'juga', 'masih', 'galangðÿ']",NoBully,NoBully
+"['gini', 'amat', 'jadi', 'tim', 'gede', 'pemegang', 'gelar', 'liga', 'inggris', 'keliatan', 'banget', 'kali', 'pada', 'syirik', 'nya', 'ke', 'emyu', 'apalagi', 'smal', 'club', 'itu', 'makan', 'tuh', 'fakta', 'anjing']",NoBully,NoBully
+"['lah', 'ini', 'anjing', 'lagi', 'ngetweet']",NoBully,NoBully
+"['gak', 'salah', 'sih', 'anjing', 'wkkwkwkwk']",NoBully,NoBully
+"['anjing', 'admin', 'kantor', 'pada', 'dibayarin', 'nonton', 'aespa', 'tot', 'iri', 'berat']",NoBully,NoBully
+"['tonjok', 'perut', 'dia', 'gw', 'cemburu', 'anjing']",NoBully,NoBully
+"['segala', 'salah', 'submit', 'anjing', 'anjing']",NoBully,NoBully
+"['mau', 'anak', 'anjing', 'pake', 'banget']",NoBully,NoBully
+"['bukan', 'masalah', 'percaya', 'rumor', 't', 'pi', 'tae', 'pasti', 'baklan', 'date', 'sama', 'cewek', 'ga', 'bakalan', 'sama', 'cowok', 'anjing', 'memang', 'mereka', 'yang', 'tolol', 'ngatain', 'tolol', 'bilang', 'tae', 'dating', 'women', 'tuh', 'langsung', 'pada', 'tantrum', 'jekicot', 'dating', 'bongo']",NoBully,Bully
+"['anjing', 'lah', 'anjing']",NoBully,NoBully
+"['gausah', 'bawa', 'army', 'anjing', 'gaada', 'sangkut', 'pautnya', 'orang', 'ini', 'antar', 'reveluv', 'blink', 'paling', 'gak', 'demen', 'lagi', 'ngomongin', 'apa', 'yang', 'dibahas', 'apa', 'ganyambung', 'bgt']",NoBully,NoBully
+"['marah', 'sm', 'si', 'anjing', 'sakit', 'hati', 'gara', 'si', 'anjg', 'pengin', 'peluk', 'hn', 'ngarep', 'sm', 'sencol', 'sencol', 'jan', 'jawab', 'aneh', 'ya', 'sencol', 'kasihan', 'hn', 'akðÿº']",NoBully,NoBully
+"['emg', 'kntol', 'dh', 'lu', 'smw', 'anjing']",NoBully,NoBully
+"['mampus', 'anjing']",NoBully,NoBully
+"['pagi', 'pagi', 'udah', 'ngeliat', 'kelakuan', 'solos', 'kontol', 'anjing', 'muka', 'lu', 'sini', 'gue', 'remes', 'remes', 'biar', 'kisut', 'anjing']",Bully,Bully
+['anjing'],NoBully,NoBully
+"['anjing', 'latto', 'ðÿ', 'kaget', 'aing']",NoBully,NoBully
+"['kek', 'anjing', 'kenapa', 'elu', 'bisa', 'saying', 'one', 'of', 'the', 'meanest', 'thing', 'to', 'me', 'tapi', 'giliran', 'gw', 'yg', 'ngomong', 'jahat', 'elu', 'koar', 'koar', 'ngatain', 'gw', 'baperan', 'sensi', 'ga', 'ngerti', 'jokes', 'gobloog', 'your', 'jokes', 'is', 'making', 'fun', 'of', 'my', 'physique', 'and', 'my', 'looks']",NoBully,NoBully
+"['result', 'carolina', 'day', 'minggu', 'september', 'â', 'â', 'shio', 'anjing', 'silahkan', 'isi', 'form', 'withdraw', 'bagi', 'yang', 'jp', 'salam', 'jp', 'jabartoto']",NoBully,NoBully
+"['yg', 'lbh', 'bajingan', 'justru', 'mrk', 'yg', 'menjadikan', 'anjing', 'china', 'jadi', 'polisi']",NoBully,NoBully
+"['result', 'carolina', 'day', 'minggu', 'september', 'â', 'â', 'shio', 'anjing', 'silahkan', 'isi', 'form', 'withdraw', 'bagi', 'yang', 'jp', 'salam', 'jp', 'jabartoto']",NoBully,NoBully
+"['cina', 'anjing']",NoBully,NoBully
+"['her', 'marah', 'and', 'literally', 'saying', 'one', 'of', 'the', 'meanest', 'thing', 'to', 'me', 'me', 'minta', 'maaf', 'berkali', 'kali', 'pdhl', 'bkn', 'gw', 'yg', 'salah', 'week', 'later', 'me', 'cmn', 'ngmong', 'jokes', 'lu', 'ga', 'lucu', 'anjing', 'gw', 'tersinggung', 'her', 'apa', 'sih', 'tot', 'sensi', 'amat', 'baperan', 'jokes', 'doang', 'lagian']",NoBully,NoBully
+"['st', 'of', 'al', 'boston', 'anjing', 'sebel', 'belagu', 'amatðÿµðÿ', 'giliran', 'di', 'ulti', 'sm', 'mew', 'ciut', 'lu', 'muntahhhâ']",Bully,Bully
+"['semoga', 'dikasih', 'mimpi', 'dikejar', 'anjing']",NoBully,NoBully
+"['tulis', 'aja', 'langsung', 'anak', 'arab', 'anjing', 'lama', 'banget', 'lo', 'ngespil', 'gitu', 'aja', 'nyet']",NoBully,NoBully
+"['sapa', 'nk', 'dgr', 'salakan', 'raja', 'anjing', 'bangsat', 'gila', 'sb', 'dedak', 'babi', 'nk', 'abisâpukimak', 'kau', 'sialâðÿðÿðÿðÿðÿðÿ']",NoBully,NoBully
+"['cina', 'anjing']",NoBully,NoBully
+"['gua', 'mutermuter', 'kayak', 'org', 'tolol', 'anjing', 'kayaknye', 'efek', 'earring', 'ðÿ']",NoBully,NoBully
+"['bangsat', 'anjing', 'bilang', 'aja', 'lu', 'gak', 'mau', 'belikan', 'gw']",NoBully,NoBully
+['anjing'],NoBully,NoBully
+"['anjing', 'gue', 'cemburu']",NoBully,NoBully
+"['gwe', 'wanti', 'wanti', 'banget', 'ya', 'anjing', 'biar', 'gak', 'brengsek', 'ternyata', 'gue', 'yang', 'kena', 'kontwol']",NoBully,NoBully
+"['betul', 'tinggal', 'dibersihkan', 'lagi', 'pula', 'salah', 'apa', 'juga', 'si', 'anjing', 'itu']",NoBully,NoBully
+"['gebrakan', 'apa', 'ini', 'gue', 'baru', 'bangun', 'anjing']",NoBully,NoBully
+"['aku', 'uninstal', 'monopolygo', 'sbelum', 'dia', 'kecoh', 'israel', 'lagi', 'aku', 'koyak', 'masa', 'spin', 'event', 'kek', 'bodoh', 'tudeal', 'bnyak', 'dia', 'bagi', 'ciput', 'sampai', 'dadu', 'habis', 'anjing', 'punye', 'game']",NoBully,NoBully
+"['pas', 'yg', 'terakhir', 'otomatis', 'ngomong', 'anjing', 'bangsat']",NoBully,NoBully
+"['tapi', 'sumpah', 'ini', 'lucu', 'banget', 'anjing', 'hahahhahahaha']",NoBully,NoBully
+"['result', 'brazil', 'night', 'pools', 'minggu', 'september', 'â', 'â', 'shio', 'anjing', 'silahkan', 'isi', 'form', 'withdraw', 'bagi', 'yang', 'jp', 'salam', 'jp', 'jabartoto']",NoBully,NoBully
+"['kaget', 'anjir', 'tiba', 'tiba', 'mantan', 'buka', 'pintu', 'kost', 'mana', 'cuman', 'pake', 'cd', 'anjing']",NoBully,NoBully
+"['gila', 'gue', 'kek', 'mama', 'muda', 'jam', 'anjing', 'gue', 'nangis', 'gara', 'kedinginanðÿšðÿ']",NoBully,NoBully
+"['konyol', 'anjing', 'harusnya', 'lo', 'hidup', 'bareng', 'badut', 'it', 'aja', 'anjir', 'dia', 'kan', 'ketawa', 'terus']",NoBully,NoBully
+"['gabisa', 'anjing', 'gue', 'gabisaðÿðÿðÿðÿðÿµðÿ']",NoBully,NoBully
+"['result', 'cambodia', 'night', 'pools', 'minggu', 'september', 'â', 'â', 'shio', 'anjing', 'silahkan', 'isi', 'form', 'withdraw', 'bagi', 'yang', 'jp', 'salam', 'jp', 'jabartoto']",NoBully,NoBully
+"['fak', 'anjing', 'hahahahahah']",NoBully,NoBully
+"['allah', 'tuh', 'adil', 'kadang', 'sesuatu', 'yg', 'hina', 'di', 'mata', 'manusia', 'bisa', 'berbeda', 'di', 'mata', 'allah', 'ingat', 'pernah', 'ada', 'seorang', 'pelacur', 'yg', 'masuk', 'surga', 'gegara', 'memberi', 'minum', 'anjing', 'sebelum', 'meninggal', 'kita', 'ga', 'pernah', 'tau', 'ending', 'setiap', 'orang', 'itu', 'bagaimana', 'jadi', 'jangan', 'asal', 'jadi', 'hakim', 'bagi', 'saudaramu']",NoBully,NoBully
+"['anjing', 'mau', 'ketemu', 'renjun', 'bangsat']",NoBully,NoBully
+"['gw', 'jg', 'anjing']",NoBully,NoBully
+"['anjing', 'gw', 'mau']",NoBully,NoBully
+"['galang', 'anjing', 'babi', 'bangsat', 'taik', 'kucing', 'lu', 'galang', 'anjing', 'gue', 'doain', 'tuh', 'kontol', 'gak', 'bisa', 'muncrat', 'lagi', 'taik']",NoBully,NoBully
+"['lu', 'mendingan', 'kawin', 'sama', 'anjing', 'aja', 'dah', 'nanti', 'anaknya', 'menggongong', 'ga', 'nangis']",Bully,Bully
+"['anjing', 'gue', 'udh', 'kaget']",NoBully,NoBully
+"['gada', 'yg', 'pduli', 'anjing']",NoBully,NoBully
+"['anjing', 'karina', 'secakep', 'ini', 'smlm']",NoBully,NoBully
+"['aduh', 'gw', 'stuck', 'disini', 'bermenit', 'menit', 'pedih', 'pasti', 'lu', 'suka', 'banget', 'yak', 'sampe', 'berjuang', 'segitunya', 'tapi', 'lu', 'bego', 'sih', 'huhuhu', 'anjing', 'mau', 'sama', 'gua', 'aja', 'gakðÿ', 'tapi', 'gua', 'burik', 'kak', 'part', 'duaðÿ']",NoBully,NoBully
+"['prediksi', 'togel', 'sydney', 'â', 'september', 'angka', 'main', 'colok', 'bebas', 'd', 'amp', 'top', 'd', 'top', 'd', 'top', 'd', 'shio', 'anjing', 'angka', 'twins', 'â', 'web', 'prediksi', 'flokitoto', 'â']",NoBully,NoBully
+"['obatku', 'anjing', 'gede', 'semua']",NoBully,NoBully
+"['bln', 'menhilang', 'dan', 'dtng', 'lagibginila', 'hukum', 'alam', 'datang', 'dan', 'prgdasar', 'anjinguda', 'capek', 'ma', 'tulus', 'dan', 'stia', 'sama', 'dia', 'mala', 'dia', 'hilang', 'pas', 'dtng', 'lagi', 'dgn', 'ucpan', 'manis', 'nya', 'anjinguda', 'enak', 'jomblo', 'meskipun', 'kesepianðÿœorang', 'yg', 'tinggalkan', 'sya', 'pasti', 'mnyesal', 'ðÿšðÿ']",NoBully,NoBully
+"['brengsek', 'lu', 'miya', 'gye', 'nangis', 'pagipagi', 'anjing']",NoBully,NoBully
+['anjing'],NoBully,NoBully
+"['anjing', 'gue', 'cape', 'cinta', 'sendri', 'gue', 'males', 'sama', 'dia', 'orng', 'gue', 'jadi', 'kesel', 'sumpah', 'gue', 'bete', 'prh', 'anjjjjjh']",NoBully,NoBully
+"['anjing', 'ketawa', 'bgt']",NoBully,NoBully
+"['tai', 'anjing']",NoBully,NoBully
+"['parah', 'anjing', 'parah', 'noooðÿðÿðÿðÿðÿðÿðÿðÿðÿðÿðÿ']",NoBully,NoBully
+"['terjerat', 'jaring', 'bayi', 'anjing', 'laut', 'diselamatkan', 'di', 'afsel']",NoBully,NoBully
+"['tau', 'anjing', 'kenapa', 'ya']",NoBully,NoBully
+"['tanyarl', 'kan', 'ada', 'tuh', 'namanya', 'nasi', 'kucing', 'meskipun', 'ga', 'pake', 'daging', 'kucing', 'kl', 'aku', 'jual', 'nmanya', 'nasi', 'anjing', 'boleh', 'ga', 'si', 'nama', 'aja', 'ga', 'pake', 'dging', 'anjing', 'beneran']",NoBully,NoBully
+"['bodoh', 'tolol', 'anjing', 'bangsat', 'goblok', 'ucap', 'diriku', 'kpd', 'diriku']",NoBully,NoBully
+"['hampir', 'juta', 'sebulan', 'cuma', 'buat', 'beli', 'kopi', 'doang', 'anjing', 'lah', 'pantes', 'agak', 'miskin', 'setiap', 'akhir', 'bulan']",NoBully,NoBully
+"['emang', 'anjing', 'baru', 'sadar', 'kh', 'u', 'ðÿ']",Bully,NoBully
+"['kontol', 'lu', 'anjing', 'bangsat', 'gw', 'belom', 'cair', 'dari', 'tip', 'malah', 'cepu', 'goblok']",NoBully,NoBully
+"['wekwan', 'anjing', 'emang']",NoBully,NoBully
+"['bangsat', 'baru', 'ijo', 'anjing', 'gausah', 'klakson', 'gak', 'bisa', 'naik', 'motor', 'belajar', 'dulu', 'anjing', 'tolol', 'bahayain', 'orang', 'anjing', 'rausah', 'ngebut', 'cok', 'berisik', 'knalpot', 'jamet', 'kabupaten', 'polisi', 'tidur', 'segede', 'ini', 'buat', 'apa', 'dah', 'ya', 'allah', 'kenapa', 'sih', 'orang', 'orang', 'bego', 'kaya', 'gini', 'dikasih', 'motor']",Bully,Bully
+"['anjing', 'banget', 'setiap', 'hari', 'minggu', 'kenapa', 'gampang', 'banget', 'bangun', 'pagi', 'giliran', 'hari', 'kerja', 'susah', 'banget', 'ampun']",NoBully,NoBully
+"['anjing', 'lu', 'hisung', 'cemburu', 'kekâï']",NoBully,NoBully
+"['kampret', 'gua', 'iri', 'banget', 'anjinggðÿ']",NoBully,NoBully
+"['gue', 'dari', 'tadi', 'fokus', 'nonton', 'bngt', 'sampe', 'mikirin', 'ini', 'd', 'apa', 'anjing', 'gue', 'jadi', 'dag', 'dig', 'dug', 'ser']",NoBully,NoBully
+"['anjing', 'kurap', 'lagi', 'lapar', 'ya']",NoBully,NoBully
+"['bacot', 'sia', 'ngentot', 'kalo', 'panas', 'mah', 'panas', 'aja', 'anjing']",NoBully,NoBully
+"['sicepat', 'bener', 'bener', 'ya', 'anjing', 'ekspedisi', 'sampah', 'dr', 'semua', 'ekspedisi', 'di', 'indonesia', 'cuma', 'si', 'cepat', 'aja', 'yg', 'lemotnya', 'bukan', 'maen', 'mana', 'barangnya', 'keburu', 'dipake', 'eh', 'ini', 'malah', 'cris', 'cros', 'segala', 'anjeng', 'anjengðÿðÿðÿðÿðÿðÿðÿðÿðÿðÿðÿðÿ']",NoBully,NoBully
+"['minimal', 'nanya', 'goblok', 'kalo', 'gatau', 'bukan', 'malah', 'jadi', 'bikin', 'indo', 'di', 'ban', 'lu', 'tolol', 'punya', 'otak', 'ga', 'di', 'pake', 'komunitas', 'negara', 'india', 'mah', 'kompak', 'bukan', 'malah', 'cepuin', 'negara', 'sendiri', 'babi', 'gua', 'baru', 'garap', 'round', 'ini', 'kontol', 'lu', 'anjing']",Bully,Bully
+"['babi', 'ternyata', 'ketauan', 'anjing', 'kalau', 'ngesave', 'video', 'orang', 'di', 'tiktok', 'ðÿ']",NoBully,NoBully
+"['minggu', 'juga', 'lonte', 'anjing', 'jalang']",Bully,Bully
+"['jilat', 'terus', 'sampe', 'ke', 'daki', 'kuku', 'buzzer', 'anjing', 'pemerintah', 'kasi', 'makan', 'anak', 'bini', 'lu', 'pake', 'uang', 'panas']",NoBully,NoBully
+"['ini', 'nder', 'yang', 'aku', 'baca', 'âœmisuh', 'pake', 'hangeul', 'aja', 'kali', 'ya', 'asu', 'kalian', 'jancuk', 'anak', 'setan', 'tai', 'anjing', 'babiâ']",NoBully,NoBully
+"['mahluk', 'apa', 'anjing', 'ituðÿ']",NoBully,NoBully
+"['blio', 'kan', 'tipe', 'orang', 'yang', 'kalo', 'orang', 'lain', 'nuding', 'blio', 'tu', 'blio', 'bodo', 'amat', 'kayak', 'anjing', 'menggonggong', 'kafilah', 'berlalu', 'tapi', 'kalo', 'sampe', 'nyentuh', 'anaknya', 'tu', 'berarti', 'lu', 'membangunkan', 'singa', 'tidur', 'ini', 'keadaan', 'udah', 'ga', 'enak', 'banget', 'sampe', 'ditegur', 'ama', 'orang', 'yang', 'ga', 'suka', 'marah', 'kayak', 'blio']",NoBully,NoBully
+"['emosi', 'emosi', 'bgt', 'anjing']",NoBully,NoBully
+"['anjing', 'jujur', 'ak', 'kaget', 'bgt', 'tadi', 'bacanyaðÿðÿ']",NoBully,NoBully
+"['oalah', 'anjing', 'ternyata', 'gajadi', 'cover', 'ðÿðÿðÿðÿðÿðÿ']",NoBully,NoBully
+"['anjing', 'gue', 'baru', 'bangun', 'semalem', 'sm', 'anak', 'gc', 'baru', 'ngomongin', 'buat', 'minnta', 'spil', 'something', 'sm', 'pakinsatang', 'ga', 'nyangka', 'lgsg', 'di', 'kabulin', 'sialan', 'mana', 'baru', 'ngomongin', 'ciuman', 'gemfot', 'juga', 'ðÿ']",NoBully,NoBully
+"['ga', 'ada', 'anjing', 'itu', 'becanda', 'doanb']",NoBully,NoBully
+"['wkwk', 'keluarga', 'anjing']",NoBully,NoBully
+"['kata', 'orang', 'kalo', 'kita', 'sering', 'ditempel', 'dan', 'dideketin', 'hewan', 'kayak', 'kucing', 'sama', 'anjing', 'random', 'artinya', 'aura', 'kita', 'positif', 'apa', 'auraku', 'positif', 'hm']",NoBully,NoBully
+"['mau', 'piara', 'anjing', 'husky']",NoBully,NoBully
+"['kmu', 'tu', 'lucu', 'tp', 'kaya', 'anjing']",NoBully,NoBully
+"['garagara', 'celeng', 'bikin', 'garis', 'seenaknya', 'anjing', 'masuk']",NoBully,NoBully
+"['wkwk', 'kalo', 'yang', 'ngejarnya', 'anjing', 'kan', 'takut']",NoBully,NoBully
+"['jla', 'anjing', 'jla', 'plis', 'bru', 'inget', 'kalo', 'nge', 'an', 'fol', 'kapi', 'rak', 'sih', 'mergo', 'kapi', 'rak', 'polbek', 'n', 'now']",NoBully,NoBully
+"['intel', 'anjing', 'bangsat', 'taik', 'babi', 'provokasi', 'busuk']",NoBully,NoBully
+"['keluarga', 'elu', 'anjing', 'kapir', 'monyetðÿðÿðÿ']",Bully,Bully
+"['prediksi', 'togel', 'leeds', 'â', 'september', 'angka', 'main', 'colok', 'bebas', 'd', 'amp', 'top', 'd', 'top', 'd', 'top', 'd', 'shio', 'anjing', 'angka', 'twins', 'â', 'web', 'prediksi', 'flokitoto', 'â']",NoBully,NoBully
+['anjing'],NoBully,NoBully
+"['orang', 'tua', 'kalo', 'udah', 'puber', 'kedua', 'memang', 'anjing', 'banget']",NoBully,NoBully
+"['allegri', 'anjing']",NoBully,NoBully
+"['bentukan', 'jijel', 'sama', 'jeno', 'dari', 'belakang', 'begini', 'anjing', 'gila', 'emg', 'perfect', 'body', 'bgtðÿðÿðÿðÿðÿðÿ']",NoBully,NoBully
+"['anjing', 'adam', 'gua', 'kesel', 'sama', 'lo', 'ðÿðÿðÿ', 'plis', 'semoga', 'ini', 'mimpinya', 'jefa', 'doangðÿðÿðÿ', 'sumpah', 'kesel', 'bgt', 'adam', 'pdahal', 'gua', 'di', 'pihak', 'lo', 'njir', 'ðÿðÿ', 'info', 'tampol', 'adam', 'dong', 'gua', 'kesel', 'sampai', 'nangis', 'ðÿðÿðÿ']",NoBully,NoBully
+"['happy', 'birthday', 'beautiful', 'anjing', 'happy', 'birthday', 'anji']",NoBully,NoBully
+"['iqbal', 'anjing']",NoBully,NoBully
+"['prediksi', 'togel', 'dewata', 'pools', 'â', 'september', 'angka', 'main', 'colok', 'bebas', 'd', 'amp', 'top', 'd', 'top', 'd', 'top', 'd', 'shio', 'anjing', 'angka', 'twins', 'â', 'web', 'prediksi', 'flokitoto', 'â']",NoBully,NoBully
+"['hahahah', 'ril', 'anjing']",NoBully,NoBully
+"['mimpi', 'ditunjuk', 'bu', 'etik', 'ngerjain', 'soal', 'matematika', 'di', 'depan', 'kelas', 'bangun', 'lngsng', 'lemes', 'anjingðÿ']",NoBully,NoBully
+"['gapapa', 'gue', 'happy', 'bgt', 'anjing', 'gue', 'gaboleh', 'sedih', 'pokonnya']",NoBully,NoBully
+"['wkwkwk', 'ketawa', 'banget', 'anjing', 'dulu', 'aja', 'ngatain', 'jm', 'masuk', 'trending', 'cuma', 'karena', 'ga', 'shipper', 'hadah', 'makan', 'noh', 'trending']",NoBully,NoBully
+"['please', 'gue', 'juga', 'cape', 'cape', 'bgt', 'anjing', 'bangsat', 'tai', 'babi', 'monyet']",NoBully,NoBully
+"['napa', 'si', 'babi', 'kok', 'malah', 'ovt', 'sama', 'cewe']",Bully,Bully
+"['babi', 'ga', 'ada', 'sopan', 'sopannya', 'lu']",Bully,Bully
+"['pen', 'culik', 'firfirnarak', 'maaak']",NoBully,NoBully
+"['hari', 'ini', 'aku', 'minum', 'susu', 'babi', 'ðÿðÿ']",NoBully,NoBully
+"['omg', 'jwjwkwkask']",NoBully,NoBully
+"['sumpah', 'anjing', 'punya', 'temen', 'slowrespon', 'bgt', 'babiiðÿ']",Bully,Bully
+"['uang', 'ada', 'hiburan', 'yang', 'tidak', 'ada', 'babi', 'memang']",NoBully,Bully
+"['thats', 'yah', 'ketahuan', 'babi']",NoBully,NoBully
+"['fak', 'yu', 'alternator', 'tu', 'ganyampe', 'knock', 'sampe', 'low', 'aja', 'swehit', 'hit', 'jadi', 'pas', 'reload', 'di', 'sampah', 'babi']",NoBully,NoBully
+"['nak', 'tgk', 'gak', 'babi']",NoBully,NoBully
+"['wkwkwkwk', 'gapapa', 'aku', 'juga', 'star', 'soalnya', 'gak', 'kuat', 'bzir', 'coppelius', 'babi']",NoBully,NoBully
+"['gondo', 'sm', 'babi', 'lt']",Bully,Bully
+"['ðÿœ', 'hbd', 'ciize', 'ðÿ']",NoBully,NoBully
+"['walaupun', 'cuma', 'sebagai', 'fans', 'bukan', 'faen', 'read', 'gun', 'atp', 'ðÿœ', 'jujur', 'ngerasa', 'seneng', 'banget', 'sebagai', 'babi', 'berasa', 'dihargai', 'banget', 'sama', 'offjum', 'apaapa', 'pasti', 'selalu', 'bawa', 'babi', 'makasih', 'banyak', 'ya', 'offjum', 'udah', 'selalu', 'inget', 'babi', 'amp', 'selalu', 'menghargai', 'keberadaan', 'babi', 'ðÿºðÿ']",NoBully,NoBully
+"['babi', 'smua']",NoBully,NoBully
+"['aku', 'penat', 'lah', 'babi']",NoBully,NoBully
+"['goblok', 'natamu', 'aku', 'wes', 'sen', 'iki', 'loh', 'panas', 'banget', 'babi', 'gw', 'udah', 'minggir', 'anjing', 'kalau', 'ada', 'mobil', 'klakson', 'dsri', 'belakang', 'huhu', 'tai', 'kena', 'jalan', 'berlubang', 'asu', 'nyapose', 'banter', 'banter', 'kabeh', 'ki', 'yaallah', 'anginne', 'banter', 'men', 'nyanyi', 'mobil', 'belajaran', 'ya', 'lu', 'silau', 'men']",NoBully,NoBully
+"['babi', 'orang', 'orang', 'pada', 'pacaran', 'real', 'gue', 'jg', 'mw']",NoBully,NoBully
+"['lo', 'babi', 'gahar']",Bully,Bully
+"['congratulations', 'namu']",NoBully,NoBully
+"['babi', 'lo', 'smua']",NoBully,NoBully
+"['dimana', 'nya', 'kak']",NoBully,Bully
+"['zona', 'dimana', 'kak', 'aku', 'plaza', 'tenggara', 'jauh', 'y']",NoBully,NoBully
+"['babi', 'cuma', 'mau', 'ngetap', 'keluar', 'doanggðÿðÿðÿµðÿðÿðÿµðÿðÿðÿµðÿ']",Bully,Bully
+"['musnah', 'lo', 'bajingan', 'tolol', 'bego', 'monyet', 'bangsat', 'babi']",NoBully,Bully
+"['lu', 'ngejek', 'banget', 'babi', 'ðÿðÿðÿðÿµðÿðÿµðÿðÿµðÿðÿµðÿ']",NoBully,NoBully
+"['hai', 'kak', 'ini', 'dimana', 'ya']",NoBully,NoBully
+['nuhuh'],NoBully,NoBully
+"['mamah', 'berantem', 'sama', 'kaka', 'gara', 'gara', 'mamah', 'bilang', 'sabun', 'cuci', 'tuh', 'yg', 'ukuran', 'paling', 'habis', 'hari', 'kaka', 'gue', 'di', 'komporin', 'sama', 'sepupu', 'katanya', 'mamah', 'bilang', 'kaka', 'gue', 'numpang', 'gak', 'beliin', 'sabun', 'wkwkwk', 'sekarang', 'nyokap', 'gue', 'jantungnya', 'kumat', 'dan', 'kaka', 'gue', 'kek', 'ngerasa', 'bersalah', 'gitu', 'tai']",NoBully,NoBully
+"['anjir', 'lah', 'niat', 'ngerjain', 'peta', 'malah', 'gabisa', 'terus', 'reclassify', 'eror', 'terus', 'babi']",NoBully,NoBully
+"['kocak', 'emang', 'ðÿ']",NoBully,Bully
+"['semangat', 'bg', 'dikit', 'lg', 'lucu']",Bully,Bully
+"['makasih', 'lucu', 'tapi', 'kenapa', 'harus', 'babi', 'sihðÿâðÿ']",NoBully,NoBully
+"['alah', 'pepek', 'lu', 'itu', 'host', 'kecil', 'tapi', 'problematik', 'nya', 'parah', 'dri', 'dulu', 'juga', 'play', 'victim', 'banget', 'babi']",NoBully,NoBully
+"['cakep', 'bgt', 'anjir', 'jgn', 'nyenggol', 'hati', 'comelku', 'babi', 'huf', 'maaf', 'krusinh', 'trs', 'soalnya', 'ak', 'mw', 'nabung', 'anjir', 'lah', 'apa', 'mngkin']",NoBully,NoBully
+"['pa', 'cahyo', 'tuh', 'enak', 'ngajarinnya', 'soalnya', 'ketawa', 'ketiwi', 'tp', 'gabisa', 'priv', 'babi']",NoBully,NoBully
+"['jlek', 'bgt', 'babi', 'nangis', 'di', 'busway', 'siang', 'siang']",NoBully,NoBully
+"['jadilah', 'yg', 'luar', 'biasa', 'krn', 'yg', 'biasa', 'itu', 'sudah', 'biasa']",NoBully,NoBully
+"['pada', 'milih', 'babiiðÿðÿ']",NoBully,NoBully
+"['walah', 'babi', 'wowowkkwkwk']",NoBully,NoBully
+"['ada', 'kami', 'dc', 'nya', 'serem', 'banget', 'temen', 'gue', 'pakai', 'ada', 'kami', 'sampai', 'nelfon', 'orang', 'tuanya', 'dan', 'di', 'makimaki', 'kek', 'babi', 'dc', 'nya', 'anjir', 'mana', 'ngancem', 'pula']",NoBully,NoBully
+"['morning', 'emng', 'jaekyung', 'kontol', 'babi', 'emng']",NoBully,NoBully
+"['krl', 'manda', 'foto']",NoBully,NoBully
+"['hari', 'ini', 'pas', 'tahun', 'aku', 'sama', 'kamu', 'heheh']",NoBully,NoBully
+"['capeâ', 'ngerapihin', 'lupa', 'di', 'save', 'babi']",NoBully,NoBully
+"['babiiðÿðÿðÿ', 'makasih', 'udah', 'buat', 'gw', 'ketawa']",NoBully,NoBully
+"['anjing', 'axis', 'tai', 'beli', 'paket', 'suka', 'suka', 'rebu', 'gb', 'yang', 'ke', 'isi', 'gb', 'doang', 'bangsat', 'sehari', 'doang', 'ini', 'mah', 'babiiðÿ', 'ðÿ', 'ðÿ']",NoBully,NoBully
+"['babi', 'baru', 'tidur', 'sebentar', 'udh', 'kena', 'nightmare', 'ðÿðÿ']",NoBully,NoBully
+"['ya', 'ga', 'adaðÿjgn', 'lgsg', 'diulti', 'gitulah', 'babi']",NoBully,NoBully
+"['bangsat', 'anjing', 'fuck', 'puki', 'badjingan', 'aish', 'shibal', 'babi', 'taik', 'monyed']",NoBully,NoBully
+"['otak', 'anjg', 'keluar', 'dehblo', 'anjg', 'bangsat', 'bencik', 'hgt', 'gue', 'kenjaku', 'babi']",NoBully,NoBully
+"['gak', 'pernah', 'takut', 'buat', 'se', 'jatuh', 'cinta', 'sama', 'og', 'sampe', 'bangga', 'bangt', 'jadi', 'babi', 'kek', 'diperhatiin', 'ortu', 'gitu', 'loh', 'of', 'si', 'paling', 'terang', 'terangan', 'dan', 'gun', 'si', 'keliatan', 'cuek', 'aslinya', 'diem', 'perhatian', 'yang', 'ditakutin', 'disini', 'diri', 'sendiri', 'yang', 'berubahninggalin', 'bukan', 'offgun', 'ðÿž']",NoBully,NoBully
+['bagi'],NoBully,NoBully
+"['tb', 'tb', 'nt', 'deket', 'sm', 'siapa', 'anjg', 'ga', 'cerita', 'babi']",NoBully,NoBully
+"['emang', 'boleh', 'se', 'babi', 'ini']",NoBully,NoBully
+"['aku', 'pernah', 'nyolong', 'pialaku', 'sendiri', 'buat', 'bawa', 'pulang', 'karena', 'pas', 'dipajang', 'di', 'sekolah', 'malah', 'nggak', 'keurus', 'ðÿ']",NoBully,NoBully
+"['nyari', 'referensi', 'jurnal', 'kek', 'babi', 'susahnya']",NoBully,NoBully
+"['babi', 'bangetlah', 'si', 'jere', 'woargh', 'ngucapin', 'serapah', 'pun', 'nggak', 'bakal', 'puas', 'gua', 'ngamoknyaðÿðÿ', 'real', 'gue', 'aja', 'udah', 'kehabisan', 'sumpah', 'serapah', 'buat', 'dia', 'ðÿâðÿðÿâðÿ']",NoBully,NoBully
+"['babi', 'ngakak', 'bgt']",NoBully,NoBully
+"['gue', 'ngingetin', 'ya', 'babi', 'ini', 'sbnrnya', 'gue', 'pengen', 'ngomong', 'dancok', 'loh', 'gue', 'cuma', 'ngingetin', 'kontol', 'gue', 'gedeg', 'banget', 'sama', 'lu', 'sumpah', 'disabarim', 'ga', 'ngerti', 'banget', 'anjing', 'malah', 'makin', 'jadi', 'ngeselin', 'nya']",NoBully,NoBully
+"['tau', 'ah', 'mls', 'kalah', 'mulu', 'babi']",NoBully,NoBully
+"['gua', 'blm', 'sempet', 'anjir', 'pas', 'gua', 'mau', 'nyari', 'malah', 'udh', 'gk', 'bisa', 'babi', 'bngt']",NoBully,NoBully
+"['kwidbeywkwiwkwk', 'babi']",NoBully,NoBully
+['jaiwkwjsowksnssjiw'],NoBully,NoBully
+"['ðÿðÿðÿðÿðÿðÿðÿ', 'bambam', 'solo', 'concert', 'in', 'mnl']",NoBully,NoBully
+['bajinganðÿ'],Bully,Bully
+['bajingan'],Bully,Bully
+"['ini', 'bajingan', 'tolol', 'dongo', 'banget', 'emang', 'nya', 'di', 'dunia', 'ini', 'rocky', 'gerung', 'doang', 'contoh', 'ibu', 'kau', 'itu', 'kan', 'pelacur', 'kampung', 'kan', 'namanya', 'pelacur', 'kampung', 'banyakbukan', 'ibu', 'mu', 'doang', 'tul', 'gak', 'nyet']",Bully,Bully
+"['masaallah', 'amin', 'semoga', 'para', 'bajingan', 'tolol', 'sadar', 'ya']",NoBully,Bully
+"['yg', 'lbh', 'bajingan', 'justru', 'mrk', 'yg', 'menjadikan', 'anjing', 'china', 'jadi', 'polisi']",NoBully,NoBully
+"['omong', 'kosong', 'kayak', 'ini', 'nggak', 'udh', 'dipercaya', 'cukup', 'pinokio', 'yg', 'jdi', 'buktinya']",NoBully,NoBully
+"['dasar', 'lonte', 'bajingan']",Bully,Bully
+"['ketika', 'pulau', 'rempang', 'sedang', 'berduka', 'kedua', 'orang', 'in', 'dan', 'kemana', 'aja', 'kok', 'hilang', 'bagaikan', 'di', 'telan', 'bumi', 'apa', 'udah', 'di', 'kubur', 'masih', 'ngepet', 'pindah', 'cari', 'sasaran', 'lain', 'untuk', 'bisnis', 'investorx', 'cobak', 'tanya', 'sama', 'bajingan', 'tolol', 'itu']",Bully,Bully
+"['malah', 'nyalain', 'tiktok', 'anjlok', 'itu', 'semenjak', 'lu', 'ada', 'daya', 'beli', 'org', 'pada', 'turun', 'planga', 'plongo']",NoBully,NoBully
+"['bulan', 'lagi', 'kamu', 'akan', 'tetap', 'dungu', 'dan', 'menyandang', 'gelar', 'bajingan', 'tolol', 'ðÿ']",NoBully,Bully
+"['ini', 'nya', 'apa', 'bajingan']",NoBully,Bully
+"['dongo', 'cari', 'uang', 'halal', 'ngerti', 'gak', 'benar', 'bajingan', 'tolol', 'nih', 'orang']",Bully,Bully
+"['kades', 'dan', 'pejabat', 'kelurahan', 'sebetulnya', 'itu', 'representasi', 'suara', 'rakyat', 'namun', 'itu', 'harus', 'dilakukan', 'secara', 'adil', 'saat', 'mengambil', 'kesimpulan', 'aspirasi', 'warganya', 'karena', 'pasti', 'ada', 'pro', 'kontra', 'jgn', 'sampai', 'yg', 'kontra', 'teprovokasi', 'kelompok', 'bajingan', 'tolol', 'aman', 'deh']",NoBully,NoBully
+"['bajingan', 'tolol', 'mau', 'jelasin', 'apa', 'itu', 'komunis', 'hanya', 'orang', 'komunis', 'yg', 'bersemangat', 'menjelaskan', 'apa', 'itu', 'komunis', 'dongo', 'banget', 'nih', 'orang', 'kena', 'jebakan', 'batman', 'gwe']",Bully,Bully
+"['ðÿðÿðÿbuzzerppki', 'munafik', 'bajingan', 'tolol', 'cebong', 'penjilat', 'bangsa', 'dua', 'kader', 'abubu', 'in', 'gk', 'bakalan', 'mengalahkan', 'pak', 'anis', 'karna', 'ganjar', 'masih', 'punya', 'kasus', 'korupsi', 'ktp', 'dan', 'wowok', 'para', 'pendukungx', 'udah', 'kecewa', 'munafik']",Bully,Bully
+"['terlalu', 'menginjaknginjak', 'diri', 'gue', 'selalu', 'nganggep', 'gue', 'remeh', 'dan', 'selalu', 'ngejadiin', 'gue', 'sasaran', 'empuk', 'buat', 'mereka', 'tindas', 'brengsek', 'bajingan', 'tolol', 'manusia', 'pantek', 'itu']",NoBully,NoBully
+"['kalaupun', 'hukum', 'dunia', 'dan', 'hukum', 'alam', 'masih', 'kebal', 'buat', 'camat', 'dan', 'pelaku', 'bajingan', 'ini', 'semoga', 'di', 'akhirat', 'nanti', 'bakal', 'terbalas', 'telak', 'yang', 'kuat', 'dan', 'tabah', 'ya', 'pak', 'samsul', 'allah', 'lagi', 'naikin', 'derajat', 'dan', 'martabat', 'keluarga', 'bapak', 'setinggi', 'langit', 'udah', 'kacau', 'sistem', 'hukum', 'di', 'negara', 'ini', 'ðÿ']",Bully,Bully
+"['huft', 'aku', 'gak', 'mengajarkan', 'km', 'untuk', 'mencintai', 'sagitarius', 'bajingan']",NoBully,NoBully
+"['temen', 'lama', 'gue', 'yang', 'brengsek', 'bajingan']",NoBully,Bully
+"['bukti', 'negeri', 'ini', 'dikuasai', 'oleh', 'para', 'bajingan']",Bully,Bully
+"['dasar', 'bajingan', 'tolol']",Bully,Bully
+"['jadi', 'emang', 'bener', 'ya', 'cewek', 'lebih', 'suka', 'cowok', 'yang', 'bajingan', 'bilang', 'dia', 'baik', 'banget', 'tapi', 'pengen', 'ninggalin', 'kan', 'kocak', 'anjgðÿ', 'giliran', 'udah', 'disakitin', 'cowok', 'baru', 'lah', 'koar', 'cowok', 'mana', 'yang', 'harus', 'aku', 'percaya', 'ðÿ']",NoBully,NoBully
+"['cuma', 'omdo', 'bp', 'presiden', 'ri', 'joäo', 'widodo', 'kepala', 'negara', 'terpopuler', 'di', 'dunia', 'diakui', 'oleh', 'tetangga', 'negara', 'dekatnya', 'sebagai', 'kepala', 'negara', 'yang', 'adem', 'dermawan', 'padahal', 'segelintir', 'orang', 'warga', 'negaranya', 'yang', 'cerdas', 'pengeritik', 'pedas', 'sampai', 'menyebut', 'bajingan', 'tetap', 'tenang']",NoBully,NoBully
+"['bajingan', 'tolol']",Bully,Bully
+['bajingan'],Bully,Bully
+"['kenyataan', 'dan', 'realita', 'hidup', 'memang', 'pedih', 'dan', 'bajingan', 'ðÿ']",NoBully,NoBully
+"['bajingan', 'cakep', 'bngt', 'winwin']",NoBully,NoBully
+"['aura', 'si', 'emang', 'negatif', 'bajingan', 'dan', 'munafik', 'melekat', 'pd', 'diri', 'si', 'anies']",Bully,Bully
+"['yang', 'kerja', 'bajingan', 'tolol', 'korup']",Bully,Bully
+"['bajingan', 'tolol', 'yg', 'ga', 'peduli', 'rkyattanah', 'd', 'rampas', 'rajanya', 'pesta', 'porakaya', 'jaman', 'kompeni', 'blanda']",Bully,Bully
+"['namanya', 'juga', 'kadrun', 'munafik', 'culas', 'dan', 'bajingan', 'adalah', 'karakternya', 'sama', 'dgn', 'kader']",Bully,Bully
+"['yang', 'kerja', 'bajingan', 'tolol']",Bully,Bully
+"['ngapain', 'kamu', 'pelet', 'bajingan', 'kayak', 'begitu']",NoBully,NoBully
+"['proyek', 'rela', 'dijebak', 'hutang', 'sm', 'kakak', 'besar', 'emang', 'bajingan', 'tolol', 'awal', 'di', 'ajak', 'kakak', 'bsr', 'naik', 'kc', 'di', 'negaranya', 'bikin', 'proyek', 'yg', 'ktnya', 'btob', 'gak', 'pake', 'jaminan', 'apbn', 'bunga', 'hutang', 'jepang', 'hanya', 'anehnya', 'skrg', 'jd', 'bunga', 'molorbengkak', 'koq', 'gak', 'didenda', 'finalty']",NoBully,NoBully
+"['bajingan', 'malah', 'jadi', 'satuðÿµ']",Bully,Bully
+"['sumpah', 'ya', 'nunggu', 'kabar', 'kontraknya', 'blackpink', 'rasanya', 'kyk', 'waktu', 'gue', 'dulu', 'nunggu', 'kabar', 'mashidam', 'keluar', 'grup', 'ðÿðÿ', 'tiap', 'hari', 'ovt', 'mikir', 'kemungkinan', 'terburuk', 'yg', 'pd', 'akhirnya', 'beneran', 'kejadian', 'cuma', 'emang', 'ditundatunda', 'aja', 'ðÿðÿ', 'kenapa', 'lagi', 'yg', 'nyakitin', 'gue', 'tuh', 'si', 'bajingan', 'satu', 'itu', 'sih']",NoBully,NoBully
+"['baca', 'alhamdulillahkan', 'dah', 'dianggap', 'calon', 'surga', 'bila', 'mo', 'dimaduupsðÿš']",NoBully,NoBully
+"['mmg', 'bajingan', 'sekali', 'rejim', 'si', 'jokowi']",NoBully,NoBully
+"['bajingan', 'emang', 'merasa', 'didzalimi', 'padahal', 'dia', 'yg', 'dzalim']",NoBully,NoBully
+"['para', 'bajingan', 'lagi', 'ngabisin', 'duit', 'rakyat']",Bully,Bully
+"['baja', 'bajingan', 'ðÿðÿðÿ']",Bully,Bully
+"['no', 'komenmo', 'jdi', 'kacung', 'oligarki', 'ke', 'mo', 'jdi', 'artis', 'goblok', 'keitu', 'sih', 'derita', 'lo', 'masa', 'bodoh', 'gue', 'ttp', 'pilih', 'aniesðÿ']",NoBully,NoBully
+"['dh', 'bngun', 'atw', 'blm', 'tdur', 'ksian', 'km', 'psti', 'mikirin', 'bajingan', 'itu', 'yh']",NoBully,NoBully
+"['bajingan', 'tolol', 'mau', 'luh', 'apa', 'sih', 'nyet', 'elu', 'menghina', 'pilihan', 'orang', 'nyet', 'kalo', 'elu', 'benci', 'agama', 'pindah', 'ke', 'tiongkok', 'komunis', 'aja', 'disana', 'banyak', 'komunitas', 'luh', 'hidup', 'lu', 'dipersulit', 'elu', 'gak', 'suka', 'agama', 'malah', 'tinggal', 'di', 'indo', 'elu', 'bisa', 'mati', 'berdiri', 'kiri', 'kanan', 'semua', 'beragama']",Bully,Bully
+"['bajingan', 'tolol', 'mau', 'luh', 'apa', 'sih', 'nyet', 'elu', 'menghina', 'pilihan', 'orang', 'nyet', 'kalo', 'elu', 'benci', 'agama', 'pindah', 'ke', 'tiongkok', 'komunis', 'aja', 'disana', 'banyak', 'komunitas', 'luh', 'hidup', 'lu', 'dipersulit', 'elu', 'gak', 'suka', 'agama', 'malah', 'tinggal', 'di', 'indo', 'elu', 'bisa', 'mati', 'berdiri', 'kiri', 'kanan', 'semua', 'beragama']",Bully,Bully
+"['bajingan', 'tolol', 'mau', 'luh', 'apa', 'sih', 'nyet', 'elu', 'menghina', 'pilihan', 'orang', 'nyet', 'kalo', 'elu', 'benci', 'agama', 'pindah', 'ke', 'tiongkok', 'komunis', 'aja', 'disana', 'banyak', 'komunitas', 'luh', 'hidup', 'lu', 'dipersulit', 'elu', 'gak', 'suka', 'agama', 'malah', 'tinggal', 'di', 'indo', 'elu', 'bisa', 'mati', 'berdiri', 'kiri', 'kanan', 'semua', 'beragama']",Bully,Bully
+"['konten', 'konten', 'bajingan', 'seperti', 'yg', 'membuat', 'cewe', 'nuntut', 'effort', 'berlebihan', 'ke', 'pasangannya', 'noh', 'nikahin', 'aja', 'noh', 'gampar', 'gampar', 'korea', 'sambil', 'halu']",NoBully,NoBully
+"['mka', 'banteng', 'cuma', 'modal', 'congor', 'kita', 'lihat', 'saja', 'alasan', 'apa', 'yg', 'akan', 'dijelaskan', 'pd', 'rakyat', 'bhw', 'dalam', 'satu', 'keluarga', 'tdk', 'boleh', 'ada', 'beda', 'partai', 'pedeipeh', 'mungkin', 'mak', 'banteng', 'yg', 'dipecat', 'sbg', 'ketua', 'dewan', 'pengarah', 'brin', 'dan', 'bpip', 'preman', 'di', 'partainya', 'kembali', 'jadi', 'rampok', 'kalau', 'miskin']",NoBully,NoBully
+"['baru', 'tahu', 'apa', 'tujuannya', 'hengkang', 'dari', 'koalisi', 'perubahan', 'ternyata', 'hny', 'bs', 'menjilat', 'penguasa', 'anak', 'mami', 'gak', 'mungkin', 'berani', 'melawan', 'penguasa', 'emang', 'berani', 'bisnisnya', 'dihambat', 'bantuan', 'suntikan', 'dana', 'perbankan', 'sot', 'si', 'wowo', 'dulu']",NoBully,NoBully
+"['bajingan', 'tolol', 'penipu', 'raut', 'muka', 'tanpa', 'rasa', 'bersalah', 'tanpa', 'merasa', 'berdosa', 'pemain', 'kawakan']",Bully,Bully
+"['bajingan', 'ah', 'rony', 'kesel']",NoBully,NoBully
+"['wowo', 'sdh', 'thn', 'puasa', 'kekuasaan', 'sejak', 'mertuanya', 'lengser', 'makanya', 'mengemis', 'dan', 'menghiba', 'pd', 'si', 'bajingan', 'tolol', 'utk', 'dpt', 'jabatan', 'menteri', 'tak', 'perduli', 'pendukungnya', 'dulu', 'kecewa', 'atas', 'sikapnya', 'manusia', 'begini', 'mau', 'dipercaya', 'jadi', 'pemimpin', 'lbh', 'bahaya', 'dari', 'mak', 'banteng', 'menghabiskan', 'asset', 'nkri']",Bully,Bully
+"['demi', 'sebuah', 'keuntungan', 'yg', 'sdh', 'diterima', 'sebelumnya', 'lord', 'opung', 'dan', 'si', 'bajingan', 'tolol', 'tak', 'perduli', 'dg', 'rekomendasi', 'komnas', 'ham', 'justru', 'mrk', 'merasa', 'tlh', 'melakukan', 'upaya', 'membangun', 'daerah', 'rempang', 'sbg', 'psn', 'dg', 'landasan', 'peraturan', 'yg', 'dibuat', 'tanpa', 'melibatkan', 'stakeholder', 'lain', 'merekalah', 'banditnya']",NoBully,NoBully
+"['bajingan', 'ðÿ']",Bully,Bully
+"['macam', 'sanusi', 'termasuk', 'âœbajingan', 'tololâ']",Bully,Bully
+"['jongos', 'bajingan', 'tolol', 'ngamukâ', 'kumat', 'epilepsiðÿªðÿðÿªðÿðÿª']",Bully,Bully
+"['knp', 'lo', 'ga', 'membuka', 'mata', 'sih', 'yg', 'jelas', 'jelas', 'cinta', 'gua', 'kan', 'elo', 'bajingan', 'masa', 'lalu', 'lo', 'kampret', 'fak', 'masi', 'aja', 'di', 'harepin', 'liat', 'noh', 'gua', 'rela', 'ninggalin', 'masa', 'lalu', 'gua', 'demi', 'siapa', 'demikian', 'taik', 'bukan', 'demi', 'lo', 'lah', 'bangsat']",NoBully,NoBully
+"['ini', 'semua', 'merupakan', 'hasil', 'lobby', 'lord', 'opung', 'ke', 'china', 'dia', 'tipu', 'bangsanya', 'sendiri', 'dg', 'alasan', 'investasi', 'pabrik', 'kaca', 'lord', 'opung', 'lah', 'otak', 'segala', 'kekacauan', 'di', 'negeri', 'ini', 'tapi', 'dia', 'pintar', 'memanfaatkan', 'si', 'bajingan', 'tolol', 'seolah', 'dia', 'hny', 'mendapat', 'amanat', 'dan', 'pura', 'bekerja', 'dg', 'penuh', 'tgjwb']",NoBully,NoBully
+"['kadang', 'pengen', 'mati', 'muda', 'karena', 'mikir', 'no', 'point', 'in', 'living', 'tapi', 'gua', 'kasian', 'sama', 'nyokap', 'gua', 'kalo', 'gua', 'ga', 'ada', 'pasti', 'dia', 'yang', 'bakalan', 'mikul', 'semuanya', 'sendirian', 'karena', 'semua', 'orang', 'di', 'keluarga', 'gua', 'selain', 'dia', 'pada', 'bajingan', 'atau', 'lazy', 'pos']",NoBully,NoBully
+"['emang', 'berani', 'pedeipeh', 'bertindak', 'pengen', 'gak', 'dapat', 'project', 'pemerintah', 'ntar', 'preman', 'di', 'partainya', 'mau', 'dikasih', 'makan', 'apa', 'kalau', 'tdk', 'lagi', 'dpt', 'sumbangan', 'jokowi']",NoBully,NoBully
+"['opet', 'kok', 'bajingan']",NoBully,NoBully
+"['bajingan', 'mana', 'lagi', 'ini', 'yg', 'bikin', 'ebi', 'tolil']",NoBully,NoBully
+"['bajingan', 'hampir', 'kegocek', 'kaya', 'gamungkin', 'mana', 'prediksi', 'kaga', 'ade', 'tuh', 'subtitle', 'engkor']",NoBully,NoBully
+"['bajingan', 'fc', 'hold', 'on', 'tight', 'better', 'things', 'gua', 'burik', 'taik']",NoBully,NoBully
+"['lebih', 'baik', 'memperbaiki', 'daripada', 'mencari', 'pengganti', 'ðÿ']",NoBully,NoBully
+"['sdh', 'penjilat', 'ternyata', 'penghianat', 'bangsa', 'juga', 'banggakan', 'aseng', 'rendahkan', 'anak', 'bangsa', 'dasar', 'bajingan', 'tolol']",Bully,Bully
+"['nya', 'gk', 'seh', 'mas']",Bully,Bully
+['bajingan'],Bully,Bully
+"['lah', 'goblik', 'kenapa', 'kmu', 'pengen', 'dipilih', 'dan', 'dinikahi', 'oleh', 'cowok', 'red', 'flag', 'dlm', 'hal', 'ini', 'kmu', 'klo', 'pinter', 'sebenernya', 'lebih', 'beruntung', 'dripada', 'pacarnya', 'pacarnya', 'gak', 'tau', 'apa', 'nikah', 'sama', 'cowok', 'bajingan']",NoBully,NoBully
+"['makin', 'lama', 'makin', 'bajingan', 'juga', 'ya', 'ini', 'lagu']",NoBully,Bully
+"['wowo', 'kan', 'sdh', 'jelaskan', 'bhw', 'selama', 'thn', 'belakangan', 'tdk', 'mendapatkan', 'dukungan', 'dari', 'perbankan', 'utk', 'seluruh', 'bisnisnya', 'makanya', 'dia', 'terima', 'pemberian', 'jokowi', 'sbg', 'menteri', 'hny', 'utk', 'menyelamatkan', 'bisnisnya', 'agar', 'dapat', 'suntikan', 'dana', 'bank', 'sekarang', 'rakyat', 'baru', 'tahu', 'tujuan', 'si', 'wowo', 'utk', 'berkuasa']",NoBully,NoBully
+"['kalo', 'bsk', 'emang', 'anakanak', 'sm', 'pada', 'ke', 'fxkwangya', 'store', 'gimana', 'yaâ', 'gua', 'pts', 'senin', 'nya', 'bajingan']",NoBully,NoBully
+"['bajingan', 'tololanak', 'lonte', 'banteng', 'komunis', 'ngapain', 'luh', 'nyuruh', 'orang', 'takbir', 'kelaperan', 'ya', 'ente', 'kerja', 'makanyajangan', 'males', 'cuci', 'piring', 'kek', 'nyangkul', 'kek', 'kerjaan', 'banyak', 'elu', 'malah', 'pilih', 'uang', 'haram', 'dongo', 'banget']",Bully,Bully
+"['luhut', 'biang', 'perampasan', 'luhut', 'biang', 'penjegalan', 'luhut', 'bajingan', 'preman']",Bully,Bully
+"['bajingan', 'tolol', 'ini', 'orang', 'iri', 'sama', 'kita', 'mo', 'dukung', 'anies', 'tapi', 'malu', 'karna', 'ni', 'orang', 'banyak', 'dosa', 'maling', 'uang', 'rakyat']",Bully,Bully
+"['elu', 'bahas', 'uang', 'mulu', 'kelaperan', 'luh', 'nyet', 'bajingan', 'tololkalo', 'gk', 'punya', 'duit', 'kerja', 'lah', 'bukan', 'nge', 'buzzerp']",Bully,Bully
+"['gue', 'marah', 'bgt', 'ya', 'anjg', 'wekwan', 'baju', 'anakâ', 'knp', 'bisa', 'itu', 'lagi', 'bajingan']",NoBully,NoBully
+"['bajingan', 'tolol', 'dongo', 'banget', 'pasti', 'mama', 'kau', 'pelacur', 'di', 'pinggir', 'jalan', 'ya', 'kata', 'nya', 'jangan', 'sara', 'eeebajingan', 'tolol', 'menghina', 'agama', 'mulu', 'ciri', 'komunis', 'pkidia', 'yg', 'saratapi', 'dia', 'tuduh', 'orang', 'lain', 'sara']",Bully,Bully
+['bajinganðÿ'],Bully,Bully
+"['denger', 'yabajingan', 'tolol']",Bully,Bully
+"['gue', 'tungguin', 'malah', 'lu', 'kaga', 'update', 'bajingan']",NoBully,NoBully
+"['trashford', 'egoise', 'wes', 'ora', 'ketulungan', 'bajingan']",NoBully,NoBully
+"['tanpa', 'investasi', 'rakyat', 'udah', 'sejahtera', 'dan', 'udah', 'hidup', 'damai', 'ini', 'mengatasnamakan', 'investasi', 'untuk', 'mencuri', 'tanah', 'rakyat', 'dasar', 'bajingan']",NoBully,NoBully
+"['bajingan', 'kena', 'tipu']",NoBully,NoBully
+"['you', 'dont', 'deserve', 'this', 'whole', 'feelings', 'nder', 'emang', 'bajingan', 'itu', 'laki', 'but', 'the', 'way', 'that', 'you', 'know', 'he', 'got', 'smone', 'else', 'kenapa', 'masih', 'milih', 'stay', 'kalo', 'kasusnya', 'dikembalikan', 'iya', 'bajingan', 'itu', 'milih', 'kamu', 'dan', 'dia', 'malah', 'ngews', 'sm', 'cewe', 'lain', 'would', 'you', 'be', 'j', 'fine', 'w', 'it']",NoBully,NoBully
+"['persis', 'pola', 'orde', 'lamasoekarnorezim', 'pki', 'pesta', 'norak', 'tak', 'beradab', 'disaat', 'rakyat', 'berjuang', 'uhidup', 'dri', 'penderitaan', 'akibat', 'ulah', 'mereka', 'bangsa', 'bajingan', 'kalian']",NoBully,NoBully
+"['satu', 'kata', 'buat', 'lu', 'lah', 'mamat', 'bajingan']",Bully,Bully
+"['ora', 'iso', 'turu', 'asu', 'bajingan']",Bully,Bully
+"['di', 'perlakukan', 'kaya', 'gt', 'sama', 'ex', 'gue', 'slalu', 'di', 'benerin', 'tanpa', 'harus', 'narik', 'baju', 'kaya', 'gt', 'walaupun', 'bajinganjjr', 'gue', 'sebagai', 'cewe', 'sakit', 'hati', 'bgt', 'knp', 'hrs', 'kaya', 'gt', 'tapi', 'setelah', 'itu', 'di', 'buat', 'seneng', 'lagiyg', 'bener', 'gue', 'kangen', 'bgt', 'sama', 'diri', 'gue', 'sebenernyayg', 'ga', 'gampang', 'emosi', 'kaya', 'skrng']",NoBully,NoBully
+"['bjir', 'jadi', 'sarang', 'minta', 'putus', 'ke', 'pak', 'gu', 'won', 'itu', 'maksutnya', 'putus', 'kontrak', 'kerja', 'bukan', 'putus', 'pacarannyabajingan', 'gw', 'uda', 'galau', 'di', 'eps', 'tai']",NoBully,NoBully
+"['bukan', 'bajingan', 'tp', 'kesayangan', 'ðÿ', 'inisial', 't']",NoBully,NoBully
+['bajinganâ'],NoBully,NoBully
+"['bsk', 'senin', 'bajingan']",NoBully,NoBully
+"['komentarnya', 'rashford', 'asu', 'mctom', 'bajingan', 'dalot', 'ampas', 'peninggalan', 'ole', 'emang', 'ga', 'ada', 'yg', 'bener', 'selain', 'bruno', 'su']",NoBully,NoBully
+"['bajingan', 'tenan', 'asu', 'og']",NoBully,NoBully
+"['tetep', 'dijalur', 'bajingan', 'soale', 'doyane', 'tempekðÿðÿ']",NoBully,NoBully
+"['wong', 'koyo', 'aku', 'ngeneki', 'tetep', 'di', 'cap', 'bajingan']",NoBully,NoBully
+"['tuh', 'kakek', 'haram', 'grup', 'bajingan', 'tolol', 'yg', 'sok', 'pintar', 'saran', 'belanja', 'otak', 'biar', 'bisa', 'mikir', 'dan', 'pintar', 'secuil', 'aja', 'tolol', 'jgn', 'di', 'borong', 'semua', 'berbagilah', 'samarata', 'samarasa', 'pada', 'mahluk', 'gorongâ', 'yg', 'lain']",NoBully,NoBully
+"['var', 'bajingan', 'tenan', 'wes', 'nggolek', 'gol', 'angel', 'malah', 'di', 'varke', 'lonte']",NoBully,NoBully
+"['ini', 'tim', 'bener', 'gak', 'niat', 'menang', 'kontol', 'gajelas', 'pemain', 'fokus', 'stasitik', 'sendiri', 'gak', 'peduli', 'menang', 'kalah', 'bajingan']",NoBully,NoBully
+"['bajinganðÿðÿðÿ', 'potret', 'diriku', 'jaman', 'sma', 'ðÿðÿðÿðÿðÿ']",NoBully,NoBully
+"['jancok', 'bajingan', 'sabar', 'sabar']",NoBully,NoBully
+"['ganti', 'dgn', 'sendiriny', 'bajingan', 'emg', 'orangâ']",NoBully,NoBully
+"['bajingan', 'mesti', 'var']",Bully,Bully
+"['wasite', 'bajingan']",Bully,Bully
+"['bajingan', 'gue', 'kaga', 'ngantuk', 'ðÿ']",NoBully,NoBully
+"['bajingan', 'gayeng', 'banget', 'barca', 'versi', 'saiki']",NoBully,NoBully
+"['bajingan', 'jongseong', 'kenapa', 'cakep', 'banget', 'wkwk', 'jd', 'pengen', 'balik']",NoBully,NoBully
+"['anjing', 'mau', 'ketemu', 'renjun', 'bangsat']",NoBully,NoBully
+"['cakep', 'banget', 'bangsat', 'gila']",NoBully,NoBully
+"['bangsat', 'baru', 'ijo', 'anjing', 'gausah', 'klakson', 'gak', 'bisa', 'naik', 'motor', 'belajar', 'dulu', 'anjing', 'tolol', 'bahayain', 'orang', 'anjing', 'rausah', 'ngebut', 'cok', 'berisik', 'knalpot', 'jamet', 'kabupaten', 'polisi', 'tidur', 'segede', 'ini', 'buat', 'apa', 'dah', 'ya', 'allah', 'kenapa', 'sih', 'orang', 'orang', 'bego', 'kaya', 'gini', 'dikasih', 'motor']",Bully,Bully
+"['a', 'bangsat', 'gatau', 'mau', 'emosi', 'apa', 'ketawa']",NoBully,NoBully
+['lfg'],NoBully,NoBully
+"['jancok', 'onk', 'ae', 'bangsat', 'sumpah', 'titen', 'ketemu', 'nk', 'dalan', 'yo']",NoBully,NoBully
+"['give', 'me', 'tip']",NoBully,NoBully
+"['give', 'me', 'tip']",NoBully,NoBully
+"['give', 'me', 'tip']",NoBully,NoBully
+"['give', 'me', 'tip']",NoBully,NoBully
+"['give', 'me', 'tip']",NoBully,NoBully
+['lfg'],NoBully,NoBully
+['lfg'],NoBully,NoBully
+"['hahahahah', 'bangsat', 'terdoktrin', 'cok']",NoBully,NoBully
+"['buka', 'tiktok', 'berasa', 'diketawain', 'bangsat']",NoBully,NoBully
+"['dm', 'nayla', 'mango', 'bang']",NoBully,NoBully
+"['anjing', 'ketiduran', 'bangsat', 'jadi', 'ga', 'bisa', 'liat', 'barca', 'gue', 'kambek']",NoBully,NoBully
+"['iya', 'h', 'mahito', 'ini', 'ngeselin', 'bgt', 'bgt', 'tp', 'cakep', 'tp', 'ttp', 'aja', 'ngeselin', 'bangsat']",NoBully,NoBully
+"['hah', 'bangsat']",NoBully,NoBully
+"['bangsaaat', 'bangsat']",NoBully,NoBully
+"['bangsat', 'mau', 'salto', 'aja', 'nih', 'gua']",NoBully,NoBully
+"['bangsat', 'pala', 'orang', 'di', 'engkol', 'lu', 'kata', 'rx', 'king']",NoBully,NoBully
+"['beneran', 'dikutuk', 'klub', 'ini', 'bangsat', 'tanda', 'tanda', 'bentar', 'lgi', 'pasti', 'kebobolan']",NoBully,NoBully
+['bangsat'],NoBully,NoBully
+"['paket', 'gue', 'ga', 'gerak', 'anjeng', 'tiki', 'lama', 'bangsat']",NoBully,NoBully
+"['tolol', 'anjingngngngngn', 'ciuman', 'trakhir', 'ap', 'ajg', 'smpe', 'melukin', 'pinggang', 'cwe', 'bangsat', 'itu', 'arti', 'nya', 'lo', 'menikmati', 'itu', 'ciuman', 'sama', 'cwek', 'gila', 'itu', 'ajg']",NoBully,NoBully
+"['bangsat', 'giliran', 'hanbin', 'di', 'tengah', 'diprotes', 'member', 'lain', 'di', 'tengah', 'ga', 'protes', 'asu', 'itu', 'mereka', 'baru', 'selesai', 'perfom', 'langsung', 'berdiri', 'ga', 'sempat', 'atur', 'barisan', 'itu', 'aja', 'pada', 'ga', 'sesuai', 'official', 'standing', 'ajg']",NoBully,NoBully
+"['karna', 'dia', 'gak', 'salah', 'bangsat']",NoBully,NoBully
+"['napa', 'jadi', 'gini', 'mainnya', 'bangsat', 'xavi']",NoBully,NoBully
+"['gue', 'bnyak', 'fancam', 'jaehuyun', 'ganteng', 'bgt', 'bangsat', 'gue', 'stabilize', 'dlu', 'ye']",NoBully,NoBully
+"['bangsat', 'udah', 'cape', 'ngurus', 'acara', 'harus', 'ngurusin', 'nenenin', 'anggota', 'juga']",NoBully,NoBully
+"['dm', 'gua', 'bang']",NoBully,NoBully
+"['dm', 'bang']",NoBully,NoBully
+"['elu', 'anjing', 'bngt', 'anaian', 'lian', 'phayak', 'bangsat', 'lu', 'berdua', 'a', 'baru', 'mulai', 'dah', 'dikasih', 'begituan']",NoBully,NoBully
+"['naylamana', 'kirimaja', 'link', 'nya']",NoBully,NoBully
+"['bangsat', 'mencoreng', 'nama', 'baik', 'masyarakat', 'plat', 'k']",NoBully,NoBully
+"['kirim', 'nayla']",NoBully,NoBully
+"['perkara', 'jidat', 'doang', 'sekarang', 'offside', 'bangsat']",NoBully,NoBully
+"['bangsat', 'akun', 'jahanam', 'gw', 'gk', 'keprivate']",NoBully,NoBully
+"['salting', 'bgt', 'bangsat', 'liat', 'jenselle']",NoBully,NoBully
+"['aduh', 'richard', 'bangsat', 'puyeng', 'gua', 'liat', 'mentab']",NoBully,NoBully
+"['gue', 'gemeteran', 'bgt', 'bangsat', 'myhearttttwhwtsgara']",NoBully,NoBully
+"['demi', 'allah', 'umam', 'cakep', 'banget', 'bangsat']",NoBully,NoBully
+"['dia', 'bahagia', 'bangsat']",NoBully,NoBully
+"['bangsat', 'awoakwokaowk', 'abang']",NoBully,NoBully
+"['gue', 'belum', 'ngapangapain', 'untuk', 'ekskul', 'jurnal', 'sama', 'dpg', 'anjing', 'kenapa', 'dibulan', 'yang', 'sama', 'sih', 'bangsat']",NoBully,NoBully
+"['org', 'org', 'sekarang', 'kalo', 'ga', 'caper', 'ga', 'makan', 'cok', 'hahaha', 'sok', 'iye', 'bgt', 'tai', 'najis', 'gue', 'liatnya', 'bangsat', 'sakit', 'jiwa']",NoBully,NoBully
+"['bangsat', 'taeyong', 'please']",NoBully,NoBully
+"['anjir', 'kenapa', 'sih', 'cok', 'hari', 'ini', 'banyak', 'hal', 'yang', 'bikin', 'gue', 'kesel', 'sesimple', 'mau', 'main', 'game', 'aja', 'gabisa', 'bisa', 'bangsat']",NoBully,NoBully
+"['o', 'sialan', 'gua', 'harus', 'baca', 'kali', 'baru', 'ngerti', 'bangsat']",NoBully,NoBully
+"['bangsat', 'seunghan', 'doyoung', 'anjir', 'ya', 'tuhan']",NoBully,NoBully
+"['jancok', 'wes', 'kecewa', 'ditambahi', 'kaos', 'ilang', 'bangsat']",NoBully,NoBully
+['bangsat'],NoBully,NoBully
+['bangsat'],NoBully,NoBully
+"['klo', 'di', 'rmh', 'butuh', 'sesuatu', 'blg', 'ke', 'gue', 'si', 'sulung', 'kurg', 'biaya', 'kuliah', 'bilang', 'ke', 'gue', 'si', 'bungsu', 'ada', 'butuh', 'sesuatu', 'blgnya', 'ke', 'gue', 'jarang', 'bhkn', 'gapernh', 'kayknya', 'mnta', 'ke', 'org', 'tua', 'wkwk', 'di', 'rmh', 'ada', 'cicilan', 'yg', 'blm', 'dibyr', 'blgny', 'ke', 'gue', 'cape', 'bangsat', 'wkwk', 'bukannya', 'ga', 'ikhlas', 'tp', 'ya', 'tolong', 'ngertiin']",NoBully,NoBully
+"['pembuangan', 'terlalu', 'lancar', 'bangsat']",NoBully,NoBully
+"['kepsek', 'dan', 'gurunya', 'anjing', 'sekarang', 'dokternya', 'ikutan', 'anjing', 'gila', 'ya', 'gak', 'ada', 'satupun', 'peduli', 'sama', 'keluarga', 'korban', 'mereka', 'miskin', 'tapi', 'bukan', 'untuk', 'jadi', 'mainan', 'hukum', 'bangsat', 'kalian', 'semua']",NoBully,NoBully
+"['bangsat', 'nge', 'wink', 'segala', 'lu']",NoBully,NoBully
+"['suruh', 'beli', 'kok', 'maksa', 'bgt', 'bangsat']",NoBully,NoBully
+"['bangsat', 'joy', 'cakep', 'banget', 'anjing']",NoBully,NoBully
+"['balesannya', 'nyebelin', 'banget', 'bangsat']",NoBully,NoBully
+"['si', 'bangsat']",NoBully,NoBully
+"['cewe', 'anjing', 'gatel', 'banget', 'lo', 'bangsat']",NoBully,NoBully
+"['gini', 'gini', 'ini', 'statemen', 'hasil', 'pemeriksaannya', 'ada', 'benernya', 'tapi', 'bangsat', 'logika', 'buat', 'menusuk', 'mata', 'itu', 'memang', 'gaperlu', 'ada', 'saling', 'tonjok', 'dulu', 'deh', 'setau', 'gw', 'gaperlu', 'ada', 'adu', 'body', 'atau', 'smackdown', 'tinggal', 'pegang', 'palanya', 'colok', 'matanya', 'matanya', 'buta', 'amp', 'gak', 'ada', 'bekas', 'kekerasan']",NoBully,NoBully
+"['anjing', 'anjing', 'anjing', 'bangsat']",NoBully,NoBully
+['bangsat'],NoBully,NoBully
+"['alah', 'lucu', 'banget', 'bangsat']",NoBully,NoBully
+"['bangsat', 'itu', 'yg', 'open', 'bo', 'minggat', 'dulu', 'sana', 'gue', 'mau', 'lihat', 'berita', 'ketutup', 'sama', 'foto', 'jelek', 'lo', 'anjing', 'jancok']",Bully,Bully
+"['anton', 'bangsat', 'good', 'flow', 'banget', 'pdkt', 'lu', 'thanks', 'ya', 'bikin', 'iri', 'aja']",NoBully,NoBully
+"['real', 'gue', 'kemaren', 'sampe', 'nunggu', 'lama', 'di', 'ayam', 'kremes', 'watu', 'gong', 'gegara', 'banyak', 'orang', 'gatau', 'diri', 'yang', 'abis', 'makan', 'malah', 'nongkrong', 'sebat', 'bangsat']",NoBully,NoBully
+"['menang', 'bangsat']",NoBully,NoBully
+"['gw', 'mikirin', 'mukanya', 'aja', 'senyum', 'sendiri', 'bangsat']",NoBully,NoBully
+"['lagi', 'fgd', 'nangis', 'anj', 'ga', 'masuk', 'akal', 'bangsat']",NoBully,NoBully
+"['surprise', 'banget', 'bangsat', 'gw', 'nangis']",NoBully,NoBully
+['lfg'],NoBully,NoBully
+"['bangsat', 'ngakakka', 'baju', 'abang', 'kasirnyaayaaallah', 'bisanya', 'ada', 'kejadian', 'cocoklogi']",NoBully,NoBully
+"['bangsat', 'otak', 'lu', 'kotor']",NoBully,NoBully
+"['bangsat', 'kenapa', 'pas', 'malam', 'minggu', 'sepi', 'wkwk', 'pas', 'acara', 'kemarin', 'tiba', 'rame']",NoBully,NoBully
+['bangsat'],NoBully,NoBully
+"['bangsat', 'bikin', 'ga', 'mood', 'anjing', 'udah', 'syukur', 'dibantuin', 'malah', 'egois']",NoBully,NoBully
+"['haechan', 'bangsat', 'love', 'u']",NoBully,NoBully
+"['it', 'time', 'to', 'say', 'anjing', 'bangsat']",NoBully,NoBully
+"['ah', 'lu', 'mah', 'nambah', 'nambah', 'masalah', 'aja', 'anjir', 'nanti', 'juga', 'ujung', 'ujungnya', 'pastu', 'ad', 'yg', 'bawa', 'bawa', 'gi', 'ni', 'tai', 'lah', 'bangsat']",NoBully,NoBully
+"['bangsat', 'kenpa', 'mark', 'le', 'ganteng', 'banget', 'sialan', 'wksishshhs', 'menyesaaaal', 'tidak', 'membeli', 'tikeeeet']",NoBully,NoBully
+"['bangsat', 'geek', 'wkwkwk', 'mending', 'dewa', 'liat', 'wat', 'maen', 'm']",NoBully,NoBully
+"['gada', 'hati', 'bgt', 'lo', 'semua', 'bangsat']",NoBully,NoBully
+['bangsat'],NoBully,NoBully
+"['waktunya', 'kt', 'bermusuhan', 'bangsat']",NoBully,NoBully
+"['bangsat', 'cakep', 'banget']",NoBully,NoBully
+"['garagan', 'purak', 'sedih', 'bangsat']",NoBully,NoBully
+"['ogah', 'bgt', 'bangsat', 'huek', 'anjg', 'bayanginnya', 'pun', 'gue', 'mual', 'bau', 'bangke']",NoBully,NoBully
+"['bangsat', 'lemonade', 'bjir']",NoBully,NoBully
+"['kadang', 'geli', 'kadang', 'males', 'balas', 'kadang', 'bosan', 'kadang', 'salting', 'juga', 'bangsat']",NoBully,NoBully
+"['bangsat', 'anjing']",NoBully,NoBully
+"['bangsat', 'bisa', 'bisanya', 'masak', 'ikan', 'kiko']",NoBully,NoBully
+['bangsat'],NoBully,NoBully
+['bangsat'],NoBully,NoBully
+"['santai', 'smtown', 'doang', 'halah', 'smtown', 'doang', 'elah', 'anjing', 'jisung', 'ke', 'indo', 'woy', 'santai', 'darimana', 'bangsat']",NoBully,NoBully
+"['enyah', 'kalian', 'ac', 'tnte', 'grang', 'ganggu', 'banget', 'bangsat']",NoBully,NoBully
+"['gua', 'amalan', 'tapi', 'bokap', 'tetep', 'selingkuh', 'bangsat']",NoBully,NoBully
+"['dustin', 'bangsat']",NoBully,NoBully
+"['lagi', 'dan', 'lagi', 'dasar', 'bejad']",Bully,Bully
+"['bejad', 'sukuna', 'meskipun', 'ganteng', 'tapi', 'bunuh', 'dukun', 'terbaik', 'sedunia', 'rest', 'in', 'peace', 'gojo']",NoBully,NoBully
+"['malam', 'yg', 'bejad']",NoBully,NoBully
+"['maaf', 'ka', 'sepertinya', 'memang', 'aku', 'ada', 'jodohnya', 'disitu', 'tapi', 'aku', 'gamau', 'itu', 'himpunan', 'lelaki', 'bejad']",Bully,Bully
+"['cok', 'bejad', 'arek', 'iki']",Bully,Bully
+"['yaallah', 'jadwal', 'sidang', 'upn', 'makin', 'gajelas', 'gua', 'makin', 'dag', 'dig', 'dug', 'sendiri', 'napa', 'gua', 'udh', 'bingung', 'mo', 'ngapain', 'kampus', 'bejad', 'z']",Bully,Bully
+"['gue', 'cape', 'nangisin', 'si', 'dago', 'yang', 'brengsek']",Bully,Bully
+"['brengsek', 'ini', 'pada', 'pemabuk', 'semua', 'tai', 'mnding', 'kawa', 'kawa']",NoBully,NoBully
+"['brengsek', 'ðÿðÿðÿ']",Bully,Bully
+"['brengsek', 'knp', 'gue', 'yg', 'salting', 'cuma', 'ngeliat', 'jenselleðÿ']",NoBully,NoBully
+['brengsek'],Bully,Bully
+"['brengsek', 'ya', 'pikir', 'lah', 'mana', 'ada', 'magang', 'kkn', 'skripsi', 'at', 'the', 'same', 'time', 'dari', 'awal', 'ketebak', 'dah', 'cheat', 'sih', 'kata', 'ku']",NoBully,NoBully
+"['cakep', 'bgt', 'dah', 'si', 'gemini', 'gemini', 'itu', 'today', 'weh', 'tapi', 'gmna', 'ya', 'laptop', 'gue', 'gamau', 'idup', 'brengsek', 'skripsi', 'gue', 'lebih', 'penting']",NoBully,NoBully
+"['brengsek', 'ngaceng', 'ngakak', 'kenceng', 'ih', 'dodol', 'lu', 'ya', 'semua', 'ketikannya']",NoBully,NoBully
+"['brengsek', 'aku', 'salah', 'ngetik', 'cuy', 'merinding', 'ðÿðÿðÿ']",NoBully,NoBully
+"['anjing', 'lukh', 'menurut', 'luh', 'ganteng', 'banget', 'anjeeeengk', 'brengsek']",NoBully,NoBully
+"['boston', 'brengsek', 'pake', 'ganteng', 'segala']",NoBully,NoBully
+"['bukannya', 'nyamperin', 'malah', 'laporan', 'ke', 'grup', 'suruh', 'anak', 'anak', 'dateng', 'brengsek', 'ganggu', 'org', 'lg', 'sendirianðÿðÿžðÿ']",NoBully,NoBully
+"['brengsek', 'bikin', 'gua', 'jd', 'jahat', 'depan', 'emak', 'gua']",NoBully,NoBully
+"['brengsek', 'pengen', 'banget', 'ya', 'allah']",NoBully,NoBully
+"['katanya', 'pengin', 'nyapres', 'koq', 'mulutnya', 'kayak', 'preman', 'jalanan', 'brengsek']",NoBully,NoBully
+"['wkwkwkwk', 'aran', 'brengsek', 'bgt']",Bully,Bully
+"['mas', 'dimas', 'brengsek', 'ganteng', 'banget']",NoBully,NoBully
+"['ini', 'mah', 'jatohnya', 'gue', 'dengerin', 'mr', 'removed', 'brengsek']",NoBully,NoBully
+"['yuk', 'bisa', 'yuk', 'bangun', 'tidur', 'gausa', 'ngarepin', 'cowo', 'yang', 'brengsek', 'yukyuk']",NoBully,NoBully
+"['brengsek', 'inimah', 'sedihnya', 'melebihi', 'sedi', 'di', 'putusin', 'pas', 'lagi', 'sayang', 'sayangnya']",NoBully,NoBully
+['brengsek'],Bully,Bully
+"['luarannya', 'laki', 'jiwanya', 'boti', 'brengsek']",Bully,Bully
+"['gw', 'juga', 'mau', 'ketemu', 'sama', 'nctðÿ', 'gw', 'juga', 'pengennnðÿ', 'gw', 'gak', 'pernah', 'seiri', 'dengki', 'ini', 'brengsekkðÿðÿ']",NoBully,NoBully
+"['wkwkwk', 'brengsek']",NoBully,Bully
+"['brengsek', 'lu', 'tiap', 'mncul', 'di', 'mentab', 'gwe', 'gprnh', 'ada', 'benernyaðÿðÿšðÿ']",Bully,Bully
+"['iya', 'kaan', 'jaekyung', 'emang', 'brengsek', 'ngelebihin', 'bj', 'alex', 'ini', 'mah']",NoBully,NoBully
+"['brengsek', 'wkwk', 'kyak', 'pernah', 'baca', 'tp', 'gua', 'mau', 'baca', 'lgi', 'deh']",NoBully,NoBully
+['brengsek'],Bully,Bully
+"['brengsek', 'betul']",NoBully,NoBully
+"['cuman', 'bisa', 'nitipðÿðÿðÿââïðÿðÿââï', 'argh', 'brengsek', 'sedih', 'bgt', 'gueeeeeðÿðÿðÿââïðÿðÿââïðÿðÿââï', 'liat', 'ya', 'jaemin', 'kalo', 'aku', 'udh', 'selesai', 'kuliahnya', 'dan', 'lebih', 'deket', 'di', 'jakarta', 'tiap', 'kamu', 'konser', 'bakal', 'aku', 'samperinnnnnnðÿºðÿºðÿº']",NoBully,NoBully
+"['argh', 'brengsek']",NoBully,Bully
+"['emang', 'brengsek']",NoBully,Bully
+"['gua', 'ganyari', 'mangsa', 'dibase', 'ya', 'brengsek', 'ðÿž']",NoBully,NoBully
+"['aaaarrrgh', 'goblok', 'bngt', 'brengsek']",NoBully,NoBully
+"['brengsek', 'akwowowwkkðÿðÿðÿðÿðÿðÿ']",NoBully,NoBully
+['brengsekkðÿ'],Bully,Bully
+"['wkwkwk', 'brengsek']",Bully,Bully
+"['brengsek', 'gue', 'tertipu', 'ðÿðÿðÿðÿ']",NoBully,NoBully
+"['brengsek', 'gue', 'sakit', 'hati', 'banget', 'sama', 'ini', 'orang', 'gila']",NoBully,NoBully
+"['aduh', 'brengsek', 'ckep', 'bgt', 'keterlaluan']",NoBully,NoBully
+"['brengsek', 'akhirnya', 'gua', 'bisa', 'pake', 'twibbon', 'org', 'setelah', 'beribu', 'purnama', 'websitenya', 'error', 'di', 'gua']",NoBully,NoBully
+"['brengsek', 'si', 'tenue', 'ni', 'emg', 'ye', 'perutku', 'sakit', 'bgt', 'ketawa', 'muluðÿðÿ', 'dr', 'yg', 'cosple', 'jadi', 'kyungso', 'trs', 'jaehyun', 'jeonghan', 'yg', 'mnurutku', 'ngabrut', 'bgt', 'tambah', 'ini', 'pula', 'dah', 'lah', 'melebihi', 'idolnya', 'tp', 'salut', 'si', 'seniat', 'itu', 'observasinya', 'ðÿðÿðÿðÿðÿ']",NoBully,NoBully
+"['brengsek', 'gue', 'receh', 'bgt', 'anjir', 'the', 'mad', 'thabi']",NoBully,NoBully
+"['brengsek', 'gw', 'harus', 'apa', 'kl', 'dia', 'nyanyi', 'hati', 'dijalan']",NoBully,NoBully
+"['wkwkwk', 'brengsek', 'gue', 'ketawa', 'bgt']",Bully,NoBully
+"['brengsek', 'kabeh']",Bully,Bully
+"['orgil', 'anjing', 'gk', 'jlas', 'bgt', 'brengsek']",Bully,Bully
+"['kenala', 'harus', 'ada', 'penalty', 'nya', 'sih', 'brengsek', 'mnet']",NoBully,NoBully
+"['brengsek', 'uji', 'cobaðÿ', 'salken', 'juga', 'ya', 'teh']",NoBully,NoBully
+['brengsek'],Bully,Bully
+"['oaswkoakwokaow', 'brengsek']",NoBully,NoBully
+"['lo', 'emg', 'brengsek', 'ren']",Bully,Bully
+"['brengsek', 'brengsek']",Bully,Bully
+['brengsekkðÿ'],Bully,Bully
+"['brengsek', 'gue', 'lupa', 'kalo', 'ganti', 'dn', 'bakal', 'ke', 'lock', 'terus', 'error', 'emang', 'babi', 'lu']",NoBully,NoBully
+"['brengsek', 'trus', 'nasib', 'gue', 'gmnaðÿðÿðÿ']",NoBully,NoBully
+['brengsek'],Bully,Bully
+"['brengsek', 'lu', 'jeri', 'ðÿðÿðÿ']",NoBully,NoBully
+"['brengsek', 'k', 'lali', 'digowo']",NoBully,NoBully
+"['dante', 'brengsekkðÿðÿ']",Bully,Bully
+"['dhhdhdgsh', 'jaemin', 'fak', 'djxbsenxubsisbsjns', 'barefaec', 'gue', 'gila', 'anjg', 'pagi', 'ujiang', 'brengsek']",NoBully,NoBully
+['brengsekkðÿ'],Bully,Bully
+"['hahahahahahaha', 'lucu', 'banget', 'brengsek', 'ðÿðÿ']",NoBully,NoBully
+"['waiji', 'brengsek']",Bully,Bully
+"['artinya', 'apah', 'pemirsah', 'yak', 'waiji', 'brengsek']",Bully,Bully
+"['emang', 'brengsek', 'banget', 'sales', 'nyaaðÿðÿ']",NoBully,NoBully
+"['bocah', 'jaksel', 'brengsek']",Bully,Bully
+"['kodingan', 'gw', 'error', 'brengsek']",NoBully,NoBully
+"['brengsek', 'rai']",Bully,Bully
+"['gw', 'liat', 'post', 'gojo', 'satoru', 'jadi', 'gojo', 'separu', 'brengsek', 'gw', 'refleks', 'lempar', 'hp']",NoBully,NoBully
+['brengsekkðÿðÿðÿ'],Bully,Bully
+['brengsekkðÿ'],Bully,Bully
+['brengsek'],Bully,Bully
+"['brengsek', 'kok', 'album', 'twitter', 'gue', 'gk', 'ada']",NoBully,NoBully
+['brengsek'],Bully,Bully
+"['brengsek', 'gua', 'ketawa', 'beratðÿ']",NoBully,NoBully
+"['wkwkwkwk', 'brengsek']",Bully,Bully
+"['duit', 'gw', 'ludes', 'brengsek']",NoBully,NoBully
+"['wkwkwk', 'brengsek', 'ngeri', 'pergaulan', 'jaman', 'skrgðÿðÿðÿðÿðÿ']",NoBully,NoBully
+['brengsek'],Bully,Bully
+"['brengsek', 'gw', 'aja', 'sering', 'nanya', 'tp', 'gw', 'kasih', 'jawabannya', 'nnti', 'apa', 'buat', 'mendukung', 'temen', 'gw']",NoBully,NoBully
+['brengsek'],Bully,Bully
+"['brengsek', 'wwkwkwk']",NoBully,NoBully
+"['brengsek', 'gmn', 'mau', 'kurus', 'kl', 'makan', 'gula', 'terus']",NoBully,NoBully
+"['ini', 'gua', 'tiap', 'ngisi', 'edom', 'mas', 'irwan', 'tapi', 'semester', 'depannya', 'ketemu', 'lagi', 'brengsek']",NoBully,NoBully
+"['anjir', 'gila', 'banget', 'fweek', 'brengsek']",Bully,Bully
+['brengsek'],Bully,Bully
+"['brengsek', 'ketawa', 'banget', 'gue', 'ðÿðÿ']",NoBully,NoBully
+"['dasar', 'lelaki', 'brengsek', 'cih', 'pakyu', 'loe', 'jay']",Bully,Bully
+['brengsekkðÿ'],Bully,Bully
+"['brengsek', 'plot', 'twist', 'nya', 'dia', 'nyari', 'partner', 'ngews', 'ternyataðÿðÿ', 'bangkeeeeðÿ', 'berarti', 'drtdi', 'gw', 'percuma', 'posthink', 'ternyata', 'emg', 'aura', 'nya', 'udah', 'negative', 'bener', 'brengsekkðÿ']",NoBully,NoBully
+"['brengsek', 'wkwkwkwk']",NoBully,Bully
+"['stop', 'violence', 'against', 'women', 'kali', 'ini', 'di', 'alami', 'oleh', 'kawan', 'sendiri', 'brengsek']",NoBully,NoBully
+"['asu', 'aku', 'kepencet', 'ngeparlay', 'mu', 'brengsek', 'ayo', 'plis', 'selamatkan', 'saya']",NoBully,NoBully
+['brengsekkðÿðÿ'],NoBully,Bully
+"['capek', 'brengsek']",NoBully,NoBully
+"['brengsek', 'lo', 'miy', 'anying']",NoBully,NoBully
+['brengsekkðÿðÿ'],Bully,Bully
+"['ni', 'org', 'mirip', 'billy', 'brengsek']",Bully,Bully
+"['halah', 'brengsek']",NoBully,NoBully
+"['gege', 'brengsek']",Bully,Bully
+['brengsek'],Bully,Bully
+"['anjing', 'gw', 'kena', 'spoiler', 'leaks', 'gj', 'brengsek']",NoBully,NoBully
+"['musuh', 'terkuat', 'gojo', 'emang', 'bukan', 'sukuna', 'tp', 'gege', 'akutami', 'brengsek', 'ðÿðÿ']",NoBully,NoBully
+['brengsek'],Bully,Bully
+"['gua', 'benci', 'bgt', 'nunggu', 'brengsek']",Bully,NoBully
+"['yg', 'brengsek', 'elu', 'ya', 'anjenh']",NoBully,NoBully
+"['pulang', 'budek']",NoBully,NoBully
+"['sal', 'enih', 'harus', 'ada', 'versi', 'spotify', 'ga', 'si', 'gue', 'siap', 'dengerin', 'sampe', 'budek']",NoBully,NoBully
+"['maaf', 'cook', 'budek', 'dikit']",NoBully,NoBully
+"['maaf', 'kdang', 'budek']",NoBully,NoBully
+"['capek', 'banget', 'bolot', 'budek', 'pula', 'kek', 'astaga', 'malu', 'tapi', 'gimana', 'emng', 'gk', 'kedengeran', 'anj']",NoBully,NoBully
+"['mau', 'midion', 'gua', 'kan', 'lu', 'apasi', 'tolong', 'w', 'budek']",NoBully,NoBully
+"['argh', 'bikin', 'budek']",Bully,Bully
+"['ngene', 'ki', 'enake', 'opo', 'to', 'buoos', 'mambu', 'panas', 'budek', 'hadeeeh']",NoBully,NoBully
+"['iya', 'ya', 'ga', 'cocok', 'buat', 'aku', 'yg', 'budek']",NoBully,NoBully
+"['pt', 'melia', 's', 'bangsat', 'anjing', 'teriaknya', 'kenceng', 'bngt', 'sampe', 'takut', 'budek']",NoBully,NoBully
+"['aku', 'budek', 'untung', 'nya']",NoBully,NoBully
+"['dengerin', 'lagu', 'sampe', 'budek']",NoBully,NoBully
+"['otot', 'politik', 'ini', 'opo', 'pak', 'anies', 'bukannya', 'sampean', 'yg', 'sl', 'berotot', 'dan', 'berbirahi', 'politik', 'hnya', 'utk', 'berkuasa', 'dgn', 'menghalalkan', 'segala', 'cara', 'utk', 'menang', 'jg', 'pura', 'budek', 'pura', 'tuli', 'dan', 'pura', 'melihat', 'haaah']",Bully,Bully
+"['krna', 'ada', 'adik', 'yg', 'kalau', 'dipanggil', 'selalu', 'budek']",Bully,Bully
+"['auto', 'budek', 'yang', 'nelpon']",NoBully,NoBully
+"['percaya', 'ga', 'percaya', 'tp', 'lo', 'nyuruh', 'gue', 'nanya', 'nama', 'lengkap', 'kating', 'trs', 'gue', 'tanya', 'dia', 'gamau', 'ngasi', 'tau', 'trs', 'gue', 'cuma', 'ngomong', 'pake', 'nada', 'lembut', 'mangnya', 'salah', 'gue', 'jg', 'ngomong', 'pake', 'nada', 'lembut', 'ke', 'lo', 'budek', 'itu', 'sok', 'imut', 'di', 'post', 'sblmnya', 'gue', 'ditegur', 'krn', 'kaga', 'senyum', 'anjing', 'babilh', 'salah', 'mulu']",Bully,Bully
+"['aku', 'lebih', 'suka', 'hetset', 'tali', 'dari', 'pada', 'bluetooth', 'cuz', 'kalo', 'ada', 'yg', 'ajak', 'ngomong', 'mereka', 'tau', 'aku', 'lagi', 'denger', 'lagu', 'jdi', 'mereka', 'g', 'bakal', 'ajak', 'aku', 'ngomong', 'kalo', 'hetset', 'bluetooth', 'ya', 'aku', 'bakal', 'di', 'katain', 'budek', 'krn', 'di', 'panggil', 'kaga', 'nyaut', 'nyaut', 'merela', 'g', 'tau', 'aku', 'lg', 'pake', 'hetset']",NoBully,NoBully
+"['jedak', 'jeduk', 'biar', 'telingan', 'kleaan', 'semua', 'budek']",NoBully,NoBully
+"['temen', 'kamar', 'gue', 'budek', 'apa', 'gmn', 'seh', 'anjer', 'dh', 'dikasih', 'tau', 'berkakikaki', 'jan', 'kenceng', 'malah', 'kenceng', 'trs', 'tu', 'suara']",Bully,Bully
+"['cok', 'aku', 'dadi', 'wong', 'malang', 'ae', 'isin', 'mbok', 'yo', 'ngadakno', 'acaraojo', 'sampe', 'ngrugikno', 'wongsound', 'sewajare', 'ae', 'ojo', 'koyo', 'wong', 'budek']",NoBully,NoBully
+"['sound', 'kek', 'gini', 'tuh', 'biar', 'apa', 'sih', 'apa', 'ga', 'takut', 'budek', 'kasian', 'yg', 'punya', 'penyakit', 'jantung', 'tau']",NoBully,NoBully
+"['bru', 'kali', 'ini', 'gue', 'puter', 'in', 'lagu', 'day', 'seluruh', 'album', 'dri', 'malem', 'smpe', 'subuh', 'dah', 'ah', 'budek', 'kuping', 'gue']",NoBully,NoBully
+"['mamank', 'elep', 'nya', 'budek', 'anjg', 'diturunin', 'nya', 'mayan', 'jauh']",Bully,Bully
+['budek'],Bully,Bully
+['hakkotai'],NoBully,NoBully
+['ãƒžããããˆç'],NoBully,NoBully
+['ãƒžãããˆã'],NoBully,NoBully
+['åãÿãšããï'],Bully,Bully
+"['gk', 'usah', 'buta', 'lo', 'org', 'gol', 'nya', 'dri', 'sisi', 'kanan', 'mulu', 'kok', 'klo', 'gk', 'ngerti', 'bola', 'jgn', 'ikut', 'ikut', 'an', 'ngata', 'ngata', 'in', 'pemain', 'objektif', 'aja', 'dek', 'gara', 'gara', 'alonso', 'sering', 'jelek', 'pas', 'maen', 'bagus', 'pun', 'di', 'bilang', 'jelek', 'decul', 'decul']",NoBully,NoBully
+['ãƒãƒããƒžèœããƒ'],NoBully,NoBully
+['ã'],NoBully,NoBully
+['èæƒãããããªåãÿãïÿw'],NoBully,NoBully
+"['ãããƒãããƒåæãçåƒããšãœã', 'æéžããÿéšããèœããããðÿ']",NoBully,NoBully
+['w'],NoBully,NoBully
+['ããœããƒãƒããƒæˆäãããª'],NoBully,NoBully
+['ãªãããããw'],NoBully,NoBully
+"['apakah', 'aku', 'buta', 'wkwk']",NoBully,NoBully
+['ãããªæããããˆ'],NoBully,NoBully
+['ããƒãƒªãƒãšéã'],Bully,Bully
+['ãƒããƒãƒãƒãƒéã'],Bully,Bully
+['ããœãããªãããÿ'],Bully,Bully
+['ããœããããããªã'],NoBully,NoBully
+['ãµã'],NoBully,NoBully
+['æœéãasmr'],NoBully,NoBully
+['æãããªããããÿã'],NoBully,NoBully
+['æïÿ'],NoBully,NoBully
+['ããƒãƒžãåžããƒãƒªãƒãšéã'],NoBully,NoBully
+['ãšã'],NoBully,NoBully
+[''],NoBully,NoBully
+['ãšãwwwwwwãƒžãããˆw'],NoBully,NoBully
+['æéªçèã'],NoBully,NoBully
+"['benci', 'la', 'bonggol', 'kat', 'area', 'kilang', 'ni', 'semua', 'takde', 'line', 'dahlah', 'kitonyo', 'buta', 'ðÿ']",NoBully,NoBully
+['ãããÿãããããæœãããÿãåƒããæœˆæãããªãœã'],NoBully,NoBully
+"['min', 'tidur', 'min', 'udah', 'mau', 'pagi', 'buta']",Bully,Bully
+"['emang', 'cinta', 'buta', 'liat', 'yaya', 'kek', 'liat', 'bidadari']",NoBully,NoBully
+"['ini', 'detektif', 'nya', 'gimana', 'si', 'makan', 'gaji', 'buta', 'ðÿðÿðÿ', 'yuta', 'gw', 'tim', 'nyimak', 'ðÿðÿðÿ']",Bully,Bully
+['éããžããw'],NoBully,NoBully
+['runway'],NoBully,NoBully
+"['meltsoulflex', 'instæãïðÿž']",NoBully,NoBully
+"['soulflex', 'youtubemusicãçéœèåãªãããªæåããžã']",NoBully,NoBully
+"['fix', 'malam', 'ini', 'kana', 'galau', 'brutal', 'dan', 'membabi', 'butaaðÿâï']",NoBully,NoBully
+"['éãçããšãœããâï', 'ãƒãƒãƒãƒãšãããããÿèœãããðÿ']",NoBully,NoBully
+"['kamis', 'minggu', 'kemarin', 'udh', 'ada', 'gejala', 'gejala', 'sakit', 'yg', 'katanya', 'dampak', 'dr', 'polusi', 'jumat', 'maksain', 'masuk', 'tapi', 'akhirnya', 'ga', 'kuat', 'jd', 'plg', 'setengah', 'hari', 'eh', 'bukan', 'bedrest', 'malah', 'lanjot', 'ke', 'bandung', 'sabtu', 'pagi', 'buta', 'balik', 'malem', 'pula', 'minggunya', 'juga', 'lanjut', 'caw', 'main', 'sebenarnya', 'dah', 'drop', 'bgt']",NoBully,NoBully
+"['ãªãžããããããƒžãïˆãƒžããƒãïããƒããªãƒãƒãƒifãéæ', 'çÿãé', 'ƒãããƒãããƒåæƒãããÿãããããèãéžåãååãðÿðÿðÿðÿðÿ', 'rt']",NoBully,NoBully
+"['apa', 'dorang', 'ni', 'tak', 'penat', 'ke', 'pagi', 'buta', 'ðÿ']",NoBully,NoBully
+['ãšãããããããããï'],NoBully,NoBully
+"['semua', 'buta', 'klo', 'org', 'lg', 'jatuh', 'cinta', 'mah']",NoBully,NoBully
+['ããƒéªæÿããÿã'],NoBully,NoBully
+['éãœææœãèããªããããÿ'],NoBully,NoBully
+['ããšãœãããããããâœ'],NoBully,NoBully
+['ããšãœãããããããï'],NoBully,NoBully
+['ãšãããããããããï'],NoBully,NoBully
+[''],NoBully,NoBully
+['ãšãããããããããï'],NoBully,NoBully
+['buta'],Bully,NoBully
+"['buta', 'es', 'que', 'por', 'el', 'cambio', 'que', 'le', 'hicieron', 'al', 'deliberadodesvio', 'sgy', 'es', 'offside']",NoBully,NoBully
+['dryice'],NoBully,NoBully
+['tokyo'],NoBully,NoBully
+"['prioritas', 'gembel', 'ga', 'becus', 'masa', 'aku', 'nomer']",NoBully,NoBully
+"['ayo', 'yang', 'mau', 'ngerasain', 'jadi', 'gembel', 'aku', 'kapan', 'lagi', 'kan', 'bisa', 'ngerasa', 'se', 'bebas', 'itu', '馃槍馃馃徏']",Bully,Bully
+"['gapapa', 'gembel', 'wkwkw']",NoBully,NoBully
+"['bisanya', 'ya', 'lu', 'pas', 'lg', 'pake', 'baju', 'ini', 'kelakuannya', 'tetep', 'gembell馃槱馃槱']",Bully,Bully
+"['ih', 'apaansi', 'kok', 'ig', 'jd', 'gembel', 'masa', 'banyak', 'lagu', 'yg', 'ilang', 'idi', 'mana', 'first', 'sm', 'seccond', 'kocak馃枙馃徔馃枙馃徔馃枙馃徔馃枙馃徔']",NoBully,NoBully
+"['wkwkwkwk', 'kasiaan', 'banget', 'elu', 'gembel', '馃お']",Bully,Bully
+['beli'],NoBully,NoBully
+"['gembel', 'bgt', 'harusnya', 'notgood', 'product', 'malah', 'dilolosin']",Bully,Bully
+"['bintang', 'dah', 'buat', 'apk', 'polri', 'sm', 'jkn', 'gak', 'singkron', 'sm', 'klinik', 'sm', 'polseknya', 'dah', 'gembel']",NoBully,NoBully
+"['gembel', 'banyak', 'gaya']",NoBully,Bully
+"['seleranya', 'terlalu', 'wel', 'untuk', 'aku', 'yang', 'look', 'nya', 'kaya', 'gembel']",Bully,Bully
+"['kurnag', 'gembel', 'kh', 'kack', 'bjunyah']",NoBully,NoBully
+"['bjir', 'aku', 'update', 'igs', 'pake', 'foto', 'yang', 'cakep', 'mamaku', 'malah', 'update', 'story', 'wa', 'pake', 'fotoku', 'yang', 'kek', 'gembel', '馃槶']",NoBully,NoBully
+"['seleranya', 'terlalu', 'wel', 'untuk', 'aku', 'yang', 'kayak', 'gembel']",Bully,Bully
+"['wew', 'gembel']",NoBully,NoBully
+['bawah'],NoBully,NoBully
+"['skala', 'mau', 'sm', 'ganiar', 'kek', 'mau', 'sm', 'januar', 'kek', 'ikhlas', 'lahir', 'batin', 'gue', 'anjrittr', 'gk', 'ikhlas', 'klo', 'sm', 'jendral', 'bodo', 'amat', 'anjng', 'lo', 'brdua', 'ye', 'jendral', 'maddie', 'kena', 'karma', 'lo', 'minimal', 'lo', 'maddie', 'jdi', 'gembel', 'trus', 'lo', 'ye', 'jendral', 'ngemis', 'cinta', 'ny', 'si', 'skala', 'dah']",NoBully,NoBully
+"['makin', 'banyak', 'matkul', 'makin', 'kek', 'gembel']",NoBully,NoBully
+"['ih', 'gembel', 'seblak', 'di', 'area', 'aku', 'enak', 'enak', 'ndak', 'ada', 'yang', 'amis', 'ahay']",NoBully,NoBully
+"['seleranya', 'terlalu', 'wel', 'untuk', 'aku', 'yang', 'gembel']",Bully,Bully
+"['jadi', 'inget', 'ada', 'yang', 'bilag', 'dia', 'gembel', 'laah', 'gembel', 'apaaan', 'make', 'produknya', 'aja', 'cenneeeel', 'ceuunaah', '馃槶馃槶馃槶馃ぃ馃ぃ馃ぃ']",NoBully,NoBully
+"['dih', 'jangan', 'mau', 'sm', 'klub', 'gembel']",Bully,Bully
+"['bad', 'ren', 'di', 'buat', 'kesel', 'sama', 'jaringan', 'gembel']",NoBully,NoBully
+"['aku', 'kalo', 'dirumah', 'jadi', 'gembel', 'baju', 'robek', 'aj', 'aku', 'pake', 'karena', 'semakin', 'gembel', 'semakin', 'nyaman馃槱馃']",NoBully,NoBully
+"['sikat', 'ajalah', 'bule', 'gembel']",NoBully,NoBully
+"['kalo', 'gue', 'yang', 'make', 'nya', 'mah', 'udah', 'dikatain', 'gembel']",NoBully,NoBully
+"['lucu', 'banget', 'gembel']",NoBully,NoBully
+"['ak', 'prnah', 'coba', 'outfit', 'gini', 'kya', 'gembel']",NoBully,NoBully
+"['akhirnya', 'kita', 'udah', 'gembel']",NoBully,Bully
+"['fans', 'no', 'nya', 'gembel']",NoBully,NoBully
+"['seleranya', 'terlalu', 'wel', 'untuk', 'aku', 'yang', 'looknya', 'kayak', 'gembel']",Bully,Bully
+"['yah', 'gembel', 'bgt', 'x', 'qm馃馃徎']",NoBully,NoBully
+"['gembel', 'cek', 'tele', 'dulu', 'aja', 'cepet']",NoBully,NoBully
+"['sinyal', 'nya', 'gembel']",NoBully,NoBully
+"['mumet', 'gembel', 'tai', 'lah', 'bodo', 'amat']",NoBully,NoBully
+"['chat', 'an', 'ajja', 'limit', 'gembel']",NoBully,NoBully
+"['jakarta', 'gembel']",NoBully,NoBully
+"['dua', 'kucing', 'ku', 'happy', 'terus', 'ya', 'gapapa', 'dah', 'dikatain', 'gembel', 'sama', 'kuli', 'juga', 'aku', 'tetap', 'cintaaa馃']",NoBully,NoBully
+"['seleranya', 'terlalu', 'wel', 'untuk', 'aku', 'yang', 'gembel']",Bully,Bully
+"['beda', 'server', 'kak', 'dukun', 'kita', 'pake', 'server', 'lokal']",Bully,Bully
+"['jinnya', 'ndak', 'bisa', 'basa', 'belanda']",NoBully,NoBully
+"['iya', 'bang', 'wkwk', 'gimana', 'orangorang', 'dulu', 'berburu', 'gimana', 'budaya', 'bercocok', 'tanam', 'mulai', 'masuk', 'pada', 'jaman', 'praaksara']",NoBully,NoBully
+"['repot', 'karena', 'hasil', 'ngarang']",Bully,Bully
+"['hari', 'gini', 'percaya', 'kayak', 'gini', 'hadeh', 'berarti', 'iman', 'kalian', 'lemah']",NoBully,NoBully
+"['sumbawa', 'ðÿ']",NoBully,NoBully
+"['cukup', 'bagus', 'tapi', 'pocong', 'nya', 'lebih', 'mirip', 'alien', 'btw', 'akting', 'iwa', 'k', 'sebagai', 'walisdi', 'dukun', 'santet', 'itu', 'bagus', 'bgt', 'meski', 'minim', 'dialog']",Bully,Bully
+"['dg', 'supranatural', 'memori', 'bendamakhluk', 'bisa', 'di', 'gali', 'memorinya', 'dan', 'paling', 'ngeri', 'adalah', 'kena', 'genjutsu', 'saat', 'scan', 'memori']",NoBully,NoBully
+"['nunggu', 'ada', 'disini']",NoBully,Bully
+"['jogja', 'ayo', 'nobar', 'ciwi', 'ciwi']",NoBully,NoBully
+"['wkwkwk', 'halo', 'sean', 'nonton', 'niji', 'id', 'juga', 'kah']",NoBully,NoBully
+"['kemarin', 'malem', 'jg', 'baru', 'nonton', 'emg', 'bagus', 'sih', 'menurut', 'gue']",NoBully,NoBully
+"['plat', 'mobil', 'itu', 'ada', 'hubungannya', 'sama', 'sekolahan', 'ga', 'mind']",NoBully,NoBully
+"['wkwkw', 'pocong', 'gundulnya', 'kocak', 'si']",Bully,Bully
+"['ðÿðÿðÿ', 'tulangnya', 'twerking']",Bully,Bully
+"['jujur', 'lebih', 'takut', 'liat', 'film', 'horor', 'indo', 'ketimbang', 'horo', 'luar', 'negeri', 'setan', 'indo', 'ril', 'bgt', 'cuy']",NoBully,NoBully
+"['knp', 'sih', 'klo', 'dukun', 'itu', 'beneran', 'sakti', 'kog', 'gak', 'nyantet', 'gubernur', 'jenderal', 'belanda', 'ajabuat', 'ngusir', 'penjajah']",Bully,Bully
+"['polusi', 'udara', 'cuma', 'ilusi', 'bagaimana', 'jika', 'polusi', 'otak', 'setan']",NoBully,NoBully
+"['tdnya', 'wa', 'doang', 'error', 'gada', 'notif', 'skrng', 'semua', 'sosmed', 'gua', 'setan', 'lem', 'biru', 'nokia', 'ah']",NoBully,NoBully
+"['soalnya', 'nama', 'km', 'sean', 'tipis', 'tipis', 'sama', 'bahasa', 'inggrisnya', 'laut', 'sea']",Bully,Bully
+"['kak', 'tulangnya', 'kenapa', 'kak']",Bully,Bully
+"['ih', 'kak', 'kamu', 'lebih', 'gemessðÿâ', 'nice', 'to', 'meet', 'yoult', 'betah', 'betah', 'ya']",NoBully,NoBully
+"['gitu', 'ya', 'terimakasih', 'infonya']",NoBully,NoBully
+"['harusnya', 'iya', 'sih']",NoBully,Bully
+"['oh', 'gitu']",NoBully,Bully
+"['smbw', 'tu', 'mnðÿ']",NoBully,NoBully
+"['smbw', 'lah']",NoBully,NoBully
+"['brgkt', 'kmn']",NoBully,NoBully
+"['sebelum', 'brgkt', 'mari', 'kita', 'liat', 'ini', 'gsih']",NoBully,NoBully
+"['bisa', 'gak', 'sih', 'menggali', 'info', 'dari', 'jaman', 'sebelum', 'hindubuddha', 'dari', 'zaman', 'ora', 'aksara', 'zaman', 'batu', 'dari', 'kjokkenmoddinger', 'lebih', 'seru', 'itu', 'drpd', 'cerita', 'tentang', 'perang', 'antardukun', 'peristiwa', 'pembunuha', 'dl']",NoBully,NoBully
+"['pedes', 'bat', 'setan']",NoBully,NoBully
+"['iwa', 'k', 'cocok', 'bgt', 'jdi', 'antagonis', 'disiniðÿðÿðÿðÿðÿ', 'film', 'nya', 'personally', 'sih', 'acting', 'iwa', 'k', 'ðÿðÿ']",NoBully,NoBully
+"['malem', 'sean', 'ak', 'blom', 'mam', 'h', 'hbu']",NoBully,NoBully
+"['itu', 'masuk', 'minor', 'atau', 'sudah', 'legal']",NoBully,NoBully
+"['ih', 'babi']",NoBully,NoBully
+['hmu'],NoBully,NoBully
+"['makan', 'apa', 'itu']",NoBully,Bully
+"['kok', 'mie', 'sih']",NoBully,NoBully
+"['semoga', 'pas', 'kita', 'ke', 'solo', 'lagi', 'ini', 'masih', 'tayang', 'ya', 'sayaang', 'âï']",NoBully,NoBully
+"['nasi', 'padangðÿðÿ', 'mam', 'dulu', 'se']",NoBully,NoBully
+"['makan', 'dong']",NoBully,NoBully
+"['mam', 'laah']",NoBully,NoBully
+"['kok', 'belum', 'aku', 'sudah']",NoBully,NoBully
+"['mamam', 'dong']",NoBully,NoBully
+['sudahðÿ'],NoBully,NoBully
+"['makan', 'apa']",NoBully,Bully
+"['mam', 'dong', 'd']",NoBully,NoBully
+"['sudah', 'met', 'istirahat', 'au']",NoBully,NoBully
+"['udaaah', 'nasi', 'padangðÿ']",NoBully,NoBully
+"['makan', 'dong']",NoBully,NoBully
+"['dak', 'dek', 'dak', 'dekðÿ', 'ðÿ', 'ðÿ', 'ðÿ']",NoBully,NoBully
+"['kakak', 'jangan', 'mau', 'lahir', 'di', 'indo', 'ya']",NoBully,NoBully
+"['closingan', 'jembot']",NoBully,NoBully
+"['met', 'maleeem', 'udah', 'pada', 'makan', 'belum']",NoBully,NoBully
+"['dijalan', 'sidi', 'ya']",NoBully,NoBully
+"['ojo', 'langsung', 'dipangan', 'ben', 'didilati', 'sik', 'sak', 'awak', 'cuk', 'gae', 'ngakak', 'wae', 'ðÿðÿ']",NoBully,NoBully
+"['wkwkwkwk', 'siap', 'soang']",NoBully,NoBully
+"['kan', 'ada', 'soang', 'yg', 'mau', 'bacain']",NoBully,NoBully
+"['iya', 'jg', 'wkwkwk']",NoBully,NoBully
+"['wkwkwk', 'misuh', 'pake', 'hangeul', 'aja', 'kali', 'ya', 'asu', 'kalian', 'jancuuuk', 'anak', 'setan', 'tai', 'babi', 'ðÿðÿðÿ']",NoBully,NoBully
+"['kak', 'mau']",NoBully,Bully
+"['iya', 'kak', 'ampun', 'kak']",NoBully,NoBully
+"['lah', 'geblek', 'napa', 'di', 'rt', 'ketauan', 'ntar']",NoBully,NoBully
+"['temen', 'u', 'wkwkwk', 'geblek', 'bgt', 'ya', 'allah', 'capek']",NoBully,NoBully
+"['seharusnya', 'memang', 'begitu', 'eh', 'ini', 'kok', 'cuma', 'demi', 'nasbung', 'menyedihkan', 'klo', 'dibilang', 'demi', 'surga', 'jalannya', 'lewat', 'mana', 'mereka', 'juga', 'gak', 'tau', 'kan', 'geblek']",NoBully,NoBully
+"['geblek', 'emang']",NoBully,Bully
+"['sksksjjsjs', 'geblek']",NoBully,NoBully
+"['geblek', 'lah']",NoBully,Bully
+"['geblek', 'wkwkw']",NoBully,Bully
+['geblek'],Bully,Bully
+"['fix', 'lu', 'yang', 'geblek', 'udah', 'tau', 'sakit', 'masih', 'aja']",NoBully,NoBully
+"['seungcheol', 'anak', 'kedua', 'geblek']",Bully,Bully
+"['geblek', 'w', 'lupa', 'blom', 'hide', 'w', 'lupa', 'kl', 'lg', 'hub', 'tamu', 'undangan', 'mana', 'alay', 'bgt', 'w', 'bkin', 'story', 'wasaf']",NoBully,NoBully
+['geblek'],Bully,Bully
+"['lah', 'buset', 'udah', 'keren', 'lu', 'ngomong', 'begitu', 'secakep', 'apa', 'sampe', 'lu', 'bilang', 'harus', 'diubah', 'mukanya', 'geblek']",NoBully,NoBully
+"['iya', 'wkwkwkw', 'geblek']",NoBully,NoBully
+"['wkwkwk', 'geblek']",NoBully,Bully
+"['wkwkwk', 'geblek']",Bully,Bully
+"['emon', 'redflag', 'bgt', 'lu', 'njissskasian', 'anya', 'geblekkyuk', 'bisa', 'yuk', 'nya']",Bully,Bully
+['geblek'],NoBully,Bully
+"['geblek', 'pari']",Bully,Bully
+"['awokwokw', 'geblek']",NoBully,NoBully
+"['geblek', 'ngapain', 'luh']",NoBully,Bully
+['geblek'],Bully,Bully
+['geblek'],Bully,Bully
+['geblek'],Bully,Bully
+['geblek'],NoBully,Bully
+['geblek'],Bully,Bully
+"['tiap', 'ke', 'kulon', 'progo', 'pasti', 'dibawain', 'geblek', 'baliknya', 'sama', 'embah']",NoBully,NoBully
+"['se', 'kira', 'bt', 'biasa', 'sah', 'kah', 'seng', 'anj', 'bt', 'gila', 'geblek']",NoBully,NoBully
+"['geblek', 'bat', 'se', 'ruangan', 'ama', 'nenek', 'lampir']",Bully,Bully
+"['ancen', 'geblek', 'wong', 'dot', 'wkwkwk', 'aku', 'tau', 'berdebat', 'karo', 'wong', 'ngene', 'raono', 'gunane', 'akhire', 'wong', 'koyok', 'ngene', 'tak', 'manfaatno', 'nggo', 'engagement', 'impression', 'nek', 'aku']",NoBully,NoBully
+"['elu', 'yang', 'ngasih', 'pertanyaan', 'geblek', 'kalo', 'dad', 'mah', 'morgan', 'tampangnya', 'kek', 'daddy', 'daddy']",NoBully,NoBully
+['geblek'],Bully,Bully
+"['geblek', 'ni', 'orang', 'kalo', 'dh', 'lucu', 'tuh', 'kebangetan', 'bngt']",NoBully,NoBully
+"['ngakak', 'geblek', 'praktekin', 'gih']",NoBully,NoBully
+"['jason', 'nya', 'hadas', 'besar', 'geblek']",NoBully,NoBully
+['geblek'],Bully,Bully
+"['wkwkwk', 'geblek']",Bully,Bully
+"['yeu', 'geblek']",NoBully,NoBully
+"['ada', 'aja', 'si', 'geblek', 'emang', 'kelakuannya']",NoBully,Bully
+"['geblek', 'kwjakwjskwj']",Bully,Bully
+"['akun', 'bot', 'koplak', 'vote', 'dah', 'rampung', 'baru', 'up', 'geblek']",Bully,Bully
+"['si', 'geblek', 'salah', 'nomor', 'kartu', 'emoney', 'buat', 'top', 'up', 'mana', 'gue', 'gatau', 'lagi', 'itu', 'kartu', 'siapa', 'ga', 'bisa', 'minta', 'dibarterin', 'kan', 'kalo', 'ga', 'kenal']",Bully,Bully
+"['geblek', 'bgt', 'gueelg', 'ngisi', 'gform', 'malah', 'ngetik', 'usn', 'ig', 'untung', 'bisa', 'di', 'edit']",NoBully,NoBully
+"['dwiki', 'geblek']",NoBully,NoBully
+"['stres', 'lu', 'ya', 'dari', 'typingnya', 'cewe', 'lu', 'tuh', 'baik', 'pengertian', 'sm', 'tulus', 'sm', 'lu', 'gitu', 'dasar', 'geblek']",NoBully,NoBully
+"['gak', 'jelas', 'juga', 'ini', 'yg', 'ngontrak', 'gaada', 'ngomong', 'apa', 'kalo', 'listrik', 'mau', 'abis', 'malah', 'dimatiin', 'suaranya', 'geblek', 'juga']",NoBully,NoBully
+['geblek'],NoBully,Bully
+"['hwasa', 'geblek', 'pdhal', 'konser', 'di', 'kampus', 'loh', 'goblok']",NoBully,NoBully
+"['wkakakkakwkwkw', 'geblek']",NoBully,NoBully
+"['kwkwkwkkw', 'speed', 'geblek']",NoBully,NoBully
+"['geblek', 'di', 'hujat']",Bully,Bully
+"['geblek', 'wkwkwk']",NoBully,Bully
+"['beberapa', 'resep', 'sayur', 'asem', 'pakai', 'terasi', 'jika', 'alasannya', 'terasi', 'make', 'sense', 'karena', 'terasi', 'dari', 'udang', 'rebon', 'lah', 'ini', 'dari', 'tamarind', 'atau', 'asam', 'jawa', 'geblek']",NoBully,NoBully
+"['sama', 'gw', 'jg', 'rage', 'quit', 'ajijg', 'geblek', 'muntah']",NoBully,NoBully
+"['geblek', 'ngakak', 'anjir', 'ada', 'aja', 'kelakuan']",NoBully,NoBully
+"['geblek', 'anying']",NoBully,Bully
+['geblek'],NoBully,Bully
+"['yg', 'bener', 'aja', 'berli', 'lu', 'kebangun', 'jam', 'segini', 'buat', 'emosi', 'doang', 'audit', 'nanti', 'pagi', 'gelo', 'geblek', 'belajar', 'h']",Bully,Bully
+['geblek'],Bully,Bully
+"['geblek', 'wkwkwk']",NoBully,Bully
+"['si', 'geblek']",NoBully,Bully
+"['geblek', 'elu', 'sendiri', 'yg', 'nge', 'post', 'keren', 'mang']",NoBully,NoBully
+"['geblek', 'jonghan', 'cakep', 'kyagini', 'bgt', 'buset', 'mksd', 'gw', 'dia', 'emg', 'diluar', 'kendali', 'manusia', 'cakepnya', 'tp', 'ini', 'bro']",NoBully,NoBully
+"['yaallah', 'secakep', 'ini', 'dikasi', 'soju', 'geblek']",NoBully,NoBully
+"['lah', 'geblek', 'ternyata', 'ngga', 'beneran', 'debut', 'aktor', 'dia', 'gue', 'udh', 'bahagia', 'bgt', 'anjeng']",NoBully,NoBully
+"['geblek', 'wkejekeekek']",NoBully,NoBully
+['geblek'],Bully,Bully
+"['sangyeon', 'gemec', 'gitu', 'apasih', 'jumil', 'apasih', 'gblk', 'geblek', 'the', 'transition', 'tho']",Bully,Bully
+"['bangsat', 'bs', 'transfer', 'ke', 'pulpen', 'gt', 'ajg', 'wanginya', 'geblek']",NoBully,NoBully
+"['he', 'geblek', 'jijel', 'masuk', 'sm', 'jalur', 'saturday', 'auditions', 'yg', 'terkenal', 'sulit', 'udh', 'terbukti', 'dia', 'berbakat', 'apalagi', 'yg', 'dipertanyakan', 'aespa', 'udh', 'mau', 'thn', 'masih', 'aja', 'kesel', 'bgt']",NoBully,NoBully
+"['suka', 'banget', 'kodean', 'kek', 'anak', 'bocah', 'wkwkw', 'habis', 'gue', 'entar', 'dia', 'juga', 'bikin', 'tp', 'jarang', 'chatan', 'emg', 'geblek']",NoBully,NoBully
+"['geblek', 'jauh', 'jauh', 'dapet', 'orang', 'bantul']",NoBully,NoBully
+['geblek'],NoBully,Bully
+"['dikasik', 'kerjaaan', 'malah', 'ini', 'geblek', 'emmah']",Bully,Bully
+"['jan', 'geblek', 'kon', 'iku', 'gatau', 'belajar', 'totok', 'kesalahan']",NoBully,NoBully
+"['eh', 'anjing', 'nanaonan', 'acara', 'teh', 'kek', 'geblek']",NoBully,NoBully
+['geblek'],NoBully,Bully
+['geblek'],Bully,Bully
+['geblek'],Bully,Bully
+"['geblek', 'wkwk']",NoBully,Bully
+"['anjir', 'sepele', 'mata', 'lu', 'wkwkwk', 'geblek', 'banget', 'ini']",NoBully,NoBully
+"['si', 'geblek', 'anjg', 't']",Bully,Bully
+"['pahmi', 'niat', 'bantu', 'woi', 'rafly', 'geblek']",NoBully,NoBully
+"['geblek', 'rasido', 'penalty']",NoBully,NoBully
+"['knp', 'ya', 'selalu', 'salah', 'satu', 'huruf', 'emg', 'bagusan', 'google', 'dl', 'drpd', 'nanya', 'hint', 'lain', 'karna', 'udh', 'tau', 'pw', 'nya', 'apa', 'tp', 'salah', 'satu', 'huruf', 'geblek']",NoBully,NoBully
+['geblek'],Bully,Bully
+['geblek'],NoBully,Bully
+"['geblek', 'inget', 'banget', 'gua', 'hahah']",NoBully,NoBully
+"['anj', 'geblek']",NoBully,NoBully
+['geblek'],NoBully,Bully
+"['lah', 'geblek']",NoBully,Bully
+"['geblek', 'dikit', 'ga', 'ngaruh']",NoBully,NoBully
+"['wong', 'geblek']",Bully,Bully
+['geblek'],Bully,Bully
+['geblek'],Bully,Bully
+['geblek'],NoBully,Bully
+"['geblek', 'buset', 'lah', 'khodam', 'nya', 'truk']",NoBully,NoBully
+"['lebih', 'heboh', 'penata', 'rambutnya', 'outfitnya', 'bukan', 'elo', 'yg', 'artisnya', 'geblek']",Bully,Bully
+"['dasare', 'geblek', 'pancen', 'ngono']",NoBully,NoBully
+"['geblek', 'wkwkwkwk']",NoBully,Bully
+"['wkwkw', 'namanya', 'il', 'it', 'member', 'label', 'pick', 'anying', 'dah', 'suka', 'aja', 'ini', 'mah', 'sapa', 'yg', 'debut', 'geblek']",NoBully,NoBully
+"['saking', 'ngantuknya', 'tidur', 'di', 'lrt', 'sambil', 'baca', 'doa', 'tidur', 'geblek']",NoBully,NoBully
+"['wkwkwkw', 'geblek']",NoBully,NoBully
+"['song', 'of', 'the', 'bandits', 'keknya', 'nih', 'masuk', 'list', 'best', 'drama', 'ku', 'tahun', 'ini', 'deh', 'perfect', 'gila']",NoBully,NoBully
+"['se', 'hace', 'el', 'loco', 'mãrale', 'lo', 'que', 'retwitteaðÿðÿââïðÿ']",NoBully,NoBully
+"['gila', 'bulan', 'ini', 'jam', 'tidur', 'berantakan', 'bnget', 'ðÿ']",NoBully,NoBully
+"['itâs', 'in', 'the', 'morning', 'ramai', 'gila', 'orang', 'korang', 'datang', 'pukul', 'berapa', 'doh']",NoBully,NoBully
+"['i', 'pun', 'mata', 'berat', 'gila', 'tapi', 'tahan', 'ja', 'tapi', 'certain', 'time', 'terlelap', 'jugakkkðÿ', 'nasib', 'baik', 'masa', 'his', 'performance', 'tu', 'terus', 'bukak', 'mata', 'ðÿšðÿš']",NoBully,NoBully
+"['nanon', 'cakep', 'pisan', 'pake', 'biru', 'ini', 'gila', 'gila']",NoBully,NoBully
+"['bestnya', 'weh', 'tgk', 'sungai', 'buloh', 'cantik', 'gila']",NoBully,NoBully
+"['ih', 'seru', 'bgt', 'k', 'eru', 'gila', 'pecah', 'bgt']",NoBully,NoBully
+"['wah', 'gila']",NoBully,NoBully
+"['huaah', 'gila', 'ga', 'nyesel', 'nonton', 'smtown', 'in', 'jakarta', 'kapan', 'lgi', 'konser', 'ngeliatnya', 'rombongan', 'sm', 'family', 'kan', 'happy', 'bgt', 'trus', 'ya', 'emg', 'keknya', 'mayoritas', 'tuh', 'nctzen', 'sama', 'elf', 'diliat', 'dri', 'warna', 'fanlight', 'nyacantik', 'ðÿ', 'tpi', 'tuuuh', 'benerâ', 'karokean', 'brg', 'nyanyi', 'kenceng', 'dri', 'az']",NoBully,NoBully
+"['gila', 'deket', 'banget', 'anjt']",NoBully,NoBully
+"['jk', 'side', 'profile', 'ganteng', 'bgt', 'gilaaðÿðÿ']",NoBully,NoBully
+"['bisa', 'apa', 'bisa', 'gila']",NoBully,NoBully
+"['gila', 'winter', 'attractive', 'banget']",NoBully,NoBully
+"['d', 'is', 'coming', 'woi', 'gila']",NoBully,NoBully
+"['anjir', 'dh', 'lh', 'gwe', 'bisa', 'gila']",NoBully,NoBully
+"['wih', 'gila', 'ini', 'baru', 'muncul']",NoBully,NoBully
+"['gila', 'jaehyun', 'ganteng', 'bgt', 'woi', 'mo', 'teriak', 'aja', 'rasanya', 'hua']",NoBully,NoBully
+"['jajajaja', 'si', 'pero', 'en', 'el', 'pecho', 'lo', 'tengo', 'yo', 'gila', 'jajaja']",NoBully,NoBully
+"['army', 'gila', 'gila', 'teriaknya', 'kenceng', 'banget', 'dan', 'woof', 'woof', 'jugaðÿðÿðÿ']",NoBully,NoBully
+"['beneren', 'smua', 'gila', 'deh', 'klau', 'dia', 'pake', 'natural', 'hairnya', 'bikin', 'jantung', 'repooot', 'ðÿðÿ']",NoBully,NoBully
+"['bakal', 'gila', 'sih', 'aku']",NoBully,NoBully
+"['gila', 'bruno', 'main', 'bagus', 'banget']",NoBully,NoBully
+"['gila', 'sendiri', 'ngebaca', 'bblnya', 'sonuðÿðÿœ']",NoBully,NoBully
+"['aku', 'nonton', 'ini', 'pas', 'ending', 'nangis', 'bareng', 'sama', 'mamak', 'ku', 'gila', 'nyesek', 'banget']",NoBully,NoBully
+"['haha', 'baru', 'stres', 'belum', 'gila']",NoBully,NoBully
+"['bu', 'ketemu', 'aja', 'jangan', 'takut', 'yang', 'penting', 'ada', 'saksi', 'dr', 'sisi', 'ibu', 'mana', 'ada', 'cewe', 'yang', 'berhubungan', 'dengan', 'suami', 'orang', 'yang', 'bener', 'wkwkwkw', 'cewe', 'gila']",NoBully,NoBully
+"['gila', 'racikan', 'matic', 'nya', 'ngeri']",NoBully,NoBully
+"['pemenangnya', 'tetap', 'suju', 'dan', 'tvxq', 'gila', 'pecah', 'banget', 'sih', 'tadi', 'pas', 'mereka', 'tampil']",NoBully,NoBully
+"['gila', 'bruno', 'volley', 'nya', 'kek', 'rvp']",NoBully,NoBully
+"['bruno', 'first', 'timenya', 'gila']",NoBully,NoBully
+"['gila', 'evans']",NoBully,NoBully
+"['gils', 'cakep', 'bruno', 'umpan', 'evans', 'juga', 'gila']",NoBully,NoBully
+"['sumpah', 'sangyeon', 'gila', 'bangeet']",NoBully,NoBully
+"['wah', 'baru', 'tau', 'gila', 'mungkin', 'jes', 'sengaja', 'ngga', 'ambil', 'foto', 'dr', 'angel', 'kaya', 'ppany', 'karena', 'ada', 'billboard', 'chicago', 'ya']",NoBully,NoBully
+"['nah', 'justru', 'bagus', 'soalnya', 'kita', 'juga', 'kebetulan', 'gilaaðÿ']",NoBully,NoBully
+"['masih', 'aja', 'ngeles', 'si', 'monyet', 'lu', 'ga', 'sadar', 'ayat', 'yg', 'gw', 'bawa', 'ya', 'dri', 'awal', 'itu', 'ayatnya', 'lu', 'gila']",NoBully,NoBully
+"['spil', 'respon', 'crush', 'mu', 'nder', 'gila', 'keren', 'bgt', 'lu', 'nder', 'semangat', 'ya']",NoBully,NoBully
+"['org', 'gila', 'biarin', 'aj', 'mau', 'nykitin', 'dri', 'sndri', 'kek', 'mau', 'mati', 'kek', 'ðÿ']",Bully,Bully
+"['gila', 'gila', 'saking', 'banyaknya', 'yang', 'buang', 'sampah', 'sembarangan']",NoBully,NoBully
+"['gila', 'jaemin', 'badan', 'lo', 'bagus', 'banget', 'ðÿ']",NoBully,NoBully
+"['cakep', 'bngt', 'anjing', 'huah', 'gila']",NoBully,NoBully
+"['gila', 'tahun', 'ini', 'dying', 'fetus', 'putridity', 'cryptopsy', 'sama', 'cannibal', 'corpse', 'pada', 'ngeluarin', 'album']",NoBully,NoBully
+"['takut', 'dikira', 'orang', 'gila', 'jam', 'segini', 'kelilingkeliling', 'komplek', 'kakðÿ']",NoBully,NoBully
+"['sometidasa', 'la', 'gilaaðÿðÿ']",NoBully,NoBully
+"['performance', 'nya', 'yg', 'paling', 'seru', 'itu', 'suju', 'sama', 'tvxq', 'sih', 'gila', 'pecah', 'bgt', 'ðÿðÿðÿðÿ']",NoBully,NoBully
+"['gak', 'sia', 'gue', 'nunggu', 'arthdal', 'selama', 'thn', 'gila', 'sih', 'season', 'seru', 'semua']",NoBully,NoBully
+"['udah', 'gila', 'ini', 'kayanyaðÿ']",NoBully,NoBully
+"['suju', 'keren', 'bgt', 'ashajwk', 'trs', 'tvxq', 'fun', 'bgt', 'anjr', 'crowd', 'nua', 'literally', 'wayv', 'jg', 'nct', 'jg', 'trs', 'raise', 'jg', 'keren', 'banget', 'aespa', 'rv', 'jg', 'kyk', 'mereka', 'smw', 'kren', 'bgt', 'heran', 'dn', 'energi', 'nya', 'pada', 'banyak', 'bgt', 'bjir', 'banyak', 'fireworks', 'gila', 'mau', 'nonton', 'lg', 'pls', 'ðÿðÿ']",NoBully,NoBully
+"['jiwa', 'pink', 'blood', 'gue', 'balik', 'lagi', 'setelah', 'nonton', 'smtownðÿ', 'gila', 'gue', 'sekangen', 'itu', 'bahkan', 'lirik', 'lagu', 'mereka', 'ada', 'beberapa', 'yang', 'masih', 'hapal', 'huhu']",NoBully,NoBully
+"['iya', 'padat', 'gila', 'jadwal', 'dalam', 'seminggu', 'kali', 'main', 'keliatan', 'cris', 'sama', 'kounde', 'kelelahannya', 'ara', 'juga', 'baru', 'nyetel', 'karena', 'cedera']",NoBully,NoBully
+"['gila', 'suer', 'deh', 'bang', 'dan', 'emg', 'harus', 'spent', 'lebih', 'biar', 'dpt', 'paling', 'depan', 'ga', 'boong', 'rame', 'bgt', 'konser', 'mereka', 'tuh']",NoBully,NoBully
+"['gila', 'jijel', 'aura', 'nya', 'di', 'zo', 'kaga', 'maen', 'maen']",NoBully,NoBully
+"['gila', 'tuuh', 'celta', 'make', 'pemeran', 'toy', 'story', 'anjirðÿðÿž']",NoBully,NoBully
+"['gila', 'kerenðÿ']",NoBully,NoBully
+"['gila', 'gila', 'gila', 'gila', 'kok', 'bisa', 'ya', 'ada', 'manusia', 'seindah', 'ini']",NoBully,NoBully
+"['aduh', 'gila', 'gue', 'gila', 'edan', 'ji', 'changmin', 'gabisa', 'geser', 'dikit', 'kh', 'dari', 'tipe', 'aku']",NoBully,NoBully
+"['gila', 'barca']",NoBully,NoBully
+"['gila', 'gila']",NoBully,NoBully
+"['cancelo', 'comeback', 'cuk', 'gila']",NoBully,NoBully
+"['gila', 'barca', 'kambek', 'njir', 'ðÿ']",NoBully,NoBully
+"['gw', 'respect', 'bgt', 'sama', 'org', 'kaya', 'gini', 'gila', 'ya', 'dah', 'oleng', 'gitu', 'tapi', 'maksain', 'buat', 'tampil', 'demi', 'fansnya', 'ðÿ']",NoBully,NoBully
+['gila'],NoBully,NoBully
+"['barca', 'gila']",Bully,NoBully
+"['sama', 'ka', 'aku', 'jga', 'terharu', 'merinding', 'waah', 'gila', 'keren', 'bnget', 'pokoknya', 'ðÿðÿðÿ']",NoBully,NoBully
+"['q', 'gila', 'jajajajajajajaja']",NoBully,NoBully
+"['langsung', 'ka', 'ovt', 'gila', 'urusannya', 'deh', 'nyaman', 'mka', 'cerita', 'disni', 'siapa', 'suruh', 'pergi', 'nda', 'ada', 'mi', 'tempatku', 'cerita', 'setidaknya', 'di', 'twitter', 'bisa', 'lepaskan', 'beban', 'ku', 'sedikit']",NoBully,NoBully
+"['gila', 'keren', 'bgt', 'sih', 'akhir', 'putusan', 'sidangnya', 'wkwkwk', 'siapâ', 'menuju', 'konflik', 'lainnya', 'kah', 'kaaðÿ']",NoBully,NoBully
+"['gempak', 'gila', 'animation', 'diaðÿ']",NoBully,NoBully
+"['as', 'an', 'elf', 'yg', 'super', 'sayang', 'sama', 'tvxq', 'aku', 'pribadi', 'mau', 'ngucapin', 'makasih', 'banyak', 'buat', 'nctzen', 'karena', 'tadi', 'ikut', 'sing', 'along', 'sama', 'fanchant', 'pas', 'mereka', 'perform', 'ðÿ', 'bener', 'tadi', 'tuh', 'dari', 'black', 'suit', 'mamacita', 'sampe', 'sorry', 'semuanya', 'sing', 'along', 'dan', 'pas', 'mirotic', 'fanchant', 'nya', 'gila', 'bgt', 'woy', 'ðÿ']",NoBully,NoBully
+"['wtf', 'gue', 'gila', 'benerâ', 'gila', 'ðÿðÿš']",NoBully,NoBully
+"['gr', 'comel', 'gila']",NoBully,NoBully
+"['duh', 'coba', 'dlu', 'aja', 'eps', 'alurnya', 'tu', 'bagus', 'bgt', 'gila', 'sat', 'set', 'bgt', 'jd', 'gak', 'boseni', 'samsek', 'suka', 'bgt', 'ðÿ']",NoBully,NoBully
+"['gila', 'gila', 'berat', 'bgt', 'ya', 'ekspektasinya', 'wkwk', 'semangat', 'kita']",NoBully,NoBully
+"['gila', 'gue', 'gila']",NoBully,NoBully
+"['banget', 'uda', 'gila', 'gue']",NoBully,NoBully
+"['ataga', 'masalah', 'makan', 'jujurâ', 'an', 'ngerembet', 'kmna', 'mana', 'kompor', 'meledug', 'bgt', 'gila', 'ngeri', 'bgt', 'bukanya', 'di', 'akurin', 'orang', 'pada', 'huru', 'hara', 'wahgila', 'gak', 'respek', 'aing', 'skrng', 'sama', 'ini', 'orang']",NoBully,NoBully
+"['sama', 'lagi', 'tadi', 'beli', 'tahu', 'gejrot', 'ceritanya', 'sambil', 'nunggu', 'pesen', 'ojol', 'setiap', 'yg', 'lewat', 'ngomong', 'gini', 'donghae', 'gila', 'sihhblablabla', 'donghae', 'sih', 'kaget', 'gw', 'liat', 'diablablabla', 'real', 'no', 'fake', 'fake', 'ini', 'mah', 'elfs', 'yg', 'bias', 'nya', 'donghae', 'siapâ', 'makin', 'banyak', 'saingan', 'ðÿ']",NoBully,NoBully
+"['ya', 'allah', 'kim', 'jiwoong', 'malem', 'jangan', 'bikin', 'gua', 'gila']",NoBully,NoBully
+"['btw', 'tadi', 'gue', 'ketemu', 'kating', 'cakep', 'bgt', 'demi', 'allah', 'dia', 'cewe', 'tapi', 'perawakannya', 'kek', 'beda', 'bgt', 'cakep', 'yang', 'gila']",NoBully,NoBully
+"['abis', 'konser', 'gila', 'jam', 'segini', 'masih', 'muacet', 'buangeet']",NoBully,NoBully
+"['como', 'me', 'quema', 'la', 'gilaaðÿ']",NoBully,NoBully
+"['ga', 'kesempetan', 'poto', 'suju', 'karna', 'dah', 'gila', 'duluan']",NoBully,NoBully
+"['yaallah', 'rebahan', 'tadi', 'minum', 'air', 'dingin', 'beh', 'gila', 'enak', 'pake', 'bngt', 'benerâ', 'nikmat', 'mana', 'yg', 'telah', 'engkau', 'dustakanðÿ']",NoBully,NoBully
+"['emg', 'tuh', 'shipper', 'pada', 'gila', 'wkwk', 'org', 'jelas', 'kasus', 'sama', 'mash', 'aja', 'yg', 'bilang', 'beda', 'kasus', 'wkwkwk']",NoBully,NoBully
+"['gila', 'itu', 'panjanh', 'banget']",NoBully,NoBully
+"['ini', 'lama', 'gw', 'bjsa', 'gila', 'ini']",NoBully,NoBully
+"['lari', 'ada', 'cowok', 'gila', 'wkwkwwk', 'ngakak']",NoBully,NoBully
+"['jir', 'puyeng', 'bgt', 'aku', 'gil', 'tadi', 'di', 'jalan', 'sesek', 'bgt', 'terakhir', 'macetan', 'kaya', 'gt', 'di', 'jakarta', 'dulu', 'ga', 'nyangka', 'bakal', 'ngerasain', 'macet', 'parah', 'bgt', 'gini', 'di', 'pwt']",NoBully,NoBully
+"['eh', 'gila', 'jaewo', 'selca', 'di', 'indo', 'dong', 'ðÿðÿœ']",NoBully,NoBully
+"['lu', 'diem', 'aja', 'udh', 'attractive', 'bgt', 'ini', 'malah', 'dikasih', 'lagu', 'lemonade', 'body', 'rol', 'apa', 'ga', 'makin', 'gila', 'semua', 'org', 'yg', 'keluar', 'dr', 'gbk']",NoBully,NoBully
+"['a', 'diwnsiiwis', 'bisa', 'gila', 'liat', 'fancame', 'terus']",NoBully,NoBully
+"['astaga', 'aku', 'nk', 'tidur', 'dh', 'gila', 'ðÿðÿ']",NoBully,NoBully
+"['cantik', 'bgt', 'gila', 'p', 'naksir']",NoBully,NoBully
+"['gila', 'kim', 'junkyu', 'kereen', 'abieez']",NoBully,NoBully
+"['shimkongz', 'ini', 'beneran', 'udah', 'gilaaðÿðÿ']",Bully,Bully
+"['gila', 'ðÿðÿ', 'deket', 'banget', 'buset']",NoBully,NoBully
+"['gila', 'aespa', 'keren', 'banget', 'anjir', 'gws']",NoBully,NoBully
+"['gue', 'bilang', 'santai', 'aja', 'bukan', 'berarti', 'lu', 'ga', 'harus', 'balikin', 'gila']",NoBully,NoBully
+"['ningning', 'bikin', 'gila', 'cantik', 'bangetðÿðÿ']",NoBully,NoBully
+"['tugasnya', 'tu', 'sangat', 'simpel', 'cukup', 'menjadi', 'gila', 'di', 'atas', 'orang', 'gila']",NoBully,NoBully
+"['gila', 'a', 'selama', 'konser', 'senyum', 'senyum', 'sendiri', 'karna', 'pangling', 'bgt', 'momoâ', 'ðÿðÿ']",NoBully,NoBully
+"['ngentot', 'harusnya', 'aing', 'kumpul', 'keluarga', 'hari', 'ini', 'cape', 'banget', 'gila', 'udah', 'request', 'dari', 'bulan', 'agustus', 'schedule', 'nya', 'malah', 'jumat', 'kemarin', 'libur']",NoBully,NoBully
+"['gila', 'aja', 'tahun', 'ini', 'umur', 'aku', 'ðÿ']",NoBully,NoBully
+"['woy', 'gila', 'ganteng', 'bgt', 'ðÿ']",NoBully,NoBully
+"['ngga', 'lah', 'gila']",NoBully,NoBully
+"['diatas', 'gila', 'kayanya', 'keadaan', 'gue', 'sekarang']",NoBully,NoBully
+"['gila', 'keren', 'banget', 'congrats', 'ya']",NoBully,NoBully
+"['ayam', 'goreng', 'weh', 'comel', 'gilaaðÿðÿ', 'mcm', 'pujuk', 'upin', 'ipinðÿ']",NoBully,NoBully
+"['ah', 'elah', 'org', 'kl', 'udah', 'jatuh', 'cinta', 'emg', 'goblok', 'bgt']",NoBully,NoBully
+"['tanda', 'piknik', 'itu', 'wawasan', 'luas', 'gak', 'goblok', 'kayak', 'kadrun']",NoBully,NoBully
+"['merkosa', 'aja', 'udah', 'gak', 'normal', 'bisabisanya', 'ngomong', 'âœorg', 'normal', 'merkosa', 'cewek', 'cakepâ', 'org', 'goblok']",NoBully,NoBully
+"['beda', 'level', 'goblok', 'eddie', 'punya', 'ucl', 'onana', 'ga', 'punya', 'ucl', 'minimal', 'punya', 'ucl', 'lah', 'wkwk', 'mampus', 'enak', 'ga', 'di', 'gituin']",Bully,Bully
+"['woy', 'kunyukelu', 'kira', 'senin', 'selasa', 'rabu', 'itu', 'bahasa', 'dr', 'mana', 'kalo', 'goblok', 'jangan', 'dipatenin']",Bully,Bully
+"['goblok', 'ini', 'mah', 'beda', 'org']",NoBully,Bully
+"['kok', 'makin', 'lama', 'orang', 'makin', 'gila', 'ya', 'bisaânya', 'dilemparin', 'batu', 'wong', 'goblok', 'kalau', 'bercandaan', 'ini', 'kelewatan', 'banget', 'anying']",NoBully,NoBully
+"['loe', 'bawa', 'kanjuruhan', 'yg', 'gak', 'ada', 'sangkut', 'pautnyamau', 'cari', 'muka', 'ada', 'arema', 'nihgak', 'nyambung', 'coysolo', 'ya', 'solo', 'yg', 'dibahas', 'jgn', 'bawa', 'kanjuruhangoblok']",NoBully,NoBully
+"['jadi', 'apa', 'apa', 'itu', 'jangka', 'panjang', 'jangan', 'di', 'liat', 'âœga', 'pernah', 'jajan', 'sekali', 'jajan', 'jadi', 'penyakitanâ', 'ya', 'berarti', 'organ', 'anaknya', 'sehat', 'kena', 'bakteri', 'ga', 'cocok', 'goblok']",NoBully,NoBully
+"['itu', 'dkomen', 'ada', 'yg', 'bilang', 'fans', 'ditanya', 'yg', 'sngaja', 'ship', 'jgn', 'goblok', 'fans', 'pihak', 'laki', 'yg', 'awalnya', 'ngship', 'mereka', 'dri', 'jaman', 'era', 'who', 'dis', 'dlu', 'd', 'ytube', 'udah', 'dluan', 'jdi', 'fans', 'kpop', 'tp', 'masih', 'kalah', 'segi', 'pemikiran', 'dri', 'fans', 'dita', 'yg', 'cm', 'anggap', 'itu', 'hiburan', 'doang', 'alias', 'cocoklogi', 'fiktif', 'blok', 'goblok']",Bully,Bully
+"['goblok', 'goblok', 'goblok', 'goblok', 'gobloooooooooooooooooook', 'manusia', 'jaman', 'sekarang', 'kok', 'pada', 'goblok', 'bgt', 'sumpaah']",Bully,Bully
+"['goblok', 'ngpain', 'dh', 'cwo', 'bnyk', 'yg', 'dm']",NoBully,NoBully
+"['orang', 'goblok', 'sadarnya', 'belakangan', 'ðÿðÿðÿƒðÿƒðÿðÿðÿðÿ']",NoBully,NoBully
+"['eh', 'sumpil', 'ya', 'gw', 'nih', 'udah', 'ada', 'di', 'titik', 'bukan', 'cuma', 'kangen', 'wonwo', 'tp', 'sama', 'anak', 'semua', 'juga', 'kayak', 'kamu', 'dimana', 'dengan', 'siapa', 'semalam', 'berbuat', 'apa', 'huhu', 'kangen', 'bgt', 'elah', 'goblok', 'ðÿžðÿž']",NoBully,NoBully
+['goblok'],Bully,Bully
+"['kadroen', 'sepertimu', 'mana', 'ada', 'pintarnya', 'yg', 'ada', 'goblok', 'permanen', 'dikitâ', 'bicara', 'hutang', 'mana', 'ada', 'negara', 'gak', 'hutang', 'hutang', 'selama', 'penggunaan', 'jelas', 'untuk', 'infrastruktur', 'produktip', 'amp', 'kemajuan', 'negara', 'apa', 'salahnya', 'terpenting', 'tdk', 'melanggar', 'u', 'jadi', 'orang', 'pinter', 'dikit', 'jangan', 'tolol', 'goblok']",Bully,Bully
+['goblok'],Bully,Bully
+"['goblok', 'bener', 'lakinya']",Bully,Bully
+"['klo', 'org', 'udh', 'suka', 'knp', 'goblok', 'bgt', 'si']",NoBully,Bully
+"['ngatain', 'tidak', 'ada', 'pengalaman', 'ke', 'orang', 'muda', 'yang', 'baru', 'mulai', 'lha', 'kuwi', 'kan', 'jenenge', 'golek', 'pengalaman', 'to', 'blok', 'goblok']",Bully,Bully
+"['dikasih', 'm', 'goblok', 'kalo', 'trading']",NoBully,NoBully
+"['goblok', 'banget', 'penegakan', 'hukumyg', 'd', 'bantu', 'rakyat', 'sendiri', 'bambangnoh', 'sana', 'tangkapin', 'teroris', 'papua']",Bully,Bully
+"['gemeteran', 'takut', 'goblok', 'posisi', 'lg', 'sendiri', 'kirain', 'mau', 'di', 'culik']",NoBully,NoBully
+"['inilah', 'knp', 'alasan', 'utk', 'jgn', 'biarkan', 'orang', 'bodohtololgoblok', 'berkembang', 'biak']",Bully,Bully
+"['orang', 'goblok', 'gampang', 'kemakan', 'hoax']",Bully,Bully
+"['iya', 'pak', 'benar', 'masih', 'aja', 'ada', 'yang', 'goblok']",NoBully,Bully
+"['krn', 'kalian', 'goblok', 'pura', 'jika', 'megawati', 'mmg', 'malas', 'kuliah', 'dan', 'isi', 'pidatonya', 'omong', 'kosong']",Bully,Bully
+"['hari', 'gini', 'masih', 'ada', 'manusia', 'goblok', 'seperti', 'ini', 'mungkin', 'dia', 'makannya', 'sampah', 'setiap', 'hari', 'sehingga', 'otaknya', 'berisi', 'kotoran', 'pikirannya', 'sama', 'dengan', 'media', 'tak', 'berbobot', 'ini', 'isinya', 'berita', 'tak', 'berbobot', 'dan', 'cuma', 'dagelan', 'kebencian', 'saja']",Bully,Bully
+"['media', 'goblok', 'sih', 'initeriak', 'bubarkan', 'turunkan', 'dan', 'hampir', 'tahun', 'ga', 'jelas', 'hasilnya', 'jangan', 'sampai', 'masih', 'teriak', 'juga', 'bubarkan', 'pemerintah']",Bully,Bully
+"['goblok', 'kok', 'cepu', 'goblok', 'itu', 'belajar']",NoBully,Bully
+"['were', 'leaving', 'problematic', 'fanbases', 'â', 'gangguin', 'btw', 'lagian', 'lu', 'siapa', 'ga', 'diajakin', 'ngobrol', 'malah', 'ikutan', 'nimbrung', 'ngatain', 'org', 'goblok', 'lagi', 'wkwk', 'tp', 'apa', 'sih', 'yg', 'diharepin', 'dari', 'orang', 'yg', 'cara', 'analisisnya', 'kaya', 'lu', 'lmfao']",Bully,Bully
+"['antara', 'goblok', 'sm', 'diguna', 'sih', 'itu', 'mah']",NoBully,NoBully
+"['bodoh', 'tolol', 'anjing', 'bangsat', 'goblok', 'ucap', 'diriku', 'kpd', 'diriku']",NoBully,NoBully
+"['goblok', 'kok', 'cepu', 'kalo', 'goblok', 'belajar', 'toloi']",Bully,Bully
+"['backsound', 'on', 'si', 'gobloook', 'o', 'si', 'goblok']",Bully,Bully
+"['goblok', 'bgt', 'ðÿðÿžâï']",Bully,Bully
+"['kontol', 'lu', 'anjing', 'bangsat', 'gw', 'belom', 'cair', 'dari', 'tip', 'malah', 'cepu', 'goblok']",NoBully,NoBully
+"['ngatain', 'orang', 'goblok', 'padahal', 'sendirinya', 'yg', 'goblok', 'heran', 'ih', 'pantes', 'aja', 'kayak', 'gitu', 'orang', 'dia', 'akgae', 'sama', 'anti', 'jungkook', 'ðÿ']",NoBully,NoBully
+"['yok', 'ayok', 'goblok', 'nya', 'di', 'pelihara']",NoBully,NoBully
+"['lah', 'lu', 'baru', 'goblokdulunya', 'pinter', 'waktu', 'belum', 'jdi', 'buzzerpnis', 'kntl', 'tllðÿðÿ']",Bully,Bully
+"['goblok', 'lu']",Bully,Bully
+"['goblok', 'bin', 'dungu', 'loe', 'mu', 'kalo', 'ucapin', 'assalamualaikum', 'itu', 'harus', 'lengkap', 'kalo', 'ucapin', 'innalillahi', 'itu', 'juga', 'harus', 'lengkap', 'dasar', 'kadroen', 'titid', 'kecil', 'ðÿðÿðÿðÿðÿðÿ']",Bully,Bully
+"['lu', 'cowo', 'apa', 'banci', 'celamitan', 'bgt', 'ngurusin', 'org', 'cebong', 'goblok']",Bully,Bully
+"['kadrun', 'kalo', 'ga', 'goblok', 'ya', 'gila']",Bully,Bully
+"['goblok', 'blok', 'goblok']",Bully,Bully
+"['minimal', 'nanya', 'goblok', 'kalo', 'gatau', 'bukan', 'malah', 'jadi', 'bikin', 'indo', 'di', 'ban', 'lu', 'tolol', 'punya', 'otak', 'ga', 'di', 'pake', 'komunitas', 'negara', 'india', 'mah', 'kompak', 'bukan', 'malah', 'cepuin', 'negara', 'sendiri', 'babi', 'gua', 'baru', 'garap', 'round', 'ini', 'kontol', 'lu', 'anjing']",Bully,Bully
+"['makanya', 'baca', 'tolol', 'goblok', 'jadi', 'orang', 'udah', 'disediain', 'kalkulator', 'di', 'webnya', 'masih', 'aja', 'ga', 'ngerti', 'goblok', 'tolol']",Bully,Bully
+"['ketikan', 'lo', 'buset', 'kayanya', 'lo', 'yang', 'sakit', 'dah', 'anying', 'trus', 'lo', 'mau', 'ngeliat', 'idol', 'gue', 'ampe', 'pingsan', 'di', 'panggung', 'kah', 'goblok']",NoBully,NoBully
+"['ancene', 'seng', 'wedok', 'iki', 'ga', 'seneng', 'kon', 'blok', 'goblokðÿ', 'mek', 'pgn', 'duekmu', 'tok', 'mendo', 'ancen', 'arek', 'ðÿðÿðÿ']",NoBully,NoBully
+"['dan', 'masih', 'aja', 'ada', 'org', 'yg', 'rela', 'goblok', 'membelanya']",NoBully,NoBully
+"['undang', 'undang', 'sialan', 'tapi', 'orang', 'goblok', 'di', 'senayan', 'mendukungnya', 'eh', 'iya', 'kan', 'goblok']",Bully,Bully
+"['eh', 'lu', 'ga', 'diajak', 'goblok']",Bully,Bully
+"['ngatain', 'orang', 'goblok', 'padahal', 'kaumnya', 'sendiri', 'yg', 'seneng', 'ketipu', 'editan', 'wkwk', 'ðÿ']",Bully,Bully
+"['aku', 'mari', 'ngeroasting', 'mantanku', 'soale', 'de', 'goblokðÿ']",Bully,Bully
+"['goblok', 'bahkan', 'anaknya', 'jokowi', 'pun', 'mulai', 'di', 'adu', 'domba', 'emng', 'biadab', 'banget', 'kerja', 'buzzerp', 'ini', 'ðÿðÿðÿðÿðÿš']",NoBully,NoBully
+"['orang', 'macam', 'elu', 'ini', 'memang', 'sangat', 'd', 'butuhkan', 'penguasacukup', 'butuh', 'rakyatbyg', 'idiot', 'goblok', 'dan', 'pandir', 'itu', 'aset', 'utama', 'penguasa', 'untuk', 'hancurkan', 'nkripenjahan', 'gaya', 'baru', 'invasi', 'bekedok', 'investasilondo', 'ireng', 'pribumi', 'd', 'manfaatkan', 'untuk', 'menindas', 'sesama', 'pribumi']",Bully,Bully
+"['goblok', 'goblokin', 'org', 'sendirinya', 'digoblokin', 'editan', 'shame', 'sheesh']",Bully,Bully
+"['alah', 'aremania', 'kalo', 'gak', 'goblok', 'ya', 'tolol']",Bully,Bully
+"['goblok', 'sih']",Bully,Bully
+"['bhahahaha', 'hooi', 'survey', 'ganjar', 'gimana', 'hooi', 'mikir', 'masa', 'mau', 'jadi', 'cawapresnya', 'prabowo', 'ðÿðÿðÿðÿ', 'orang', 'goblok', 'pun', 'tahu', 'itu', 'artinya', 'menyerah', 'karena', 'mentok', 'ðÿðÿ']",NoBully,NoBully
+"['wkwkwkwk', 'goblok']",Bully,Bully
+"['hp', 'goblok']",NoBully,NoBully
+"['jahlul', 'murokab', 'alias', 'goblok', 'berlipat']",Bully,Bully
+"['wkwkwk', 'gol', 'hiburan', 'klo', 'mau', 'ngebacot', 'tunggu', 'pertandingan', 'abis', 'bos', 'baru', 'dah', 'koment', 'semau', 'lu', 'klo', 'udh', 'kyk', 'gini', 'ketauan', 'kan', 'lu', 'itu', 'goblok']",Bully,Bully
+"['omonganmu', 'koyok', 'taek', 'mas', 'kalo', 'emang', 'ga', 'punya', 'hati', 'nurani', 'mending', 'diam', 'dan', 'yg', 'penting', 'kalopun', 'goblok', 'ya', 'minimal', 'jangan', 'dipertontonkan', 'secara', 'terangterangan', 'kecuali', 'emang', 'ga', 'punya', 'malu']",Bully,Bully
+"['tarif', 'tiket', 'berdasarkan', 'kemampuan', 'ekonomi', 'makin', 'ke', 'sini', 'makin', 'goblok', 'aja', 'pengelola', 'transportasi', 'publik', 'kita']",Bully,Bully
+"['org', 'sek', 'main', 'judi', 'online', 'ncen', 'goblok']",NoBully,NoBully
+"['yang', 'salah', 'lebih', 'galak', 'goblok', 'bener']",NoBully,NoBully
+"['goblok', 'pake', 'ngatur', 'gue']",Bully,Bully
+"['lo', 'dah', 'fitnah', 'kwkw', 'mana', 'ada', 'gw', 'cheat', 'kwkw', 'makan', 'tuhk', 'fitnah', 'dosa', 'nya', 'ampe', 'akhirat', 'goblok']",NoBully,NoBully
+"['eh', 'goblok']",Bully,Bully
+"['dlm', 'hidupgoblok', 'itu', 'istilahtpi', 'yg', 'ahli', 'tatakata', 'tpi', 'gk', 'bisa', 'kerja', 'itupenjual', 'obat', 'kyk', 'anus']",Bully,Bully
+"['eh', 'goblok', 'mana', 'ada', 'gw', 'cheat', 'lu', 'kagak', 'mampu', 'ya', 'bos', 'kerjain', 'daily', 'blog']",Bully,Bully
+"['aduh', 'goblok', 'banget', 'bahkan', 'untuk', 'menjaga', 'warung', 'pun', 'terlalu', 'pure', 'kebodohannya', 'astaghfirullah']",Bully,Bully
+"['maap', 'bgt', 'klo', 'semisal', 'konteks', 'awalny', 'becanda', 'atau', 'candaan', 'tongkrongan', 'keknya', 'gp', 'tapi', 'klo', 'dijadiin', 'trend', 'ya', 'goblok', 'si', 'ok', 'terimakasih', 'selamat', 'pagi', 'ðÿðÿ']",Bully,Bully
+"['fyp', 'gw', 'ful', 'masalah', 'ini', 'bjir', 'malah', 'merembet', 'kemana', 'mana', 'heran', 'tp', 'seru', 'liat', 'org', 'goblok', 'tantrum']",NoBully,NoBully
+"['heh', 'goblok', 'pdip', 'tanpa', 'jokowi', 'iuga', 'ga', 'nakalan', 'jadi', 'partai', 'juara', 'mikir', 'anjing']",NoBully,NoBully
+"['orang', 'tolol', 'semua', 'yg', 'nulis', 'goblok', 'yg', 'percaya', 'lebih', 'goblok', 'goblok', 'nya', 'nyundul', 'langit', 'lagi', 'ðÿââï']",NoBully,NoBully
+"['lu', 'tolol', 'bgt', 'yg', 'ngeship', 'disana', 'malah', 'ngeramein', 'disini', 'anjg', 'caper', 'bgt', 'harusnya', 'lu', 'langsung', 'aja', 'balas', 'sama', 'yg', 'ngeship', 'idol', 'lu', 'disana', 'anjg', 'goblok', 'bgt', 'sumpah', 'otak', 'lu', 'dimana', 'sih', 'dasar', 'otak', 'pembantu']",Bully,Bully
+"['brarti', 'lue', 'yg', 'goblok', 'gak', 'tau', 'apa']",Bully,Bully
+"['pelajari', 'dulu', 'itu', 'vidio', 'thn', 'brp', 'jgn', 'terlalu', 'goblok']",Bully,Bully
+"['vidio', 'lama', 'jaman', 'sby', 'hanya', 'orang', 'goblok', 'pekok', 'yg', 'bisa', 'termakqn', 'hoax', 'murahan', 'macam', 'itu']",Bully,Bully
+"['heru', 'budi', 'emang', 'goblok', 'banget', 'emang']",Bully,Bully
+"['goblok', 'kepencet', 'retweetðÿðÿðÿðÿðÿ']",NoBully,NoBully
+"['karna', 'dia', 'kadrun', 'jd', 'ya', 'auto', 'goblok']",Bully,Bully
+"['kan', 'gobloksudah', 'ada', 'contoh', 'nya', 'keluarga', 'mega', 'soekarno', 'napa', 'di', 'larang', 'kan', 'taik']",NoBully,NoBully
+"['goblok', 'dia', 'mention', 'karna', 'replaynya', 'pada', 'bilang', 'darimana', 'gambarnya', 'ye', 'ajg']",NoBully,NoBully
+"['kalau', 'orang', 'arab', 'dibilang', 'kafir', 'kalem', 'dibilang', 'non', 'muslim', 'ngamuk', 'karena', 'mereka', 'tahu', 'artinya', 'elunya', 'aja', 'yang', 'goblok']",Bully,Bully
+"['kalau', 'orang', 'arab', 'dibilang', 'kafir', 'kalem', 'dibilang', 'non', 'muslim', 'ngamuk', 'karena', 'mereka', 'tahu', 'artinya', 'elunya', 'aja', 'yang', 'goblok']",Bully,Bully
+"['yg', 'goblok', 'bukan', 'cuma', 'gubernurnya', 'tgup', 'juga', 'samaâ', 'ðÿ']",Bully,Bully
+"['nih', 'liat', 'anjing', 'pd', 'amat', 'kali', 'ya', 'ðÿðÿðÿ', 'dikira', 'ga', 'punya', 'kerjaan', 'ngeshipper', 'ga', 'jelas', 'mending', 'kerja', 'daripada', 'bikin', 'kontent', 'halu', 'baca', 'yang', 'teliti', 'biar', 'ga', 'gede', 'bacot', 'malu', 'malu', 'ðÿðÿðÿ', 'marah', 'kok', 'karena', 'shipper', 'doang', 'goblok', 'banget', 'baper', 'sama', 'orangâ', 'halu', 'for', 'fun']",NoBully,NoBully
+"['percuma', 'si', 'cakep', 'tapi', 'gaada', 'otaknya', 'alias', 'goblok', 'cape', 'anjir', 'diajak', 'ngobrol', 'haha']",Bully,Bully
+"['dih', 'dih', 'dih', 'pdnya', 'nih', 'liat', 'tolol', 'pake', 'benerâ', 'tuh', 'mata', 'baca', 'yang', 'teliti', 'yang', 'berhak', 'marah', 'tuh', 'fans', 'dita', 'tapi', 'karena', 'tau', 'ini', 'hanya', 'for', 'fun', 'makannya', 'dibiarin', 'bukan', 'kaya', 'lu', 'lu', 'pada', 'yang', 'tolol', 'marahâ', 'karena', 'shipper', 'doang', 'goblok']",Bully,Bully
+"['heran', 'ya', 'hari', 'gini', 'masih', 'ada', 'manusia', 'goblok', 'mungkin', 'dia', 'satuânya', 'yg', 'ada', 'di', 'indonesia', 'ðÿðÿðÿ']",Bully,Bully
+"['minimal', 'sadar', 'lah', 'manehna', 'sebagai', 'ketua', 'murid', 'babasaan', 'we', 'ciga', 'nu', 'teu', 'sakola', 'ngomong', 'kabatur', 'teu', 'jauh', 'ti', 'ajg', 'goblok', 'tolol', 'pls', 'da', 'urang', 'mah', 'gedeg', 'ngadenge', 'na', 'ge']",NoBully,NoBully
+"['nih', 'liat', 'goblok', 'pake', 'tuh', 'mata', 'sama', 'otak', 'kasian', 'nganggur']",Bully,Bully
+"['aku', 'paham', 'kowe', 'bucin', 'tur', 'ojo', 'goblok', 'nder']",NoBully,NoBully
+"['pantesan', 'goblok']",NoBully,NoBully
+"['no', 'komenmo', 'jdi', 'kacung', 'oligarki', 'ke', 'mo', 'jdi', 'artis', 'goblok', 'keitu', 'sih', 'derita', 'lo', 'masa', 'bodoh', 'gue', 'ttp', 'pilih', 'aniesðÿ']",NoBully,NoBully
+"['eh', 'gue', 'goblok', 'bgt']",NoBully,Bully
+"['han', 'jisung']",NoBully,NoBully
+"['not', 'in', 'kenya', 'but', 'mwatate', 'wundanyi', 'road', 'inaenda', 'kuka', 'hivi']",NoBully,NoBully
+"['buh', 'rn', '馃槪馃槪']",NoBully,NoBully
+"['lily', 'haewon', 'jooyeon', 'and', 'jungsu', 'boooooom']",NoBully,NoBully
+"['mortal', 'kombat']",NoBully,NoBully
+"['lah', 'icel', 'decul', 'bos', 'lu', 'ngatain', 'icel', 'pa', 'gmana']",NoBully,NoBully
+"['anjink', 'meme', 'kilat']",NoBully,NoBully
+['dimaafkan'],NoBully,NoBully
+"['emamh', 'boleh', 'se', 'combek', 'ini']",NoBully,NoBully
+"['udah', 'bisa', 'captcha', 'belum', 'bor', 'wkakwksks']",NoBully,NoBully
+"['biasakan', 'nonton', 'barca', 'sampai']",NoBully,NoBully
+"['suka', 'nih', 'tensi', 'naik', 'turun', 'gacor']",NoBully,NoBully
+"['selena', 'nya', 'tere', 'liye', 'petualangan', 'jack', 'amp', 'piggy', 'natal', 'jk', 'rowling', 'sama', 'the', 'blis', 'bakery']",NoBully,NoBully
+"['benda', 'basic', 'rakyat', 'malaysia', 'tak', 'kan', 'tak', 'tau', 'ala', 'macam', 'kau', 'hafal', 'lagu', 'negaraku', 'lah', 'kalau', 'lagu', 'negaraku', 'pun', 'tak', 'tau', 'tak', 'tau', 'lah', 'nak', 'cakap']",Bully,Bully
+"['bar莽a', 'is', 'back', '馃槏馃挋鉂わ笍']",NoBully,NoBully
+"['lewa', '馃憦馃徏馃憦馃徏']",NoBully,NoBully
+"['sampai', 'turun', 'mesin']",NoBully,NoBully
+"['gw', 'gabisa', 'akses', 'anjink']",NoBully,NoBully
+"['benda', 'macam', 'ni', 'pun', 'datang', 'untuk', 'minta', 'tolong', 'bomba', 'lepas', 'tu', 'rakam', 'lol', 'beritahu', 'saja', 'lah', 'yang', 'kau', 'nak', 'tengok', 'abangabang', 'bomba', 'ni', 'kan']",NoBully,NoBully
+"['alonso', 'nih', 'apa', 'ya', 'knapa', 'g', 'daritadi', 'njimers']",NoBully,NoBully
+"['xavi', 'aneh', 'bener', 'hari', 'ini']",NoBully,NoBully
+"['senior', 'man']",NoBully,NoBully
+"['gn', 'enjooyer', 'sleep', 'tight', '馃挙']",NoBully,NoBully
+"['gn', 'bb馃挙']",NoBully,NoBully
+"['xavi', 'is', 'sick']",NoBully,NoBully
+"['biasanya', 'besok', 'ada', 'aja']",NoBully,NoBully
+"['mze', 'nakuona', 'umelewa', 'hapa', 'blis', 'ajab']",NoBully,NoBully
+"['iyadah', 'pawangnya']",NoBully,NoBully
+['馃憫馃憫juli'],NoBully,NoBully
+"['chisada', 'wakuti', 'uyu']",NoBully,NoBully
+"['marry', 'the', 'night', 'salah', 'satu', 'video', 'muzik', 'terbaik', 'lady', 'gaga', 'video', 'muzik', 'ni', 'penuh', 'dengan', 'makna', 'menakjubkan', 'lady', 'gaga', 'memang', 'seorang', 'artis', 'yang', 'kreatif', 'pergi', 'tonton', 'video', 'muzik', 'marry', 'the', 'night', 'lady', 'gaga', 'sekarang']",NoBully,NoBully
+"['yg', 'k', 'mana']",NoBully,Bully
+"['diz', 'one', 'nah', 'mortal', 'kombat', 'fatality']",NoBully,NoBully
+"['taekook', 'or', 'vminkook', 'subunit']",NoBully,NoBully
+"['lihat', 'suju', 'bawain', 'mr', 'simple', 'sama', 'bonamana', 'tu', 'jadi', 'keinget', 'jaman', 'smp']",NoBully,NoBully
+['hyungseo'],NoBully,NoBully
+"['gujarat', '馃憖']",NoBully,NoBully
+"['download', 'lagu', 'suju', 'atau', 'ost', 'drakor', 'di', 'shared馃槶', 'smpku', 'lumayan', 'jauh', 'jadi', 'kadang', 'mampir', 'warnet', 'dulu', 'jam', 'baru', 'pulang', 'naik', 'angkot', '馃槶馃槶', 'nanti', 'alasan', 'angkotnya', 'lama馃檹馃檹馃檹']",NoBully,NoBully
+"['diem', 'kamu', 'kenapa', 'malah', 'ikutan', 'sungjae', '馃槶']",NoBully,NoBully
+"['sebabtu', 'aku', 'cakap', 'ignorance', 'is', 'a', 'blis', 'don鈥檛', 'fight', 'verbally', 'or', 'physically', 'but', 'spiritually', 'instead', 'bukan', 'bomoh', 'tapi', 'doa', '馃馃徎', 'sedikit', 'pesanan', 'dari', 'ustajah', 'celop']",NoBully,NoBully
+"['malem', 'ini', 'dia', 'beneran', 'mirip', 'emot', '馃']",NoBully,NoBully
+"['ini', 'licinnya', 'bukan', 'yg', 'licin', 'bgt', 'gitu', 'kok', 'tetep', 'enak', 'tp', 'kalo', 'mandinya', 'tanpa', 'puf', 'bakal', 'kerasa', 'licin', 'emang']",NoBully,NoBully
+"['oho', 'waysusa', 'lendaba', 'engaka', 'sat', 'sep', 'kyk', 'bukuny', 'blis', 'bakery', 'pinggiranny', 'jg', 'disemprot', 'biru', 'gini', 'klo', 'abis', 'baca', 'tgn', 'jg', 'ikut', 'biru', 'glitter', 'kyk', 'abis', 'main', 'pilox', '馃ぃ']",NoBully,NoBully
+"['mkoma', 'derick', 'vaisa', 'gokora']",NoBully,NoBully
+"['srikumar', 'rao', '馃挋']",NoBully,NoBully
+"['tau', 'xpe', 'dah', 'kena', 'start', 'fikir', 'nak', 'letak', 'apa', 'dalam', 'tupperware', 'tu', '馃槄']",NoBully,NoBully
+"['itulah', 'tu', 'rasa', 'bersalah', 'yang', 'amat', 'dah', 'semalam', 'kena', 'guna', 'betul虏', 'ni', 'nanti', 'dia', 'dtg', 'rumah', 'buat', 'inspection', 'lagi', 'seram']",NoBully,NoBully
+"['gm', 'ds']",NoBully,NoBully
+"['sedang', 'agak', 'orgil', 'dikit', 'rewatching', 'kyungso', 'suhyun', 'rewrite', 'the', 'stars', 'on', 'every', 'tiktok', 'yg', 'lewat', 'fyp', '馃槶']",NoBully,NoBully
+"['mela', 'pogum', 'adha', 'keta', 'oru', 'blis', '馃ぃ馃ぃ馃ぃ馃ぃ馃敟', 'ulti', 'ya']",NoBully,NoBully
+"['orang', 'orang', 'idiot', 'bahas', 'agama', 'syurga', 'dan', 'neraka', 'perut', 'neg', 'bacanya', 'jijik', 'sebah', 'mau', 'muntah', 'baca', 'narasinya']",Bully,Bully
+"['hanya', 'orang', 'super', 'idiot', 'yg', 'mengatakan', 'anies', 'gagal', 'jadi', 'presiden', 'dan', 'ganjar', 'sukses', 'jadi', 'gubernur']",NoBully,NoBully
+"['pake', 'nanya', 'lagi', 'si', 'idiot', 'ini']",Bully,Bully
+"['sewidak', 'likur', 'i', 'boso', 'jowo', 'ngendi', 'bloook', 'kancamu', 'iso', 'idiot', 'ðÿ']",Bully,Bully
+"['fym', 'nuh', 'uh']",NoBully,NoBully
+"['nuh', 'uh']",Bully,Bully
+"['lebih', 'parah', 'lagi', 'negara', 'sepiteng', 'totalitas', 'menzalimi', 'warga', 'dalam', 'segala', 'hal', 'amp', 'dg', 'segala', 'caraðÿÿðÿðÿðÿðÿ', 'ngumat', 'idiot', 'sinting', 'penyembah', 'hahbabi', 'sarap', 'sangit', 'sudah', 'tahun', 'lebih', 'sampe', 'mampus', 'musnah', 'tetap', 'berdamai', 'dg', 'kebusukan', 'total', 'ðÿsetan', 'ðÿiblis', 'ðÿdajjalðÿïâšðÿðÿðÿðÿâ', 'ïðÿðÿœšðÿ']",Bully,Bully
+"['orang', 'macam', 'elu', 'ini', 'memang', 'sangat', 'd', 'butuhkan', 'penguasacukup', 'butuh', 'rakyatbyg', 'idiot', 'goblok', 'dan', 'pandir', 'itu', 'aset', 'utama', 'penguasa', 'untuk', 'hancurkan', 'nkripenjahan', 'gaya', 'baru', 'invasi', 'bekedok', 'investasilondo', 'ireng', 'pribumi', 'd', 'manfaatkan', 'untuk', 'menindas', 'sesama', 'pribumi']",Bully,Bully
+"['fahren', 'idiot', 'banget', 'asli', 'kiblatnya', 'kmn', 'ren', 'itu', 'kesana', 'pas', 'fahren', 'yg', 'shalat', 'gue', 'heran', 'kok', 'sajadah', 'dia', 'lain', 'arah', 'gue', 'tanya', 'lagi', 'kiblatnya', 'kemana', 'ren', 'itu', 'kesana', 'itu', 'kepala', 'sajadah', 'lo', 'kmn', 'anjir', 'oh', 'iya', 'udh', 'mikir', 'gue', 'salah', 'kiblat', 'ternyata', 'dia', 'yg', 'sesat']",NoBully,NoBully
+"['maba', 'alay', 'bangsat', 'ntar', 'pas', 'ospek', 'di', 'bentak', 'dikit', 'diviralin', 'ga', 'semua', 'orang', 'jg', 'main', 'twitter', 'blok', 'idiot']",Bully,Bully
+"['yoongis', 'verse', 'ðÿ']",NoBully,NoBully
+"['dih', 'kagak', 'nyambung', 'padahal', 'gua', 'yang', 'muntah', 'liat', 'tweet', 'lo', 'ke', 'gua', 'dah', 'ya', 'males', 'ngadepin', 'lu', 'âœhave', 'a', 'nice', 'day', 'idiotâœ']",Bully,Bully
+"['rezim', 'idiot', 'hari', 'gini', 'msh', 'tidak', 'mampu', 'mencegah', 'rem', 'blong', 'masyarakat', 'wajib', 'gugat', 'lembaga', 'penegak', 'hukumpolri', 'dan', 'gugat', 'bangkrut', 'perusahaan', 'pemiliknya']",NoBully,NoBully
+"['th', 'berkorban', 'harta', 'nyawa', 'melawan', 'nazi', 'ndilalah', 'skrg', 'malah', 'kasih', 'applaus', 'ke', 'tentara', 'nazi', 'yg', 'mgkn', 'sj', 'sdh', 'menembakbunuh', 'kakek', 'moyangnya', 'di', 'palagan', 'eropa', 'dr', 'yg', 'tepuk', 'tangan', 'benar', 'idiot', 'koplok', 'gombal', 'tingkat', 'dewa', 'demi', 'demokrasi', 'ukr', 'rela', 'mnjilat', 'pantat', 'pembunuhðÿ']",Bully,Bully
+"['tl', 'dr']",NoBully,NoBully
+"['bisa', 'mikir', 'ga', 'idiot', 'ntar', 'jennie', 'kena', 'drag', 'yang', 'disalahin', 'kitakita', 'lagi', 'yg', 'gatau', 'apaapa']",Bully,Bully
+"['kec', 'i', 'idiot']",NoBully,NoBully
+"['hao', 'idiots', 'wananisinya', 'vizi', 'kesho', 'sasa', 'ni', 'kuomba', 'bana']",NoBully,NoBully
+"['babi', 'anjing', 'tolol', 'idiot', 'goblok', 'brengsek', 'bangsat', 'sampah', 'tai']",Bully,Bully
+"['uri', 'dhoti', 'remunhu', 'mukosho', 'wamai', 'vako', 'duche', 'pfutseke', 'mhata', 'yemunhu', 'stupid', 'sascum', 'yemunhu', 'such', 'a', 'heartles', 'idiotic', 'comment', 'dako', 'rizere', 'chena', 'ngochani', 'yemunhu', 'zimudhidhi', 'ramai', 'vako', 'idiot']",NoBully,NoBully
+"['petantang', 'petenteng']",NoBully,NoBully
+"['lah', 'tolol', 'gak', 'nonton', 'tapi', 'komentar', 'such', 'an', 'idiot']",NoBully,NoBully
+"['movies', 'angu', 'cjawahi', 'ichoka', 'idiot', 'sijawahi', 'kuifuta', 'series', 'ya', 'merlin']",NoBully,NoBully
+"['pelatihnya', 'tolol', 'min', 'idiot', 'bikin', 'emosi', 'aja']",Bully,Bully
+"['meet', 'amar', 'bharati', 'an', 'idiot']",NoBully,NoBully
+['yoli'],NoBully,NoBully
+"['mera', 'bhai', 'kitna', 'idiot', 'hai', 'yar']",NoBully,NoBully
+"['mjb', 'kak', 'solusiny', 'gmn', 'ya', 'detail', 'paspor', 'sy', 'jg', 'blm', 'diubah']",NoBully,NoBully
+"['mjb', 'kak', 'proses', 'gantinya', 'brp', 'lama', 'ya', 'hari', 'senin', 'kmrn', 'aku', 'udh', 'dpt', 'paspor', 'trs', 'udh', 'coba', 'ganti', 'detail', 'di', 'traveloka', 'tp', 'sampe', 'skrg', 'blm', 'terubah', 'detailny', 'di', 'aplikasi']",NoBully,NoBully
+"['sarah', 'connah']",NoBully,NoBully
+"['ada', 'ayat', 'ny', 'segera', 'dikembalikan', 'masi', 'ente', 'tuduh', 'nyuri', 'ada', 'dendam', 'apa', 'ente', 'sama', 'yesus', 'sampe', 'rajin', 'bgt', 'fitnah', 'melulu', 'ato', 'ente', 'just', 'simply', 'pamer', 'kedunguan', 'pathetic', 'idiot', 'uda', 'keabisan', 'akal', 'bela', 'akhlak', 'nabe', 'pedopil', 'ny', 'ente', 'kira', 'nabi', 'ente', 'suci', 'serink', 'dosa', 'koq', 'kata', 'quran', 'âºïâºïâºï']",NoBully,NoBully
+['yakak'],NoBully,NoBully
+"['karma', 'strikes', 'again', 'ðÿ', 'idiot', 'blm', 'nazi']",NoBully,NoBully
+['dang'],NoBully,NoBully
+"['idiot', 'kalo', 'mu', 'yg', 'kebobolan', 'pasti', 'gk', 'cek', 'var']",Bully,Bully
+"['senyam', 'senyum', 'kek', 'bocah', 'idiot']",NoBully,NoBully
+"['ya', 'itu', 'namanya', 'back', 'to', 'back', 'kontol', 'kalo', 'treble', 'itu', 'dalam', 'tempo', 'setahun', 'dan', 'dengan', 'tropy', 'berbeda', 'manusia', 'kontolidiot']",Bully,Bully
+"['hattrick', 'ucl', 'gimanamemang', 'fans', 'idiot', 'ini', 'ðÿitu', 'back', 'to', 'back', 'zidan', 'idiot', 'ðÿµðÿ']",Bully,Bully
+"['fans', 'lo', 'idiot', 'semua', 'ya', 'eti', 'heran', 'isinya', 'cium', 'jilat', 'cium', 'jilat']",Bully,Bully
+"['amesema', 'hukumkulaðÿðÿ']",NoBully,NoBully
+"['the', 'idiot', 'nah', 'obalende', 'police', 'barracks', 'product', 'awon', 'omo', 'iya', 'nkan', 'baba']",NoBully,NoBully
+"['prorussian', 'idiot']",NoBully,NoBully
+"['mbeumo', 'pointer', 'ðÿðÿðÿ']",NoBully,NoBully
+"['oye', 'bhopdk', 'modi', 'ko', 'jo', 'marzi', 'gaali', 'de', 'sachin', 'sir', 'ko', 'izzat', 'se', 'bat', 'kro', 'idiot']",NoBully,NoBully
+"['wo', 'ni', 'twasidi', 'idiot']",NoBully,NoBully
+"['alquran', 'written', 'by', 'satan', 'idiot', 'ðÿðÿðÿžðÿž']",NoBully,NoBully
+"['u', 'have', 'no', 'ideatune', 'apni', 'marwa', 'li', 'hai', 'ye', 'post', 'karkeit', 'basically', 'means', 'tu', 'sabse', 'bada', 'flop', 'hai', 'in', 'sab', 'ko', 'milakeidiot']",NoBully,NoBully
+"['correction', 'atgs', 'belongs', 'to', 'raja', 'hindustani', 'ghajini', 'idiots', 'dhoom', 'pk', 'dangal']",NoBully,NoBully
+"['xavi', 'is', 'an', 'idiot']",NoBully,NoBully
+"['mana', 'buktiny', 'badut', 'mesjid', 'idiot', 'minjem', 'trus', 'dituduh', 'nyuri', 'apa', 'alkitab', 'mesti', 'kyk', 'khayalan', 'ente', 'ceritain', 'detail', 'sampe', 'balikin', 'keledai', 'ny', 'makany', 'ente', 'sehari', 'x', 'jgn', 'jedotin', 'otak', 'ke', 'tembok', 'kalo', 'mhmd', 'pedopil', 'jelas', 'rampas', 'harta', 'kapir', 'sampe', 'si', 'swt', 'juga', 'minta', 'bagian', 'ampe', 'turun', 'ayat', 'âºï']",NoBully,NoBully
+"['aku', 'lebih', 'suka', 'jadi', 'idiot', 'daripada', 'kehilanganmu']",NoBully,NoBully
+"['fkg', 'idiot']",NoBully,NoBully
+"['kek', 'ti', 'si', 'idiot']",Bully,Bully
+"['tim', 'idiot', 'ajg', 'celta', 'banyak', 'amat', 'back', 'nya']",Bully,Bully
+"['ternyata', 'salting', 'gue', 'jelek', 'dan', 'alay', 'sampe', 'gabisa', 'tidurrðÿðÿš']",NoBully,NoBully
+"['someone', 'who', 'knows', 'your', 'worth', 'bakal', 'selalu', 'ada', 'jadi', 'tinggalin', 'aja', 'yang', 'jelek', 'jangan', 'malah', 'dikasih', 'kesempatan', 'yang', 'bakalan', 'nyakitin', 'dirimu', 'sendiri', 'pada', 'akhirnya', 'ayo', 'semuanya', 'baca', 'ini']",NoBully,NoBully
+"['eh', 'demi', 'iya', 'banget', 'dari', 'awal', 'mau', 'nyoba', 'take', 'vid', 'screen', 'jelek', 'banget', 'udah', 'di', 'naik', 'turunin', 'exposure', 'nya', 'trus', 'di', 'lock', 'focus', 'tetep', 'aja', 'jelek']",NoBully,NoBully
+"['aku', 'yang', 'insecure', 'essai', 'ku', 'jelek', 'parah', 'keknya', 'bisa', 'diterima', 'di', 'kastrat', 'berarti', 'kalo', 'standarnya', 'begini']",NoBully,NoBully
+"['jelek', 'bgt', 'maennya']",NoBully,NoBully
+"['gada', 'yang', 'jelek']",NoBully,NoBully
+"['jelek', 'bgt']",NoBully,NoBully
+"['kakðÿðÿðÿ', 'jangan', 'dihakimi', 'ya', 'guys', 'ntar', 'nama', 'negara', 'kita', 'jelek', 'sendiri']",NoBully,NoBully
+"['bjir', 'kamera', 'work', 'nya', 'jelek', 'amat', 'apa', 'yg', 'lu', 'sorot', 'badjingan']",NoBully,NoBully
+"['audionya', 'jelek', 'ih', 'jujur', 'huft', 'apalagi', 'pas', 'joy', 'ment', 'bener', 'bener', 'gakedengeran', 'apa', 'apa', 'ðÿðÿðÿðÿ']",NoBully,NoBully
+"['ajg', 'jelek', 'bgt', 'posisinya']",NoBully,NoBully
+"['at', 'least', 'klo', 'mau', 'reuse', 'baju', 'cari', 'yg', 'bagus', 'kek', 'ni', 'baju', 'jelek', 'lu', 'pake', 'terus', 'babik', 'masi', 'mendingan', 'outfit', 'blue', 'ribbon', 'marathon', 'kemaren', 'drpd', 'yg', 'ini', 'anjir', 'jelek', 'bgt']",NoBully,NoBully
+['jelek'],Bully,NoBully
+"['iya', 'soalnya', 'susah', 'nulis', 'konsisten', 'tuðÿðÿ', 'kalo', 'aku', 'awalnya', 'bagus', 'akhirnya', 'jelek', 'wkwkw', 'berasa', 'bagan', 'anak', 'sd']",NoBully,NoBully
+"['bunga', 'anjing', 'mihoyo', 'anjing', 'tai', 'lo', 'bunga', 'jelek']",NoBully,NoBully
+"['jelek', 'bgt', 'ih', 'masa', 'di', 'tengah', 'kota', 'gaada', 'sinyal', 'dong']",NoBully,NoBully
+"['kok', 'jelek', 'betul', 'why']",NoBully,NoBully
+"['hey', 'masa', 'aku', 'dibilang', 'jelek', 'ðÿ', 'kan', 'agar', 'supaya', 'seru', 'kok', 'tibatiba', 'gembokan']",NoBully,NoBully
+"['pls', 'ini', 'kenapa', 'sinyal', 'wifi', 'nya', 'jelek']",NoBully,NoBully
+"['iya', 'outfit', 'nya', 'jelek', 'ðÿðÿ']",NoBully,NoBully
+"['jalanin', 'apa', 'yg', 'ada', 'mba', 'let', 'it', 'flowwsekuatnya', 'jangan', 'terlalu', 'dipaksa', 'apapun', 'kalo', 'dipaksain', 'hasilnya', 'bakal', 'jelek', 'semangat', 'mbaâœ']",NoBully,NoBully
+"['kamu', 'jelek']",Bully,NoBully
+"['jelek', 'amat', 'bagian', 'gue', 'ntr', 'gue', 'rebut', 'kai', 'dlam', 'mimpi']",NoBully,NoBully
+"['nangis', 'jelek', 'haha', 'semoga', 'ada', 'hari', 'buat', 'tuhan', 'kasi', 'kesempatan', 'ke', 'aku']",NoBully,NoBully
+"['jelek', 'bentuk', 'idung', 'sm', 'jaw', 'nya', 'ðÿðÿ']",NoBully,NoBully
+"['gw', 'teriak', 'jelek', 'dia', 'di', 'ferarri']",NoBully,NoBully
+"['inget', 'orang', 'jelek', 'gabole', 'ngarep', 'reponya', 'dia', 'kaya', 'gitu', 'yaudah', 'gapapa', 'gabole', 'ngarep', 'ðÿðÿ']",NoBully,NoBully
+"['jelek', 'dikit', 'cape', 'aja', 'sama', 'tugastugasðÿž', 'makasi', 'buat', 'katakata', 'baik', 'nya', 'kamu', 'juga', 'udah', 'ngelakuin', 'yang', 'terbaik', 'hari', 'iniðÿðÿ']",NoBully,NoBully
+"['sbl', 'bgt', 'sepatu', 'kyuhyun', 'knp', 'merah', 'si', 'jelek']",NoBully,NoBully
+"['bajunya', 'jelek']",NoBully,NoBully
+"['dyandra', 'tolong', 'suara', 'yg', 'beyond', 'dong', 'jelek', 'bgt', 'inij']",NoBully,NoBully
+"['aaaaaaaah', 'tahan', 'tahan', 'jangan', 'beli', 'buku', 'inget', 'hapemu', 'udah', 'jelek']",Bully,Bully
+"['jelek', 'banget', 'ade', 'gw', 'ngomong', 'mau', 'malah', 'jd', 'mw']",NoBully,NoBully
+"['jerawat', 'di', 'hidung', 'itu', 'jelek', 'kali']",Bully,Bully
+"['besoknya', 'bilek', 'kenapa', 'aku', 'jelek', 'ðÿ']",NoBully,NoBully
+"['jaringan', 'gua', 'jelek', 'keluar', 'mulu']",NoBully,NoBully
+"['ingyh', 'rony', 'jelek', 'jelek', 'bgt', 'lu', 'kek', 'kuda', 'lu', 'jelek']",Bully,Bully
+"['kenjaku', 'jelek', 'udah', 'gausah', 'ikut', 'ikut', 'suguru', 'gabakal', 'bisa', 'kamu', 'manggil', 'satoru', 'kaya', 'suguru', 'asli']",NoBully,NoBully
+"['scene', 'ini', 'gua', 'nangis', 'jelek', 'ðÿðÿ']",NoBully,NoBully
+"['padahal', 'mewah', 'loh', 'tapi', 'gegara', 'isi', 'warna', 'oren', 'jdi', 'jelek']",NoBully,NoBully
+"['kaget', 'bgt', 'nyebar', 'gosip', 'nya', 'jelek']",NoBully,NoBully
+"['anj', 'jelek', 'bgttðÿ']",NoBully,NoBully
+['jelek'],Bully,NoBully
+"['aduh', 'ga', 'liat', 'ada', 'polisi', 'tidur', 'lama', 'bngt', 'anjg', 'panas', 'ini', 'mnyet', 'sabar', 'su', 'eh', 'sorry', 'sory', 'nih', 'jalan', 'jelek', 'bener', 'bangke']",NoBully,NoBully
+"['cyput', 'jelekkðÿ']",NoBully,NoBully
+"['aku', 'aslinya', 'jelek', 'woyyyðÿðÿ', 'ðÿââðÿââðÿâ']",NoBully,NoBully
+"['iya', 'nanti', 'kalo', 'balesnya', 'emosi', 'malah', 'kesannya', 'jelek', 'wah']",NoBully,NoBully
+"['yaza', 'digo', 'sama', 'galang', 'jujur', 'si', 'tristan', 'itu', 'jelek', 'banget', 'anjir', 'muka', 'nya', 'kayak', 'orang', 'cabul']",NoBully,NoBully
+"['jelek', 'ih', 'kaya', 'lo']",Bully,NoBully
+"['iya', 'jelek', 'si', 'jujur', 'pemerannya', 'eren', 'bunuh', 'diri']",NoBully,NoBully
+"['kak', 'adrof', 'jelek']",Bully,Bully
+"['km', 'g', 'jelek', 'i']",NoBully,NoBully
+"['sial', 'gue', 'udah', 'bolak', 'balik', 'buka', 'bubble', 'udah', 'marahin', 'tukang', 'wifi', 'kirain', 'jaringannya', 'jelekkðÿðÿðÿ']",NoBully,NoBully
+"['gapapa', 'mimpi', 'jelek', 'aja', 'kaaakðÿ']",NoBully,NoBully
+"['okjelek', 'mkny', 'bgtu']",NoBully,NoBully
+"['jelek', 'banget', 'hufft']",Bully,Bully
+"['mengejar', 'tidak', 'harus', 'berlari']",NoBully,NoBully
+"['jelek', 'itu', 'mah']",NoBully,Bully
+"['wkwk', 'jelek', 'bgt', 'memenya']",NoBully,NoBully
+"['nangis', 'jelek', 'haha', 'semoga', 'ada', 'hari', 'buat', 'tuhan', 'kasi', 'kesempatan', 'ke', 'aku']",NoBully,NoBully
+"['gw', 'mimpi', 'jelek', 'bgt', 'anjrot']",NoBully,NoBully
+"['ngomongin', 'manusia', 'jelek']",NoBully,NoBully
+['jelek'],Bully,NoBully
+"['bad', 'lagi', 'sakit', 'herpes', 'jadi', 'argh', 'gaenak', 'semua', 'serba', 'gaenak', 'jelek', 'hows', 'your', 'day', 'kak']",NoBully,NoBully
+"['ahhahahahah', 'lucu', 'banget', 'lu', 'jelek']",Bully,Bully
+"['dari', 'deket', 'jelek', 'amat', 'ðÿ']",NoBully,NoBully
+"['angfasih', 'fyp', 'ku', 'jelek', 'bngt']",NoBully,NoBully
+"['gini', 'nih', 'kalo', 'dimanja', 'jelekkðÿžðÿðÿžðÿ']",NoBully,NoBully
+"['jelek', 'bgt', 'monangis']",NoBully,NoBully
+"['aku', 'usahain', 'selalu', 'rapih', 'karena', 'kalo', 'berantakan', 'nanti', 'mood', 'nya', 'ikut', 'jelek', 'jd', 'udh', 'kebiasaan']",NoBully,NoBully
+"['mkst', 'ku', 'gegara', 'kenjatot', 'suguru', 'jd', 'jelek']",NoBully,NoBully
+"['jelek', 'misah', 'gitu']",Bully,Bully
+"['sepi', 'krna', 'bukan', 'bts', 'jelas', 'klo', 'ini', 'bts', 'udh', 'dirujak', 'smpe', 'jelek']",NoBully,NoBully
+"['jelek', 'ah', 'bikin', 'ak', 'nangiez', 'aja']",NoBully,NoBully
+"['plis', 'lah', 'aku', 'masih', 'butuh', 'saran', 'bookletðÿ', 'karena', 'tema', 'sekarang', 'terlalu', 'ribet', 'dan', 'yg', 'lainnya', 'udah', 'terdengar', 'gk', 'niat', 'jshsh', 'takut', 'jelek']",NoBully,NoBully
+"['bjrot', 'kok', 'diiyain', 'klo', 'gwej', 'jelek', 'anjir']",NoBully,NoBully
+"['ya', 'allah', 'tambah', 'nangis', 'bgt', 'poniku', 'habis', 'dicatok', 'jadi', 'nya', 'kebelah', 'jelek', 'bgt', 'nangis', 'ðÿðÿ']",NoBully,NoBully
+"['ga', 'deh', 'jelek', 'k', 'tpi', 'banyak']",NoBully,NoBully
+"['gausa', 'kekny', 'emng', 'typingnya', 'yg', 'rada', 'jelek']",NoBully,NoBully
+"['kak', 'alex', 'lebih', 'jelek', 'hu']",NoBully,NoBully
+"['bmyk', 'opini', 'jelek', 'tntg', 'mobing', 'sorry', 'i', 'cant', 'take', 'this', 'slander']",NoBully,NoBully
+"['mutualku', 'ga', 'ad', 'yg', 'jelek', 'kamu', 'juga', 'cantik', 'berarti', 'ðÿµðÿ']",NoBully,NoBully
+"['emyu', 'tuh', 'harus', 'sampai', 'fase', 'hancur', 'dlu', 'si', 'kayak', 'barca', 'di', 'masa', 'masa', 'suram', 'di', 'tinggal', 'messi', 'management', 'lama', 'kena', 'kasus', 'hutang', 'bnyk', 'dl', 'skrng', 'mulai', 'bangkit', 'kalo', 'emyu', 'kan', 'walaupun', 'jelek', 'bgt', 'msh', 'bisa', 'dpt', 'trofi', 'ciki', 'belom', 'sampe', 'fase', 'ancur', 'bgt', 'nya']",NoBully,NoBully
+"['ini', 'kapan', 'jelek', 'banget']",NoBully,NoBully
+"['yang', 'bilang', 'jelek', 'siapa', 'coba']",NoBully,NoBully
+"['dih', 'lari', 'ada', 'opini', 'nya', 'jelek', 'laari']",Bully,Bully
+"['emg', 'jelek', 'ini', 'jersey', 'cok']",NoBully,NoBully
+"['ak', 'awal', 'lauch', 'bngt', 'beli', 'trs', 'masih', 'aman', 'packagingnya', 'bahkan', 'beberapa', 'kali', 'jatoh', 'oke', 'aja', 'trs', 'kenceng', 'apa', 'yg', 'warna', 'dan', 'batch', 'baru', 'jd', 'jelek', 'ðÿ']",NoBully,NoBully
+"['jelek', 'bgt', 'nangis', 'dihalte']",NoBully,NoBully
+"['jelek', 'bangettðÿ', 'padahal', 'itu', 'pc', 'cakep', 'bgt', 'yg', 'lama']",NoBully,NoBully
+"['jelek', 'ah', 'sore', 'nangis', 'ðÿðÿ']",NoBully,NoBully
+"['wifi', 'kosan', 'ini', 'jelek', 'banget', 'woilah']",NoBully,NoBully
+"['jelek', 'lu', 'bikin', 'emosi']",NoBully,Bully
+"['ofc', 'yg', 'waterproof', 'soalnya', 'kl', 'meleber', 'jelek']",NoBully,NoBully
+['jelekkðÿ'],Bully,Bully
+"['kalo', 'grogi', 'tuh', 'jadi', 'jelek', 'bahasa', 'tubuhnya', 'kesel', 'bgt']",NoBully,NoBully
+"['lu', 'mah', 'enak', 'bisa', 'langsung', 'kerja', 'ada', 'ordal', 'kalo', 'gw', 'sendiri', 'justru', 'kek', 'beban', 'aja', 'semisal', 'gawe', 'an', 'kita', 'jelek', 'ga', 'sesuai', 'ekspetasi', 'dia', 'malah', 'jdinya', 'kek', 'beban', 'mentalðÿðÿ']",NoBully,NoBully
+"['ih', 'sama', 'jelek', 'jaringan', 'kita']",NoBully,NoBully
+"['td', 'pagi', 'jelek']",NoBully,NoBully
+"['jelek', 'bngt', 'jancok', 'ðÿðÿðÿ']",NoBully,NoBully
+"['sinyal', 'jelek']",NoBully,NoBully
+"['dari', 'semalam', 'sinyal', 'jelek', 'baru', 'bisa', 'pagi', 'ini']",NoBully,NoBully
+"['pake', 'baju', 'nya', 'jelek']",Bully,NoBully
+"['nangis', 'jelekkðÿðÿðÿðÿðÿ']",Bully,Bully
+"['kampungan', 'hu', 'kampungan', 'hu']",NoBully,NoBully
+"['mksd', 'emng', 'ada', 'monyet', 'yg', 'kampungan', 'gitu']",NoBully,NoBully
+['kampungan'],Bully,Bully
+['kampungan'],Bully,Bully
+['kampungan'],NoBully,Bully
+"['mirip', 'kucingku', 'kelly', 'si', 'kucing', 'monyet', 'semoga', 'ada', 'yang', 'adopt', 'ya', 'adeeek']",NoBully,NoBully
+"['elah', 'jadi', 'bete', 'gue', 'nya', 'monyet']",NoBully,NoBully
+"['sebel', 'kalo', 'diinget', 'monyet', 'lah']",NoBully,NoBully
+"['gua', 'ga', 'telanjang', 'monyet']",NoBully,NoBully
+"['cukup', 'aku', 'saja', 'yang', 'kesepian', 'dompetku', 'jangan']",NoBully,NoBully
+"['tubuhku', 'bergetar', 'jantungku', 'berdebar', 'kukira', 'aku', 'belom', 'makan', 'ternyata', 'uangku', 'habis']",NoBully,NoBully
+"['ls', 'tai', 'monyet']",NoBully,NoBully
+"['monyet', 'emg', 'bole', 'semoody', 'ini']",NoBully,NoBully
+"['gua', 'beneran', 'gamau', 'jauh', 'jauh', 'dari', 'dia', 'tiap', 'menit', 'ngecekin', 'dia', 'ada', 'disekitar', 'gua', 'atau', 'engga', 'kayak', 'lu', 'siapa', 'anjir', 'jias', 'sadar', 'monyet']",NoBully,NoBully
+"['skwkwkwk', 'monyet', 'kan', 'gua', 'bingung', 'nanti', 'sookai', 'dm', 'taro', 'mana']",NoBully,NoBully
+"['soalny', 'gw', 'aneh', 'bgt', 'aja', 'liat', 'org', 'yg', 'bener', 'rajin', 'likein', 'sg', 'pdhl', 'hari', 'kaga', 'berinteraksi', 'tuh', 'okelah', 'itu', 'hak', 'lu', 'tp', 'lama', 'dongkol', 'jg', 'gksih', 'kayak', 'ganggu', 'bgt', 'monyet', 'aplgi', 'lawan', 'jenis', 'trs', 'strangers', '馃檮馃檮馃檮', 'no', 'offense']",NoBully,NoBully
+"['monyet', 'capek', 'tarik', 'ulur', 'dikira', 'lomba', 'tarik', 'tambang', 'apa', 'ini']",NoBully,NoBully
+"['kok', 'ngeblur', 'monyet']",NoBully,NoBully
+"['tp', 'aku', 'dah', 'dijemput', 'monyet']",NoBully,NoBully
+"['nct', 'siapa', 'yang', 'kemaren', 'dah', 'janji', 'mau', 'bantuin', 'yangyang', 'suara', 'monyet', 'di', 'zo', 'beneran', 'dilakuin', 'ga', 'yaa馃槀馃槀馃槶']",NoBully,NoBully
+"['monyet', 'emang', 'boleh', 'langsung', 'se', 'love', 'talk', 'ini', 'kelar', 'its', 'only', 'me', '馃槶馃槶']",NoBully,NoBully
+"['ajg', 'gw', 'sakit', 'hati', 'bgt', 'cok', 'kopisoe', 'glc', 'tutup', 'monyet', 'adanya', 'di', 'dkt', 'superindo']",NoBully,NoBully
+"['muka', 'nya', 'pliss馃槶馃槶', 'kaya', 'monyet', 'banget', 'ga', 'kuaddddd馃槶馃槶馃槶']",Bully,Bully
+"['sama', 'monyet', 'kau', 'lah', 'monyet', 'terbaik', 'gua']",NoBully,NoBully
+"['kok', 'gaada', 'satupun', 'kabar', 'baik', 'tiap', 'gw', 'buka', 'wa', 'monyet']",NoBully,NoBully
+"['monyet', 'tl', 'gua', 'pada', 'pamer', 'papasan', 'sm', 'johnny', 'doy', 'renjun', 'aaaaaaargggh']",NoBully,NoBully
+"['aku', 'tidak', 'handal', 'dalam', 'menjinakan', 'monyet', 'tau']",NoBully,NoBully
+"['gak', 'wkwkwkwk', 'temen', 'gw', 'di', 'sklh', 'pd', 'bahas', 'ggs', 'gw', 'doang', 'yg', 'plongaplongo', 'kek', 'monyet']",NoBully,NoBully
+"['benci', 'bgt', 'monyet', 'make', 'ht', 'buat', 'ginian', 'ya', 'allah', 'mau', 'berkata', 'kasar', 'bgt']",NoBully,NoBully
+"['wkowkwok', 'monyet', 'ke']",NoBully,NoBully
+"['monyet', 'yg', 'strip', 'strip', 'lucu', 'bgt']",NoBully,NoBully
+"['viral', 'baru', 'klarifikasi', 'loe', 'monyet', 'kelakuan', 'lu', 'katro']",Bully,Bully
+"['nunggu', 'dmd', 'promosi', 'kya', 'nungguin', 'lairan', 'monyet', 'haaaaaseketika', 'liburan', 'ku', 'ambayarrrrrrnu虏', 'sayang', 'banyak虏馃グ馃グ馃グ馃グ馃グ馃グ']",NoBully,NoBully
+"['sekarang', 'h', 'aja', 'grabak', 'grubuk', 'asu', 'gue', 'udh', 'ngmng', 'dri', 'rabu', 'malah', 'diem', 'aja', 'monyet', 'emg', 'yg', 'tugasnya', 'banyak', 'lu', 'doang', 'apa', 'si', 'anjg', 'minimal', 'ya', 'kasi', 'kabarnya', 'jangan', 'cma', 'diread', 'doang']",NoBully,NoBully
+"['dikancani', 'monyet', 'kan馃ぃ馃槶']",NoBully,NoBully
+"['anjing', 'sp', 'yang', 'nulis', 'ini', 'kok', 'sedih', 'banget', 'monyet', 'aku', 'nangis', 'pagi', 'pagi', 'begini', '馃槶馃槶馃槶']",NoBully,NoBully
+"['pagi', 'pagi', 'dj', 'dibikin', 'badmood', 'monyet']",NoBully,NoBully
+"['najis', 'selingkuh', 'selingkuh', 'monyet', 'kaga', 'kudu', 'ada', 'alesan']",NoBully,NoBully
+"['nih', 'aplikasi', 'ribet', 'bgt', 'monyet', 'timbang', 'ganti', 'display', 'name', 'doang', 'aje', 'kudu', 'authentication']",NoBully,NoBully
+"['pernah', 'g', 'c', 'law', 'cinta', 'beut', 'sama', 'cowo', 'law', 'gdwysjshsh', 'salting', 'bgt', 'gue', 'monyet', 'apip馃槶']",NoBully,NoBully
+"['elu', 'yang', 'sering', 'nolak', 'kalo', 'gw', 'ajak', 'monyet']",NoBully,NoBully
+"['tunggu', 'tunggu', 'ada', 'kesalah', 'fahaman', 'ini', 'deck']",NoBully,NoBully
+"['ngelonteh', 'dulu', 'deck']",NoBully,NoBully
+"['itu', 'gambarnya', 'monyet', 'bjirr馃様馃憡']",NoBully,NoBully
+"['pala', 'gua', 'sakit', 'bet', 'dah', 'monyet']",NoBully,NoBully
+"['demi', 'yg', 'namanya', 'engagementrasain', 'lu', 'monyet']",NoBully,NoBully
+"['monyet', 'mau', 'nikah', 'sama', 'ethan', 'aja', '馃槱']",NoBully,NoBully
+"['monyet', 'jangan', 'tag', 'tbtb', 'gua', 'suspen', 'gua', 'giveaway', 'akun', 'lu']",NoBully,NoBully
+"['monyet', 'ketawa', 'banget', 'maaaf馃槶']",NoBully,NoBully
+"['ini', 'anak', 'kelas', 'gue', 'ga', 'jelas', 'begete', 'anjg', 'kmren', 'udh', 'janji', 'buat', 'nonton', 'bareng', 'film', 'yg', 'buat', 'drama', 'performance', 'nnti', 'eh', 'kaga', 'jadi', 'sampe', 'skrg', 'gajelas', 'monyet']",NoBully,NoBully
+"['nyesel', 'tp', 'ky', 'ya', 'udh', 'gt', 'loh', 'ky', 'let', 'it', 'flow', 'tp', 'gamau', 'kaya', 'malu', 'tp', 'kaya', 'monyet', 'gue', 'harus', 'ngelakuin', 'ini']",NoBully,NoBully
+"['jaekyung', 'anjg', 'lu', 'bisa', 'nya', 'gituan', 'sama', 'kim', 'dan', 'di', 'depan', 'heesung', 'asu馃槶', 'kim', 'dan', 'gue', 'monyet']",NoBully,NoBully
+"['fauji', 'kuntul', '馃ぃ馃ぃ馃ぃ', 'taik', 'monyet', 'drun', 'kadrun', 'guoblock', '馃ぃ馃ぃ馃ぃ', 'pake', 'lagak', 'mau', 'belain', 'daerah', 'lain', 'yg', 'jauh', 'padahal', 'daerahnya', 'sendiri', 'di', 'bilang', 'daerah', 'yg', 'di', 'huni', 'oleh', 'para', 'monyet', 'dan', 'beruk', 'serta', 'jin', 'goblock', 'tapi', 'ente', 'diam', 'aja', 'panglima', 'dobbol', '馃ぃ馃ぃ馃ぃ']",NoBully,NoBully
+"['monyet', 'refleks', 'ngakak', '馃槶馃槶馃槶']",NoBully,NoBully
+"['monyet', 'typing', 'lo', 'jleg', 'bbgt', 'kontol']",NoBully,NoBully
+"['kalo', 'gini', 'terus', 'ak', 'yh', 'cape', 'juga', 'monyet']",NoBully,NoBully
+"['gue', 'emg', 'niatnya', 'mau', 'balik', 'minggu', 'sekali', 'biar', 'ga', 'canggung', 'sm', 'adek', 'gue', 'trs', 'juga', 'ngelepas', 'kangen', 'kasian', 'si', 'bungsu', 'kesepian', 'bgt', 'pasti', 'kakaknya', 'pd', 'sekolah', 'skrng', 'minggu', 'ke', 'niatnya', 'mau', 'balik', 'tp', 'malah', 'co', 'sopi', 'cod', 'monyet', 'mana', 'datengnya', 'antara', 'besokminggu', 'lagi馃槧馃憥']",NoBully,NoBully
+"['demi', 'allah', 'stop', 'kek', 'lu', 'pada', 'monyet', 'ganggu', 'bgt', 'udh', 'x']",NoBully,NoBully
+"['monyet', 'lebih', 'bulan', 'tamatnya馃檮馃']",NoBully,NoBully
+"['monyet', 'sendal', 'gua', 'ilang']",NoBully,NoBully
+"['gue', 'mau', 'iri', 'ya', 'monyet', 'tapi', 'gajadi']",NoBully,NoBully
+"['lu', 'duluan', 'monyet']",NoBully,Bully
+"['ajg', 'muak', 'bgt', 'nih', 'monyet', 'gw', 'jatuh', 'cinta', 'cm', 'dpt', 'jatuh', 'nya', 'doang', 'cintanya', 'nggabuang', 'waktu', 'gw', 'effort', 'ke', 'cowo', 'brengsex', 'kyk', 'lu', 'yg', 'so', 'kecakepan', 'buset', 'mikir', 'dikit', 'lah', 'lama', 'cape', 'gblok', 'disepelein', 'mulu', 'punya', 'tapi', 'kaya', 'gapunya', 'egk', 'slmanya', 'gw', 'luluh', 'gblog', 'inget馃槨馃槫']",NoBully,NoBully
+"['pengen', 'baca', 'au', 'tapi', 'malah', 'ga', 'bisa', 'liat', 'threadnya', 'elon', 'beneran', 'macem', 'monyet', 'lah', 'kalo', 'gini', '馃槶']",NoBully,NoBully
+"['monyet', 'itu', 'gua', 'sakit']",NoBully,NoBully
+"['monyet', 'dri', 'tdi', 'kga', 'bnr', '馃槶馃槶']",NoBully,NoBully
+"['sarap', 'pandesal']",NoBully,NoBully
+"['lebih', 'parah', 'lagi', 'negara', 'sepiteng', 'totalitas', 'menzalimi', 'warga', 'dalam', 'segala', 'hal', 'amp', 'dg', 'segala', 'caraðÿÿðÿðÿðÿðÿ', 'ngumat', 'idiot', 'sinting', 'penyembah', 'hahbabi', 'sarap', 'sangit', 'sudah', 'tahun', 'lebih', 'sampe', 'mampus', 'musnah', 'tetap', 'berdamai', 'dg', 'kebusukan', 'total', 'ðÿsetan', 'ðÿiblis', 'ðÿdajjalðÿïâšðÿðÿðÿðÿâ', 'ïðÿðÿœšðÿ']",Bully,Bully
+"['emang', 'sarap', 'tuh', 'ga', 'tanggung', 'jawab']",NoBully,NoBully
+"['muka', 'ama', 'review', 'makanan', 'apa', 'hubungannya', 'bjir', 'sarap', 'nih', 'orang']",Bully,Bully
+"['sarap', 'char']",NoBully,NoBully
+"['sarap', 'ah', 'diteangan', 'hese']",NoBully,NoBully
+"['sarap', 'xonam', 'li', 'rekðÿ']",NoBully,NoBully
+"['ganteng', 'ganteng', 'sarap']",NoBully,NoBully
+"['sarap', 'ma', 'ratio', 'nu', 'ðÿ']",NoBully,NoBully
+"['sarap', 'dedehin']",NoBully,NoBully
+"['tp', 'kenapa', 'elu', 'ngatain', 'w', 'sarap', 'sie', 'padahal', 'w', 'klesi', 'ðÿâðÿ']",NoBully,NoBully
+"['sarap', 'khoni', 'celta', 'rek']",NoBully,NoBully
+"['sarap', 'sa', 'pandinig', 'version', 'ni', 'bam', 'ng', 'raining', 'in', 'mnl', 'ðÿðÿðÿðÿž']",NoBully,NoBully
+"['sarap', 'nyu', 'ah']",NoBully,NoBully
+"['huehueuueyeueheuheuehuehuehueheue', 'ðÿµðÿµðÿµðÿµ', 'sarap', 'sa', 'ears']",NoBully,NoBully
+"['sarap', 'katukan', 'ng', 'ganyan']",NoBully,NoBully
+"['sarap', 'sen']",NoBully,NoBully
+"['sarap', 'emg']",Bully,NoBully
+"['sarap', 'mane', 'dma', 'tiit', 'sakh']",NoBully,NoBully
+"['kesialan', 'warga', 'yg', 'meridhoi', 'negara', 'sepiteng', 'bikinan', 'parah', 'hahbabi', 'sarap', 'sangit', 'akan', 'berlanjut', 'abadi', 'di', 'sepiteng', 'kerak', 'jahannam', 'apalagi', 'patuh', 'taat', 'ikut', 'hahbabi', 'menganut', 'demoncrazy', 'malah', 'makin', 'terjamin', 'akan', 'jadi', 'warga', 'abadi', 'sepiteng', 'kerak', 'jahannamðÿðÿðÿðÿïðÿðÿ']",Bully,Bully
+"['ya', 'allah', 'makin', 'gedeg', 'aja', 'gw', 'sama', 'yang', 'bikin', 'bencana', 'ini', 'sarap', 'lu', 'bikin', 'foto', 'prewed', 'malah', 'ngerusak', 'alam']",Bully,Bully
+"['sarap', 'nun', 'ah', 'pasok', 'ulit', 'hunks', 'f', 'zoom', 'jakol']",NoBully,NoBully
+"['sarap', 'puta']",NoBully,NoBully
+"['sarap', 'tirisin']",NoBully,NoBully
+"['banci', 'nganggur', 'hatersnya', 'agnezmo', 'sm', 'perawan', 'tua', 'imigran', 'gelap', 'asal', 'guangzhou', 'pada', 'kayak', 'org', 'sarap', 'ðÿðÿðÿ', 'agnezmo', 'yg', 'manggung', 'mereka', 'yg', 'obses', 'giling', 'deh', 'ðÿðÿðÿ', 'kocak', 'ðÿðÿðÿ']",NoBully,NoBully
+"['sarap', 'robi']",NoBully,NoBully
+"['wong', 'edanmalah', 'disuruh', 'buktikan', 'teologis', 'fix', 'sarap']",NoBully,NoBully
+"['ini', 'sertifikat', 'bisa', 'bantuin', 'aing', 'masuk', 'unpad', 'gak', 'ya', 'btw', 'raja', 'sarap', 'udh', 'tau', 'deptil', 'malah', 'ngebut']",NoBully,NoBully
+"['sarap', 'didian']",NoBully,NoBully
+"['sohe', 'at', 'anton', 'sarap', 'ibulsa']",NoBully,NoBully
+"['sarap', 'mamatai', 'lang']",NoBully,NoBully
+"['ini', 'kalo', 'sampe', 'next', 'week', 'pioli', 'pake', 'taktik', 'ama', 'formasi', 'ampas', 'ini', 'lagi', 'sarap', 'sih', 'fix']",NoBully,NoBully
+"['sarap', 'manghambalos']",NoBully,NoBully
+"['hm', 'sarap', 'sa', 'eyes', 'thanks', 'po', 'uwu']",NoBully,NoBully
+"['kayaknya', 'urg', 'kalo', 'naksir', 'orang', 'emang', 'suka', 'jadi', 'bloon', 'waktu', 'itu', 'pernah', 'first', 'date', 'sendal', 'lepas', 'sebelah', 'terus', 'sekarang', 'beginian', 'kan', 'sarap', 'anying']",Bully,Bully
+"['den', 'bokep', 'ternyata', 'didukung', 'oleh', 'buzzer', 'tukang', 'fitnah', 'dan', 'tukang', 'hoax', 'si']",NoBully,NoBully
+"['dulu', 'satu', 'jalur', 'garagara', 'honor', 'ngebuzzernya', 'kurang', 'akhirnya', 'pecah', 'kongsi']",NoBully,NoBully
+"['opini', 'gblk', 'manusia', 'tertolol', 'adalah', 'ketika', 'lu', 'ngatain', 'caper', 'sus', 'member', 'yg', 'udh', 'di', 'anggap', 'do', 'teman', 'seumur', 'hidup', 'masih', 'ingat', 'bgt', 'gua', 'ada', 'yg', 'ngatain', 'member', 'gitu', 'sarap', 'emang']",Bully,Bully
+"['semoga', 'anak', 'ini', 'tidak', 'doyan', 'bokep', 'seperti', 'bapaknya']",NoBully,NoBully
+"['sarap', 'kurutin', 'ni', 'iya']",NoBully,NoBully
+"['sarap', 'suntukin', 'eh']",NoBully,NoBully
+"['beh', 'sarap', 'ibulsa', 'ni', 'sehun', 'ðÿ']",NoBully,NoBully
+"['innalillahi', 'wainnailaihi', 'rojiun', 'semoga', 'para', 'korban', 'kecelakaan', 'bawen', 'husnul', 'khotimah']",NoBully,NoBully
+"['mmbuat', 'sungai', 'sluruh', 'diindonesi', 'dtutup', 'kain', 'waringðÿðÿðÿðÿ']",NoBully,NoBully
+"['sma', 'aja', 'kyak', 'luklo', 'ly', 'pergi', 'kepasartrus', 'lu', 'kebelet', 'berakn', 'ga', 'dpat', 'wcelu', 'jng', 'akan', 'gtuðÿðÿðÿ']",NoBully,NoBully
+"['ang', 'sarap', 'ibulsa', 'ðÿðÿðÿ']",NoBully,NoBully
+"['sarap', 'open', 'tenant', 'sejuta', 'wkkwkwkw']",NoBully,NoBully
+"['ya', 'allah', 'takut', 'bgt', 'td', 'dpt', 'driver', 'sarap', 'ðÿ', 'astaghfirullah', 'si', 'bpk', 'nya', 'knp', 'dah', 'orgnya', 'kek', 'rada', 'sakit', 'jiwa', 'kok', 'msh', 'bs', 'nge', 'grab', 'ðÿ', 'takut', 'bgt', 'pas', 'turun', 'blg', 'makasih', 'sayang', 'ke', 'gw', 'ðÿðÿ', 'knp', 'sih', 'gak', 'ada', 'menu', 'blokir', 'driver', 'di', 'apk', 'grab', 'pdhl', 'butuh', 'bgt', 'buat', 'ngehindarin', 'hal', 'kyk', 'gini']",NoBully,NoBully
+"['ini', 'woy', 'gila', 'bayangin', 'lu', 'berduaan', 'ama', 'mayat', 'di', 'dalem', 'pesawat', 'gmn', 'mau', 'kabur', 'bjir', 'mana', 'lu', 'dikira', 'gila', 'trs', 'diiket', 'didepan', 'mayat', 'persis', 'emg', 'sarapðÿðÿ']",NoBully,NoBully
+"['udah', 'sarap', 'belum', 'cil']",NoBully,NoBully
+"['sarap', 'di', 'lostkeun', 'kitu', 'anying']",NoBully,NoBully
+"['sarap', 'sumpain']",NoBully,NoBully
+"['sarap', 'lomi']",NoBully,NoBully
+"['sarap', 'ibulsaðÿ']",NoBully,NoBully
+"['sarap', 'nyan', 'keanu']",NoBully,NoBully
+"['udah', 'malem', 'mah', 'dinner', 'knp', 'sarap']",NoBully,NoBully
+"['sarif', 'sarap', 'dah', 'gt', 'aja']",NoBully,NoBully
+"['sarap', 'donat', 'mau']",NoBully,NoBully
+"['sarap', 'dlu', 'sa']",NoBully,NoBully
+"['âœëâ', 'ððšððððšð', 'âšëšâšâ', 'cute', 'ni', 'bambam', 'sarap', 'gawing', 'keychain', 'ðÿ', 'bambam', 'solo', 'concert', 'in', 'mnl']",NoBully,NoBully
+"['sarap', 'kurutin', 'ðÿ']",NoBully,NoBully
+"['ha', 'sembarangan', 'nuduh', 'goblok', 'emang', 'si', 'sarap', 'punya', 'yg', 'buat', 'goblok', 'ðÿðÿðÿ']",Bully,Bully
+"['sarap', 'dlu', 'teh']",NoBully,NoBully
+"['mimpi', 'tolol', 'klub', 'miskin', 'minimal', 'bayar', 'lah', 'pemain', 'city', 'cancelo', 'dan', 'ferran']",Bully,Bully
+"['tololsiapa', 'coba', 'ayo']",NoBully,NoBully
+['bercyandaâbercyanda'],NoBully,NoBully
+"['gebleg', 'knp', 'aing', 'mimpiin', 'brondong', 'tolol', 'bgt', 'manusia', 'ini']",NoBully,NoBully
+"['ini', 'lebih', 'baik', 'dan', 'harganya', 'jelassehingga', 'bagi', 'orang', 'yg', 'akan', 'makan', 'bisa', 'mengetahui', 'harganya', 'dan', 'ga', 'takut', 'ditembakatau', 'jika', 'ada', 'kader', 'partai', 'yg', 'sok', 'tau', 'dan', 'memviralkan', 'warung', 'ini', 'maka', 'dia', 'kader', 'tolol', 'seperti', 'kasus', 'yg', 'pernah', 'ada', 'di', 'rest', 'area']",Bully,Bully
+"['gak', 'usah', 'nunggu', 'uji', 'coba', 'dan', 'pembuktian', 'secara', 'hitungan', 'ekonomis', 'penumpang', 'juga', 'udah', 'keliatan', 'perbandingannya', 'dr', 'kemaren', 'udah', 'bnyk', 'pakar', 'yg', 'bicara', 'soal', 'ini', 'lha', 'objective', 'kcic', 'jg', 'gk', 'jelas', 'buang', 'duit', 'doang', 'proyek', 'tolol', 'atau', 'ngawur']",NoBully,NoBully
+"['aku', 'pernah', 'di', 'rl', 'ketemu', 'cowok', 'kaya', 'gitu', 'ih', 'nangis', 'gw', 'mah', 'udah', 'dijauhin', 'tp', 'karena', 'kerjasama', 'di', 'tempat', 'ojt', 'hrs', 'komunikasi', 'gitu', 'tolol', 'cowoknya', 'dikira', 'bagus', 'apa', 'kaya', 'gitu', 'ðÿ', 'sampe', 'merinding', 'akhirnya', 'gw', 'sakit', 'utg', 'gw', 'keluar', 'duluan', 'gegara', 'sakit', 'ga', 'nyambung', 'sakitnya', 'tp', 'bisa', 'alasan']",Bully,Bully
+"['taklid', 'buta', 'itu', 'adalah', 'yg', 'manggutâ', 'aja', 'saat', 'junjungannya', 'bilang', 'tegak', 'lurus', 'bersama', 'mukidi', 'melanjutkan', 'program', 'mukidi', 'tolol', 'banget', 'kan', 'tuh', 'buihnya', 'wowo']",NoBully,NoBully
+"['bukan', 'masalah', 'percaya', 'rumor', 't', 'pi', 'tae', 'pasti', 'baklan', 'date', 'sama', 'cewek', 'ga', 'bakalan', 'sama', 'cowok', 'anjing', 'memang', 'mereka', 'yang', 'tolol', 'ngatain', 'tolol', 'bilang', 'tae', 'dating', 'women', 'tuh', 'langsung', 'pada', 'tantrum', 'jekicot', 'dating', 'bongo']",Bully,Bully
+"['ini', 'bajingan', 'tolol', 'dongo', 'banget', 'emang', 'nya', 'di', 'dunia', 'ini', 'rocky', 'gerung', 'doang', 'contoh', 'ibu', 'kau', 'itu', 'kan', 'pelacur', 'kampung', 'kan', 'namanya', 'pelacur', 'kampung', 'banyakbukan', 'ibu', 'mu', 'doang', 'tul', 'gak', 'nyet']",Bully,Bully
+"['muslim', 'orangâislam', 'ktpk', 'include', 'cebongkadrunpresidenmenterikoruptorpolitikus', 'dl', 'gmn', 'lo', 'bedakan', 'cebongkadrunmuslim', 'bottolol', 'mu', 'tampak', 'kan', 'ðÿðÿðÿ']",NoBully,NoBully
+"['masaallah', 'amin', 'semoga', 'para', 'bajingan', 'tolol', 'sadar', 'ya']",Bully,Bully
+"['intinya', 'sorry', 'udh', 'samasama', 'bikin', 'kecewa', 'wkwkwk', 'tolol', 'ah', 'bego']",NoBully,NoBully
+"['pantes', 'aja', 'gampang', 'luluh', 'udah', 'naksir', 'duluan', 'dari', 'bocil', 'ðÿ', 'mungkin', 'kalo', 'lo', 'diselingkuhi', 'nantinya', 'bakal', 'ngasih', 'maaf', 'kali', 'ya', 'cinta', 'emang', 'bikin', 'tolol']",Bully,Bully
+['tolol'],NoBully,Bully
+"['ntar', 'ada', 'orang', 'yg', 'bunuh', 'lu', 'soalnya', 'kesel', 'krn', 'lu', 'tolol']",Bully,Bully
+"['lah', 'emg', 'bayi', 'kerjaannya', 'nangis', 'bego', 'gimana', 'sih', 'lu', 'terus', 'lu', 'mau', 'dia', 'diem', 'trus', 'yang', 'ad', 'bisa', 'jdi', 'bayi', 'nya', 'bisu', 'tolol']",NoBully,NoBully
+"['lagian', 'sistem', 'baru', 'anj', 'tolol', 'ribet', 'bgt', 'kntl', 'pake', 'nuker', 'segala']",NoBully,NoBully
+"['jeh', 'tolol', 'mknya', 'kl', 'blm', 'siap', 'punya', 'anak', 'kontrol', 'tu', 'napsu', 'lu']",Bully,Bully
+"['mama', 'gigi', 'tapi', 'versi', 'tukang', 'jualan', 'jamu']",NoBully,NoBully
+"['twit', 'tolol', 'ðÿ', 'sejak', 'kapan', 'kepemimpinan', 'nasional', 'ditentukan', 'oleh', 'elitelit', 'politik']",NoBully,NoBully
+"['tag', 'aja', 'akun', 'twitter', 'si', 'mbak', 'tolol', 'ini', 'kesini', 'ada', 'yg', 'tau']",NoBully,NoBully
+"['gua', 'mutermuter', 'kayak', 'org', 'tolol', 'anjing', 'kayaknye', 'efek', 'earring', 'ðÿ']",NoBully,NoBully
+"['nanti', 'ngemis', 'ngemis', 'minta', 'di', 'kasihanin', 'si', 'supir', 'truck', 'tolol']",NoBully,NoBully
+"['ih', 'tolol', 'ngerepotin', 'aja']",NoBully,NoBully
+"['wkwkwkwkw', 'akun', 'palsu', 'kalo', 'kalian', 'ketipu', 'sama', 'akun', 'ini', 'kalian', 'tolol', 'maksimal']",NoBully,NoBully
+"['kadroen', 'sepertimu', 'mana', 'ada', 'pintarnya', 'yg', 'ada', 'goblok', 'permanen', 'dikitâ', 'bicara', 'hutang', 'mana', 'ada', 'negara', 'gak', 'hutang', 'hutang', 'selama', 'penggunaan', 'jelas', 'untuk', 'infrastruktur', 'produktip', 'amp', 'kemajuan', 'negara', 'apa', 'salahnya', 'terpenting', 'tdk', 'melanggar', 'u', 'jadi', 'orang', 'pinter', 'dikit', 'jangan', 'tolol', 'goblok']",Bully,Bully
+"['wkwkwk', 'biarin', 'si', 'di', 'luar', 'fakta', 'permasalahannya', 'gmna', 'lucu', 'liat', 'orng', 'tolol', 'bgini']",Bully,Bully
+"['maaf', 'ya', 'terpaksa', 'sy', 'sebut', 'kamu', 'itu', 'bodoh', 'amp', 'tolol', 'dikasih', 'kesempatan', 'hidup', 'utk', 'merubah', 'takdir', 'tapi', 'kau', 'nggak', 'mau', 'bagus', 'kamu', 'mati', 'saja', 'dulu', 'ketika', 'dilahirkan', 'toh', 'ketetapanmu', 'dilahirkan', 'dlm', 'keadaan', 'kafir']",Bully,Bully
+"['banyak', 'pembenci', 'anies', 'yg', 'merendahkan', 'kampus', 'tetapi', 'pada', 'kenyataannya', 'dia', 'mati', 'matian', 'menyekolahkan', 'anaknya', 'ke', 'kampus', 'itulah', 'kemunafikan', 'yg', 'tolol']",NoBully,NoBully
+"['kameramen', 'tolol']",Bully,Bully
+"['kan', 'emng', 'definisi', 'tolol', 'ya', 'gituðÿðÿ']",NoBully,NoBully
+"['samasy', 'dulu', 'juga', 'pendukung', 'pak', 'ps', 'tetapi', 'itu', 'dulu', 'dulu', 'pun', 'krn', 'ada', 'bang', 'sandinya', 'sekarang', 'mah', 'ogah', 'hidup', 'amin', 'âœšï']",NoBully,NoBully
+"['ketika', 'pulau', 'rempang', 'sedang', 'berduka', 'kedua', 'orang', 'in', 'dan', 'kemana', 'aja', 'kok', 'hilang', 'bagaikan', 'di', 'telan', 'bumi', 'apa', 'udah', 'di', 'kubur', 'masih', 'ngepet', 'pindah', 'cari', 'sasaran', 'lain', 'untuk', 'bisnis', 'investorx', 'cobak', 'tanya', 'sama', 'bajingan', 'tolol', 'itu']",Bully,Bully
+"['tuk', 'apa', 'gamonin', 'orang', 'tolol', 'ya', 'gak', 'bilang', 'sayang', 'tapi', 'gada', 'effort', 'sama', 'sekali', 'bisanya', 'ninggalin', 'doang', 'makan', 'tuh', 'sayang']",NoBully,NoBully
+"['muka', 'nya', 'aja', 'keliatan', 'kek', 'orang', 'tolol']",Bully,Bully
+['tolol'],Bully,Bully
+"['lu', 'bilang', 'lagian', 'klo', 'bnr', 'apa', 'salah', 'tae', 'dating', 'sama', 'cewek', 'gw', 'jawab', 'ga', 'ada', 'yg', 'salah', 'dia', 'mau', 'dating', 'sm', 'siapa', 'aja', 'kalau', 'emg', 'dikonfirmasi', 'belajar', 'bahasa', 'indonesia', 'dan', 'analisis', 'kalimat', 'yg', 'bener', 'sebelum', 'ngatain', 'orang', 'lain', 'yg', 'tolol', 'malu']",NoBully,NoBully
+['tolol'],Bully,Bully
+"['mampus', 'dibully', 'tolol', 'sih']",Bully,Bully
+"['manusia', 'manusia', 'tolol']",Bully,Bully
+"['bulan', 'lagi', 'kamu', 'akan', 'tetap', 'dungu', 'dan', 'menyandang', 'gelar', 'bajingan', 'tolol', 'ðÿ']",Bully,Bully
+['tolol'],Bully,Bully
+"['ada', 'orang', 'tolol', 'ngatain', 'orang', 'lain', 'tolol', 'itu', 'konsepnya', 'gimana', 'ya']",NoBully,NoBully
+"['inilah', 'knp', 'alasan', 'utk', 'jgn', 'biarkan', 'orang', 'bodohtololgoblok', 'berkembang', 'biak']",Bully,Bully
+"['famplat', 'apaan', 'tolol']",Bully,Bully
+['tolol'],Bully,Bully
+"['tolol', 'bangsat', 'ðÿ']",Bully,Bully
+"['ortu', 'lu', 'dientot', 'sama', 'anjq', 'kayanyalahirlah', 'lu', 'ini', 'yg', 'otak', 'nya', 'tolol']",Bully,Bully
+"['dongo', 'cari', 'uang', 'halal', 'ngerti', 'gak', 'benar', 'bajingan', 'tolol', 'nih', 'orang']",Bully,Bully
+"['terus', 'dna', 'presiden', 'yg', 'dulu', 'bukan', 'dna', 'nya', 'nabi', 'adam', 'apakah', 'nabi', 'adam', 'dr', 'jawa', 'juga', 'tolol']",NoBully,NoBully
+"['pertanyaan', 'tolol', 'inimah']",NoBully,NoBully
+"['lo', 'aja', 'ganti', 'klub', 'sana', 'pemain', 'cidera', 'orang', 'awal', 'musim', 'masalah', 'glazer', 'masalah', 'sancho', 'masalah', 'antony', 'mau', 'greenwood', 'tapi', 'malah', 'dipinjemin', 'gara', 'diprotes', 'sama', 'sjw', 'gausah', 'tolol', 'jadi', 'fans']",NoBully,NoBully
+"['namanya', 'juga', 'orang', 'tolol']",Bully,Bully
+"['lu', 'aja', 'yang', 'tolol', 'ajigbanyak', 'info', 'tapi', 'gak', 'mau', 'baca', 'ya', 'susah']",Bully,Bully
+"['benci', 'bgt', 'kalo', 'diri', 'sendiri', 'udah', 'bucin', 'bukan', 'lucu', 'malah', 'tolol']",NoBully,NoBully
+"['ya', 'gmn', 'ga', 'gw', 'ngetik', 'lol', 'orang', 'lu', 'tololðÿ', 'dibilang', 'gw', 'ga', 'heran', 'kl', 'lu', 'bilang', 'sering', 'soalnya', 'lu', 'jg', 'kremyðÿ']",Bully,Bully
+"['anak', 'siapa', 'sih', 'yang', 'lagi', 'kalian', 'lindungi', 'korban', 'sampai', 'buta', 'loh', 'tolol', 'amat', 'kalo', 'sampe', 'kasus', 'ini', 'hilang', 'gitu', 'aja']",NoBully,NoBully
+"['mana', 'pada', 'percaya', 'aja', 'lagi', 'wkwk', 'tolol', 'bgt', 'ni', 'fandom', 'liat', 'aja', 'tu', 'editan', 'burik', 'dipercaya']",NoBully,NoBully
+"['kasian', 'bgt', 'bayinya', 'punya', 'keluarga', 'manusia', 'tolol']",Bully,Bully
+"['slang', 'sek', 'i', 'kito', 'pom', 'belanar', 'kokna', 'tkhabis', 'nok', 'guno', 'budok', 'i', 'jah', 'duk', 'sibuk', 'guno', 'slang', 'sek', 'dio', 'sibuk', 'doh', 'duk', 'claim', 'oyak', 'kito', 'suko', 'guno', 'slang', 'pok', 'i', 'dio', 'dio', 'tktahu', 'ko', 'kito', 'ni', 'multi', 'universe', 'lagu', 'mano', 'dio', 'kecek', 'lagutu', 'la', 'kito', 'kecek', 'bukenyo', 'kih', 'kito', 'suko', 'tolol', 'banyok', 'eh', 'ðÿ']",NoBully,NoBully
+"['keseringan', 'yang', 'ngomong', 'keseringan', 'yg', 'tolol', 'justruðÿ', 'org', 'ninggalin', 'stage', 'cm', 'x', 'selama', 'tour', 'sisanya', 'benerin', 'mic', 'trouble', 'doang', 'dan', 'lanjut', 'perform', 'dgn', 'baik', 'wkwk', 'ga', 'heran', 'gw', 'lo', 'bilang', 'sering', 'soalnya', 'lu', 'jg', 'kremyðÿ']",NoBully,NoBully
+"['mana', 'nih', 'lonte', 'tolol', 'yg', 'mahu', 'di', 'siksa', 'smpe', 'jdi', 'tolol', 'beneran']",Bully,Bully
+"['kontol', 'tolol', 'manusia', 'babi']",Bully,Bully
+"['bocah', 'tolol']",Bully,Bully
+"['jiah', 'males', 'gue', 'jadinya', 'gak', 'bersyukur', 'lu', 'jadi', 'manusia', 'exol', 'kurang', 'apa', 'buat', 'dukung', 'do', 'lu', 'sendiri', 'udah', 'ngapain', 'aja', 'sampe', 'ngetweet', 'kayak', 'gitu', 'ckck', 'tolol']",NoBully,NoBully
+"['tolol', 'si', 'makanya', 'dimanfaatin', 'ðÿðÿðÿðÿðÿðÿðÿðÿðÿðÿðÿðÿbong', 'e', 'bong', 'pecinta', 'denbokep', 'emang', 'tolol']",Bully,Bully
+"['orangnya', 'kemana', 'ya', 'ko', 'ga', 'nongol', 'udah', 'mati', 'kah', 'kalo', 'udah', 'mati', 'alhamdulillah', 'lah', 'ngurangin', 'orang', 'tolol']",Bully,Bully
+"['para', 'rezim', 'bandit', 'bangsat', 'tolol']",NoBully,NoBully
+"['oh', 'jelas', 'cewe', 'pintar', 'tidak', 'akan', 'memilih', 'cowo', 'tolol', 'kayak', 'lo']",Bully,Bully
+"['yg', 'jjur', 'kena', 'juga', 'tolol', 'matiin', 'rizky', 'jalan', 'usaha', 'orng', 'bngga']",NoBully,NoBully
+"['kades', 'dan', 'pejabat', 'kelurahan', 'sebetulnya', 'itu', 'representasi', 'suara', 'rakyat', 'namun', 'itu', 'harus', 'dilakukan', 'secara', 'adil', 'saat', 'mengambil', 'kesimpulan', 'aspirasi', 'warganya', 'karena', 'pasti', 'ada', 'pro', 'kontra', 'jgn', 'sampai', 'yg', 'kontra', 'teprovokasi', 'kelompok', 'bajingan', 'tolol', 'aman', 'deh']",NoBully,NoBully
+"['bajingan', 'tolol', 'mau', 'jelasin', 'apa', 'itu', 'komunis', 'hanya', 'orang', 'komunis', 'yg', 'bersemangat', 'menjelaskan', 'apa', 'itu', 'komunis', 'dongo', 'banget', 'nih', 'orang', 'kena', 'jebakan', 'batman', 'gwe']",Bully,Bully
+"['elo', 'cuma', 'bisa', 'copy', 'paste', 'kataânya', 'rocky', 'gerung', 'dasar', 'tolol', 'loe']",NoBully,NoBully
+"['jangan', 'iri', 'tolol', 'rezeki', 'dah', 'ada', 'yang', 'ngatur', 'masih', 'aja', 'iri', 'sama', 'rezeki', 'orang', 'ðÿ']",NoBully,NoBully
+"['tolol', 'ah', 'makanya', 'ga', 'usah', 'bikin', 'klo', 'denger', 'suara', 'tangisan', 'bayi', 'aja', 'ga', 'bisa']",NoBully,NoBully
+['tolol'],Bully,Bully
+"['khas', 'gaya', 'orang', 'tolollmenyanjung', 'nyanjung', 'anak', 'junjunganitu', 'kerja', 'kelompok', 'nyuukkkkrn', 'dia', 'anak', 'gubernur', 'maka', 'diikutsertakan']",NoBully,NoBully
+"['tinggal', 'repost', 'gak', 'bisa', 'garap', 'ini', 'istilahnya', 'apa', 'ya', 'ya', 'tolol']",NoBully,NoBully
+"['bodoh', 'tolol', 'anjing', 'bangsat', 'goblok', 'ucap', 'diriku', 'kpd', 'diriku']",NoBully,NoBully
+"['norak', 'lo', 'hal', 'ky', 'gini', 'aja', 'lo', 'banggain', 'tolol']",Bully,Bully
+"['gue', 'kira', 'becanda', 'taunya', 'serius', 'pure', 'tolol', 'brrt', 'ðÿ']",NoBully,NoBully
+"['ðÿðÿðÿbuzzerppki', 'munafik', 'bajingan', 'tolol', 'cebong', 'penjilat', 'bangsa', 'dua', 'kader', 'abubu', 'in', 'gk', 'bakalan', 'mengalahkan', 'pak', 'anis', 'karna', 'ganjar', 'masih', 'punya', 'kasus', 'korupsi', 'ktp', 'dan', 'wowok', 'para', 'pendukungx', 'udah', 'kecewa', 'munafik']",Bully,Bully
+"['makanya', 'di', 'kasih', 'label', 'âœtololâ']",NoBully,NoBully
+"['terlalu', 'menginjaknginjak', 'diri', 'gue', 'selalu', 'nganggep', 'gue', 'remeh', 'dan', 'selalu', 'ngejadiin', 'gue', 'sasaran', 'empuk', 'buat', 'mereka', 'tindas', 'brengsek', 'bajingan', 'tolol', 'manusia', 'pantek', 'itu']",NoBully,NoBully
+"['bangsat', 'baru', 'ijo', 'anjing', 'gausah', 'klakson', 'gak', 'bisa', 'naik', 'motor', 'belajar', 'dulu', 'anjing', 'tolol', 'bahayain', 'orang', 'anjing', 'rausah', 'ngebut', 'cok', 'berisik', 'knalpot', 'jamet', 'kabupaten', 'polisi', 'tidur', 'segede', 'ini', 'buat', 'apa', 'dah', 'ya', 'allah', 'kenapa', 'sih', 'orang', 'orang', 'bego', 'kaya', 'gini', 'dikasih', 'motor']",NoBully,Bully
+"['ga', 'mampu', 'bukan', 'nya', 'nanya', 'manusia', 'di', 'kasih', 'otak', 'untuk', 'digunain', 'manusia', 'di', 'kasih', 'akal', 'beda', 'sama', 'hewan', 'tolol']",Bully,Bully
+"['ini', 'memang', 'antara', 'internet', 'ap', 'pln', 'mbanking', 'yang', 'lagi', 'tolol', 'daritadi', 'nggak', 'bisa', 'beli', 'token']",NoBully,NoBully
+"['apa', 'si', 'tolol', 'ada', 'katakata', 'gua', 'kalo', 'gua', 'percayai', 'rumor', 'gua', 'cuman', 'ngetik', 'kenapa', 'kalo', 'tae', 'dating', 'sm', 'cewe', 'salah']",NoBully,NoBully
+"['idolnya', 'sama', 'sama', 'lg', 'sakit', 'dan', 'sama', 'sama', 'ga', 'terima', 'dikatain', 'dari', 'awal', 'udah', 'diingetin', 'dan', 'langsung', 'dihapus', 'emangnya', 'lu', 'clapback', 'merong', 'merong', 'trs', 'ngebiarin', 'repnya', 'tebar', 'hate', 'gue', 'lg', 'g', 'ngomongin', 'standard', 'lu', 'tolol']",NoBully,NoBully
+"['kalau', 'tolol', 'gak', 'usah', 'maen', 'futsal']",Bully,Bully
+"['minimal', 'nanya', 'goblok', 'kalo', 'gatau', 'bukan', 'malah', 'jadi', 'bikin', 'indo', 'di', 'ban', 'lu', 'tolol', 'punya', 'otak', 'ga', 'di', 'pake', 'komunitas', 'negara', 'india', 'mah', 'kompak', 'bukan', 'malah', 'cepuin', 'negara', 'sendiri', 'babi', 'gua', 'baru', 'garap', 'round', 'ini', 'kontol', 'lu', 'anjing']",Bully,Bully
+"['tau', 'dah', 'udah', 'bagus', 'mood', 'gw', 'nonton', 'jungkook', 'di', 'gcf', 'eh', 'muncul', 'si', 'tolol', 'lebih', 'percaya', 'editan', 'trs', 'ngatain', 'record', 'jelas', 'sbg', 'editan', 'apa', 'sih', 'yg', 'diharepin', 'dr', 'orang', 'yg', 'percaya', 'rumor', 'otaknya', 'aja', 'ga', 'kerja']",Bully,Bully
+"['udah', 'lama', 'cukup', 'tenang', 'ni', 'ada', 'aja', 'orang', 'tolol', 'muncul', 'di', 'fandom', 'grup', 'wkwkwk']",NoBully,NoBully
+"['anjg', 'tolol']",Bully,Bully
+"['aldo', 'lu', 'tolol', 'banget', 'dah']",Bully,Bully
+['tolol'],Bully,Bully
+"['makanya', 'baca', 'tolol', 'goblok', 'jadi', 'orang', 'udah', 'disediain', 'kalkulator', 'di', 'webnya', 'masih', 'aja', 'ga', 'ngerti', 'goblok', 'tolol']",Bully,Bully
+"['dasar', 'bajingan', 'tolol']",Bully,Bully
+"['ye', 'tolol', 'sp', 'juga', 'yang', 'di', 'goblokin', 'editan', 'gua', 'juga', 'tau', 'rep', 'yang', 'gua', 'ini', 'juga', 'editan', 'ðÿ', 'gua', 'cmn', 'pengen', 'klian', 'stop', 'ganggu', 'fbs', 'kth', 'aje']",NoBully,NoBully
+"['yg', 'milih', 'orang', 'tolol']",NoBully,NoBully
+['tolol'],Bully,Bully
+"['ini', 'opini', 'tolol', 'yg', 'biasa', 'bicara', 'tentang', 'demokrasi', 'otak', 'udang', 'sok', 'pandai', 'kadrun', 'bego']",NoBully,NoBully
+"['memangnya', 'ibukota', 'negara', 'harus', 'hiruk', 'pikuk', 'penuh', 'sesak', 'dengan', 'manusia', 'tolol', 'amat']",Bully,Bully
+"['bajingan', 'tolol']",Bully,Bully
+"['aku', 'kangen', 'orang', 'orang', 'tolol', 'di', 'gc', 'ini']",NoBully,NoBully
+"['makanya', 'liat', 'channel', 'tololðÿ']",Bully,Bully
+"['anak', 'cenderung', 'mengcopy', 'bpknya', 'kaäºau', 'anaknya', 'baik', 'berarti', 'bpknya', 'baik', 'kalau', 'anaknya', 'abal', 'bpknya', 'pasti', 'abal', 'juga', 'apakah', 'layak', 'yg', 'begini', 'mimpin', 'indonesia', 'hanya', 'org', 'tolol', 'amp', 'buta', 'yg', 'memilih', 'pemimpin', 'demikian']",NoBully,NoBully
+"['konten', 'tolol', 'beginian', 'tiap', 'hari', 'ada', 'terus']",NoBully,NoBully
+"['manusiawi', 'sih', 'tapi', 'yang', 'ngevideoin', 'ngga', 'sopan', 'juga', 'ðÿœ']",NoBully,NoBully
+['tolol'],Bully,Bully
+"['tolol', 'lu']",Bully,Bully
+"['they', 'did', 'great', 'job', 'better', 'than', 'that', 'tolol', 'cameraman']",NoBully,NoBully
+"['dasar', 'tolol', 'lo', 'gak', 'ligat', 'rempang', 'dan', 'tempat', 'lainnya', 'yg', 'havur', 'dirusak']",Bully,Bully
+"['kampung', 'banget', 'maennya', 'timnas', 'terjelek', 'yang', 'pernah', 'ada', 'secara', 'gameplay', 'udik']",Bully,Bully
+"['ish', 'manusia', 'udik', 'lo']",Bully,Bully
+"['aku', 'udik', 'bgt', 'ga', 'sih', 'klo', 'gatau', 'itu', 'apa']",Bully,Bully
+"['gile', 'okep', 'pgn', 'dilegalkan', 'mbok', 'udik', 'oon', 'kabina', 'bina', '馃槀馃槀']",Bully,Bully
+"['tidak', 'lain', 'tidak', 'bukan']",NoBully,Bully
+"['kak', 'udik']",NoBully,Bully
+"['ada', 'udik']",Bully,Bully
+"['mainan', 'nya', 'cuma', 'bokep', 'dan', 'bokep', 'udik']",Bully,Bully
+['betuludik'],Bully,Bully
